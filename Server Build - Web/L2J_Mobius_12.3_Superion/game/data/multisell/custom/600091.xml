@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22673" />
+	</item> <!-- Weapon Appearance Stone: One-handed Blunt Weapon -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22734" />
+	</item> <!-- Japanese Blunt Appearance Stone -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22675" />
+	</item> <!-- Emerald Weapon Appearance Stone: One-handed Magic Blunt Weapon -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22736" />
+	</item> <!-- Japanese Magic Blunt Appearance Stone -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="23211" />
+	</item> <!-- Drake Maul Appearance Stone -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="23212" />
+	</item> <!-- Freya's Staff Appearance Stone --> 
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="23219" />
+	</item> <!-- Tiat's Claw of Destruction Appearance Stone -->
+
+</list>

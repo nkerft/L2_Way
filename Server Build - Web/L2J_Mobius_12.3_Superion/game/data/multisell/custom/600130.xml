@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<!-- Armor Sets R110 -->
+
+	<item>
+	<!-- Adena -->
+	<ingredient count="150" id="23805" />
+	<production count="1" id="80236" />
+	<production count="1" id="80237" />
+	<production count="1" id="80238" />
+	<production count="1" id="80239" />
+	<production count="1" id="80235" />
+	<!-- Armor Set Heavy R110 -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="150" id="23805" />
+	<production count="1" id="80241" />
+	<production count="1" id="80242" />
+	<production count="1" id="80243" />
+	<production count="1" id="80244" />
+	<production count="1" id="80240" />
+	<!-- Armor Set Leather R110 -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="150" id="23805" />
+	<production count="1" id="80246" />
+	<production count="1" id="80247" />
+	<production count="1" id="80248" />
+	<production count="1" id="80249" />
+	<production count="1" id="80245" />
+	<!-- Armor Set Robe R110 -->
+	</item>
+
+</list>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+<item>
+	<!-- Lancet Character Card -->
+	<ingredient count="1" id="17304" />
+	<ingredient count="1" id="17305" />
+	<ingredient count="1" id="17306" />
+	<ingredient count="1" id="17307" />
+	<ingredient count="1" id="17308" />
+	<ingredient count="150" id="19217" />
+	<!-- Noble Pack -->
+	<production count="1" id="30289" />
+</item>
+<item>
+	<!-- Liposa Character Card -->
+	<ingredient count="1" id="17310" />
+	<ingredient count="1" id="17311" />
+	<ingredient count="1" id="17312" />
+	<ingredient count="1" id="17313" />
+	<ingredient count="1" id="17314" />
+	<ingredient count="150" id="19217" />
+	<!-- Noble Pack -->
+	<production count="1" id="30290" />
+</item>
+<item>
+	<!-- Velarin Character Card -->
+	<ingredient count="1" id="17315" />
+	<ingredient count="1" id="17316" />
+	<ingredient count="1" id="17317" />
+	<ingredient count="1" id="17318" />
+	<ingredient count="1" id="17319" />
+	<ingredient count="150" id="27526" />
+	<!-- Noble Pack -->
+	<production count="1" id="30291" />
+</item>
+
+</list>

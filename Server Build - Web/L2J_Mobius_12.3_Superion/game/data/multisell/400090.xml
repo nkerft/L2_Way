@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<npcs>
+		<npc>40008</npc> <!-- npc -->
+	</npcs>
+		<!-- Formal Wear -->
+		<item>
+			<ingredient id="57" count="100" />
+			<production id="91425" count="1" />
+		</item>
+		<item>
+			<ingredient id="57" count="100" />
+			<production id="91432" count="1" />
+		</item>
+		<item>
+			<ingredient id="57" count="100" />
+			<production id="91434" count="1" />
+		</item>
+		<item>
+			<ingredient id="57" count="100" />
+			<production id="91438" count="1" />
+		</item>
+		<item>
+			<ingredient id="57" count="100" />
+			<production id="91439" count="1" />
+		</item>
+		<item>
+			<ingredient id="57" count="100" />
+			<production id="91435" count="1" />
+		</item>
+		<item>
+			<ingredient id="57" count="100" />
+			<production id="81809" count="1" />
+		</item>
+		<!-- Homunculus  -->
+		<item>
+			<ingredient id="57" count="500" />
+			<production id="81815" count="1" />
+		</item>
+		<!-- Homunculus -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="81811" count="1" />
+		</item>
+		<!-- Homunculus -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="81810" count="1" />
+		</item>
+		<!-- Homunculus -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="81812" count="1" />
+		</item>
+		<!-- auras -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91444" count="1" />
+		</item>
+		<!-- auras -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91445" count="1" />
+		</item>
+		<!-- auras -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91446" count="1" />
+		</item>
+		<!-- auras -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91424" count="1" />
+		</item>
+		<!-- auras -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91429" count="1" />
+		</item>
+		<!-- auras -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91430" count="1" />
+		</item>
+		<!-- auras -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91431" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91500" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91501" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91502" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91503" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91505" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91506" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91507" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91508" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91510" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91511" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91512" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91513" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91514" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91515" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91516" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91517" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91518" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91520" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91521" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91522" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91523" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91525" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91526" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91527" count="1" />
+		</item>
+		<!-- antharas -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91528" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91367" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91465" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91303" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="91456" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="60034" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="60033" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="60032" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="60031" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="60030" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="60029" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="60028" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="60027" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="81139" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="81638" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="81637" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="81636" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="81635" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="81635" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="81639" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="81368" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="29209" count="1" />
+		</item>
+		<!-- apparencia -->
+		<item>
+			<ingredient id="57" count="1000" />
+			<production id="29208" count="1" />
+		</item>
+</list>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22671" />
+	</item> <!-- Emerald Weapon Appearance Stone: Bow -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22732" />
+	</item> <!-- Japanese Bow Appearance Stone -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="23934" />
+	</item> <!-- Tears Bow Appearance Stone ( 7 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22671" />
+	</item> <!-- Emerald Weapon Appearance Stone: Bow -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="36653" />
+	</item> <!-- Emerald Weapon Appearance Stone: Bow ( 7 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22671" />
+	</item> <!-- Emerald Weapon Appearance Stone: Bow ( 15 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37082" />
+	</item> <!-- Monster Weapon Appearance Stone: Kanadis' Bow -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37083" />
+	</item> <!-- Monster Weapon Appearance Stone: Centaur's Bow -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37838" />
+	</item> <!-- Valentine Appearance Stone: Bow ( 15 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37854" />
+	</item> <!-- Valentine Appearance Stone: Bow ( 30 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="38195" />
+	</item> <!-- Giant Crab Appearance Stone: Bow ( 30 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="38206" />
+	</item> <!-- Giant Crab Appearance Stone: Bow -->
+
+</list>

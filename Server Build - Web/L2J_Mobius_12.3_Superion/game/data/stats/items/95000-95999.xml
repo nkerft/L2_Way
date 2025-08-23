@@ -1,0 +1,1199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="95000" name="Freya's Dark Rune" type="EtcItem">
+		<!-- When stored in the inventory, PvP Damage +15%. Cannot be used in Olympiad. -->
+		<set name="is_clan_depositable" val="false" />
+		<set name="is_mailable" val="false" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_commissionable" val="false" />
+		<set name="is_private_storeable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="etcitem_type" val="ENCHT_ATTR_RUNE" />
+		<set name="immediate_effect" val="true" />
+		<skills>
+			<skill id="35029" level="1" /> <!-- Freya's Dark Rune -->
+			<skill id="18647" level="1" /> <!-- Freya's Bloody Rune -->
+			<skill id="18649" level="1" /> <!-- Freya's Vital Rune -->
+		</skills>
+	</item>
+	<item id="95001" name="Midgard COIN" type="EtcItem">
+		<set name="icon" val="icon.etc_adena_i00" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="1" />
+		<set name="is_commissionable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95002" name="MONSTER COIN" type="EtcItem">
+		<set name="icon" val="icon.etc_adena_i00" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="1" />
+		<set name="is_commissionable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_depositable" val="true" />
+		<set name="is_sellable" val="true" />
+	</item>
+	<item id="95003" name="Ticket WEAPON Midgard" type="EtcItem">
+		<set name="icon" val="icon.etc_adena_i00" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="1" />
+		<set name="is_commissionable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95004" name="Ticket ARMOR Midgard" type="EtcItem">
+		<set name="icon" val="icon.etc_adena_i00" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="1" />
+		<set name="is_commissionable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95005" name="Ticket JEWEL Midgard" type="EtcItem">
+		<set name="icon" val="icon.etc_adena_i00" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="1" />
+		<set name="is_commissionable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95006" name="Ticket EVENT Midgard" type="EtcItem">
+		<set name="icon" val="icon.etc_adena_i00" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="1" />
+		<set name="is_commissionable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_depositable" val="true" />
+		<set name="is_sellable" val="true" />
+	</item>
+	<item id="95007" name="DIMENCIONAL COIN Midgard" type="EtcItem">
+		<set name="icon" val="icon.etc_adena_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="1" />
+		<set name="is_commissionable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_depositable" val="true" />
+		<set name="is_sellable" val="true" />
+	</item>
+	<item id="95008" name="credit" type="EtcItem">
+		<!-- When stored in the inventory, PvP Damage +15%. Cannot be used in Olympiad. -->
+		<set name="is_clan_depositable" val="false" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="1" />
+		<set name="is_commissionable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_depositable" val="true" />
+		<set name="is_sellable" val="true" />		
+	</item>
+	<item id="95009" name="MIDGARD HERO TALISMAN" type="EtcItem">
+		<!-- When stored in the inventory, PvP Damage +15%. Cannot be used in Olympiad. -->
+		<set name="bodypart" val="deco1" />
+		<set name="is_clan_depositable" val="false" />
+		<set name="is_mailable" val="false" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_commissionable" val="false" />
+		<set name="is_private_storeable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="etcitem_type" val="ENCHT_ATTR_RUNE" />
+		<set name="immediate_effect" val="true" />
+		<skills>
+			<skill id="95009" level="1" type="ON_EQUIP" /> <!-- Equip Talisman - Infinity -->
+			<skill id="17979" level="1" type="ON_UNEQUIP" /> <!-- Unequip Talisman - Infinity -->
+			<skill id="35029" level="1" /> <!-- Freya's Dark Rune -->
+			<skill id="18647" level="1" /> <!-- Freya's Bloody Rune -->
+			<skill id="18649" level="1" /> <!-- Freya's Vital Rune -->
+		</skills>
+	</item>
+	<item id="95010" name="MIDGARD COC TALISMAN" type="EtcItem">
+		<!-- When stored in the inventory, PvP Damage +15%. Cannot be used in Olympiad. -->
+		<set name="bodypart" val="deco1" />
+		<set name="is_clan_depositable" val="false" />
+		<set name="is_mailable" val="false" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_commissionable" val="false" />
+		<set name="is_private_storeable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="etcitem_type" val="ENCHT_ATTR_RUNE" />
+		<set name="immediate_effect" val="true" />
+		<skills>
+			<skill id="95010" level="1" type="ON_EQUIP" /> <!-- Equip Talisman - Infinity -->
+			<skill id="17979" level="1" type="ON_UNEQUIP" /> <!-- Unequip Talisman - Infinity -->
+			<skill id="35029" level="1" /> <!-- Freya's Dark Rune -->
+			<skill id="18647" level="1" /> <!-- Freya's Bloody Rune -->
+			<skill id="18649" level="1" /> <!-- Freya's Vital Rune -->
+		</skills>
+	</item>
+	<item id="95011" name="MIDGARD GOG TALISMAN" type="EtcItem">
+		<!-- When stored in the inventory, PvP Damage +15%. Cannot be used in Olympiad. -->
+		<set name="bodypart" val="deco1" />
+		<set name="is_clan_depositable" val="false" />
+		<set name="is_mailable" val="false" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_commissionable" val="false" />
+		<set name="is_private_storeable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="etcitem_type" val="ENCHT_ATTR_RUNE" />
+		<set name="immediate_effect" val="true" />
+		<skills>
+			<skill id="95011" level="1" type="ON_EQUIP" /> <!-- Equip Talisman - Infinity -->
+			<skill id="17979" level="1" type="ON_UNEQUIP" /> <!-- Unequip Talisman - Infinity -->
+			<skill id="35029" level="1" /> <!-- Freya's Dark Rune -->
+			<skill id="18647" level="1" /> <!-- Freya's Bloody Rune -->
+			<skill id="18649" level="1" /> <!-- Freya's Vital Rune -->
+		</skills>
+	</item>
+	<item id="95012" name="Antharas Transformation Costume" type="Armor">
+		<!-- NPC only costume -->
+		<set name="icon" val="icon.valkyrie_chest_change_0" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="95013" name="Antharas Transformation Costume" type="Armor">
+		<!-- NPC only costume -->
+		<set name="icon" val="icon.valkyrie_chest_change_0" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="95014" name="Antharas Transformation Costume" type="Armor">
+		<!-- NPC only costume -->
+		<set name="icon" val="icon.valkyrie_chest_change_0" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="95015" name="Antharas Transformation Costume" type="Armor">
+		<!-- NPC only costume -->
+		<set name="icon" val="icon.valkyrie_chest_change_0" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="95016" name="Antharas Transformation Costume" type="Armor">
+		<!-- NPC only costume -->
+		<set name="icon" val="icon.valkyrie_chest_change_0" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="95017" name="Antharas Transformation Costume" type="Armor">
+		<!-- NPC only costume -->
+		<set name="icon" val="icon.valkyrie_chest_change_0" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="95018" name="Antharas Transformation Costume" type="Armor">
+		<!-- NPC only costume -->
+		<set name="icon" val="icon.valkyrie_chest_change_0" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="95019" name="Antharas Transformation Costume" type="Armor">
+		<!-- NPC only costume -->
+		<set name="icon" val="icon.valkyrie_chest_change_0" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="95020" name="Antharas Transformation Costume" type="Armor">
+		<!-- NPC only costume -->
+		<set name="icon" val="icon.valkyrie_chest_change_0" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="95021" name="Antharas Transformation Costume" type="Armor">
+		<!-- NPC only costume -->
+		<set name="icon" val="icon.valkyrie_chest_change_0" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="95022" name="Antharas Transformation Costume" type="Armor">
+		<!-- NPC only costume -->
+		<set name="icon" val="icon.valkyrie_chest_change_0" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="95023" name="Antharas Transformation Costume" type="Armor">
+		<!-- NPC only costume -->
+		<set name="icon" val="icon.valkyrie_chest_change_0" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="95725" name="Frost Lord Sword" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_sword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="ONE_HAND_SWORD" />
+		<stats>
+			<stat type="pAtk">509</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">35</stat>
+			<stat type="pAtkSpd">150</stat>
+			<stat type="randomDamage">15</stat>
+			<stat type="pAtkRange">50</stat>
+			<stat type="firePower">999</stat>
+		</stats>
+	</item>
+	<item id="95726" name="Frost Lord Two-Handed Sword" type="Weapon">
+		<!-- A Zariche weapon stained with the madness of blood. PvP Damage +30%, Max HP/ MP/ CP +30%, Atk. Spd. +30%, P. Critical Rate +100, P. Skill Critical Rate +30%, P. Skill Critical Damage +30%. Enables the Soul's Insanity, Soul's Confinement, and Soul's Release skills. Max HP can increase up to 150,000. Its appearance cannot be changed. Cannot be assigned an attribute, crystallized, augmented, or enchanted. You can insert 1 special Soul Crystal. -->
+		<set name="icon" val="icon.frozen_weapon_sword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="TWO_HAND_SWORD" />
+		<stats>
+			<stat type="pAtk">509</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">36</stat>
+			<stat type="accCombat">30</stat>
+			<stat type="pAtkSpd">150</stat>
+			<stat type="randomDamage">30</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="95727" name="Frost Lord Axe" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_blunt" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="BLUNT_WEAPON" />
+		<stats>
+			<stat type="pAtk">609</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">30</stat>
+			<stat type="accCombat">18</stat>
+			<stat type="pAtkSpd">159</stat>
+			<stat type="randomDamage">40</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="95728" name="Frost Lord Dagger" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_dagger" />
+		<set name="bodypart" val="rhand" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="DAGGER" />
+		<stats>
+			<stat type="pAtk">608</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">50</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">153</stat>
+			<stat type="randomDamage">35</stat>
+			<stat type="pAtkRange">60</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="95729" name="Frost Lord Spear" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_pole" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="POLE" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="SPEAR" />
+		<stats>
+			<stat type="pAtk">509</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">18</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">155</stat>
+			<stat type="randomDamage">35</stat>
+			<stat type="pAtkRange">40</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="95730" name="Frost Lord Bow" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_bow" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BOW" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="BOW" />
+		<stats>
+			<stat type="pAtk">793</stat>
+			<stat type="mAtk">452</stat>
+			<stat type="rCrit">80</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">193</stat>
+			<stat type="randomDamage">55</stat>
+			<stat type="pAtkRange">70</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="95731" name="Frost Lord's Blade Fists" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_dualfist" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="FIST_WEAPON" />
+		<stats>
+			<stat type="pAtk">584</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">16</stat>
+			<stat type="accCombat">18</stat>
+			<stat type="pAtkSpd">125</stat>
+			<stat type="randomDamage">15</stat>
+			<stat type="pAtkRange">40</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="95732" name="Frost Lord Magic" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_staff" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="TWO_HAND_MAGIC_BLUNT_WEAPON" />
+		<stats>
+			<stat type="pAtk">258</stat>
+			<stat type="mAtk">500</stat>
+			<stat type="rCrit">16</stat>
+			<stat type="accCombat">28</stat>
+			<stat type="accMagic">40</stat>
+			<stat type="pAtkSpd">140</stat>
+			<stat type="randomDamage">30</stat>
+			<stat type="pAtkRange">30</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="95733" name="Frost Lord Staff" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_two_hand_staff" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="ONE_HAND_MAGIC_BLUNT_WEAPON" />
+		<stats>
+			<stat type="pAtk">558</stat>
+			<stat type="mAtk">600</stat>
+			<stat type="rCrit">16</stat>
+			<stat type="accCombat">28</stat>
+			<stat type="accMagic">40</stat>
+			<stat type="pAtkSpd">140</stat>
+			<stat type="randomDamage">30</stat>
+			<stat type="pAtkRange">30</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="95734" name="Frost Lord Ancient Sord" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_ancientsword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="TWO_HAND_SWORD" />
+		<stats>
+			<stat type="pAtk">500</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">38</stat>
+			<stat type="pAtkSpd">100</stat>
+			<stat type="randomDamage">30</stat>
+			<stat type="pAtkRange">30</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="95735" name="Frost Lord's Rapier" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_rapier" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="RAPIER" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="RAPIER" />
+		<stats>
+			<stat type="pAtk">500</stat>
+			<stat type="mAtk">382</stat>
+			<stat type="rCrit">30</stat>
+			<stat type="accCombat">28</stat>
+			<stat type="pAtkSpd">106</stat>
+			<stat type="randomDamage">25</stat>
+			<stat type="pAtkRange">60</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="95737" name="Frost Lord Dual Sord" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_dual_sword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="DUALSWORD" />
+		<stats>
+			<stat type="pAtk">500</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">48</stat>
+			<stat type="pAtkSpd">150</stat>
+			<stat type="randomDamage">30</stat>
+			<stat type="pAtkRange">30</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="96927" name="Fire Lord Axe" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_blunt" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="BLUNT_WEAPON" />
+		<stats>
+			<stat type="pAtk">609</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">30</stat>
+			<stat type="accCombat">18</stat>
+			<stat type="pAtkSpd">159</stat>
+			<stat type="randomDamage">40</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="96928" name="Fire Lord Two-Handed Sword" type="Weapon">
+		<!-- A Zariche weapon stained with the madness of blood. PvP Damage +30%, Max HP/ MP/ CP +30%, Atk. Spd. +30%, P. Critical Rate +100, P. Skill Critical Rate +30%, P. Skill Critical Damage +30%. Enables the Soul's Insanity, Soul's Confinement, and Soul's Release skills. Max HP can increase up to 150,000. Its appearance cannot be changed. Cannot be assigned an attribute, crystallized, augmented, or enchanted. You can insert 1 special Soul Crystal. -->
+		<set name="icon" val="icon.frozen_weapon_sword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="TWO_HAND_SWORD" />
+		<stats>
+			<stat type="pAtk">509</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">36</stat>
+			<stat type="accCombat">30</stat>
+			<stat type="pAtkSpd">150</stat>
+			<stat type="randomDamage">30</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="96929" name="Fire Lord Magic" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_staff" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="TWO_HAND_MAGIC_BLUNT_WEAPON" />
+		<stats>
+			<stat type="pAtk">258</stat>
+			<stat type="mAtk">500</stat>
+			<stat type="rCrit">16</stat>
+			<stat type="accCombat">28</stat>
+			<stat type="accMagic">40</stat>
+			<stat type="pAtkSpd">140</stat>
+			<stat type="randomDamage">30</stat>
+			<stat type="pAtkRange">30</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="96930" name="Fire Lord's Blade Fists" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_dualfist" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="FIST_WEAPON" />
+		<stats>
+			<stat type="pAtk">584</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">16</stat>
+			<stat type="accCombat">18</stat>
+			<stat type="pAtkSpd">125</stat>
+			<stat type="randomDamage">15</stat>
+			<stat type="pAtkRange">40</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="96932" name="Fire Lord's Rapier" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_rapier" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="RAPIER" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="RAPIER" />
+		<stats>
+			<stat type="pAtk">500</stat>
+			<stat type="mAtk">382</stat>
+			<stat type="rCrit">30</stat>
+			<stat type="accCombat">28</stat>
+			<stat type="pAtkSpd">106</stat>
+			<stat type="randomDamage">25</stat>
+			<stat type="pAtkRange">60</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="96933" name="Fire Lord Staff" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_two_hand_staff" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="ONE_HAND_MAGIC_BLUNT_WEAPON" />
+		<stats>
+			<stat type="pAtk">558</stat>
+			<stat type="mAtk">600</stat>
+			<stat type="rCrit">16</stat>
+			<stat type="accCombat">28</stat>
+			<stat type="accMagic">40</stat>
+			<stat type="pAtkSpd">140</stat>
+			<stat type="randomDamage">30</stat>
+			<stat type="pAtkRange">30</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="96934" name="Fire Lord CrossBow" type="Weapon">
+		<set name="icon" val="icon.weapon_lind_crossbow_i01" />
+		<set name="is_dragon_weapon" val="true" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="TWOHANDCROSSBOW" />
+		<set name="crystal_type" val="R" />
+		<set name="bodypart" val="lrhand" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1580" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="reuse_delay" val="1350" />
+		<set name="is_sellable" val="false" />
+		<set name="equip_reuse_delay" val="300" />
+		<stats>
+			<stat type="pAtk">793</stat>
+			<stat type="mAtk">452</stat>
+			<stat type="rCrit">80</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">193</stat>
+			<stat type="randomDamage">55</stat>
+			<stat type="pAtkRange">70</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="96935" name="Fire Lord Dagger" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_dagger" />
+		<set name="bodypart" val="rhand" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="DAGGER" />
+		<stats>
+			<stat type="pAtk">608</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">50</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">153</stat>
+			<stat type="randomDamage">35</stat>
+			<stat type="pAtkRange">60</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="96936" name="Fire Lord Shiled" type="Weapon">
+		<!-- Changes a shield's appearance to that of Eigis. -->
+		<set name="icon" val="icon.weapon_aka_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="FIST" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="R99" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="rShld">40</stat>
+			<stat type="sDef">606</stat>
+		</stats>
+	</item>
+	<item id="96938" name="Fire Lord Ancient Sord" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_ancientsword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="TWO_HAND_SWORD" />
+		<stats>
+			<stat type="pAtk">500</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">38</stat>
+			<stat type="pAtkSpd">100</stat>
+			<stat type="randomDamage">30</stat>
+			<stat type="pAtkRange">30</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="96939" name="Fire Lord Spear" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_pole" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="POLE" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="SPEAR" />
+		<stats>
+			<stat type="pAtk">509</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">18</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">155</stat>
+			<stat type="randomDamage">35</stat>
+			<stat type="pAtkRange">40</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="96940" name="Fire Lord Bow" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_bow" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BOW" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="BOW" />
+		<stats>
+			<stat type="pAtk">793</stat>
+			<stat type="mAtk">452</stat>
+			<stat type="rCrit">80</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">193</stat>
+			<stat type="randomDamage">55</stat>
+			<stat type="pAtkRange">70</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="97024" name="Fire Lord Two-Handed Sword" type="Weapon">
+		<!-- A Zariche weapon stained with the madness of blood. PvP Damage +30%, Max HP/ MP/ CP +30%, Atk. Spd. +30%, P. Critical Rate +100, P. Skill Critical Rate +30%, P. Skill Critical Damage +30%. Enables the Soul's Insanity, Soul's Confinement, and Soul's Release skills. Max HP can increase up to 150,000. Its appearance cannot be changed. Cannot be assigned an attribute, crystallized, augmented, or enchanted. You can insert 1 special Soul Crystal. -->
+		<set name="icon" val="icon.frozen_weapon_sword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="TWO_HAND_SWORD" />
+		<stats>
+			<stat type="pAtk">509</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">36</stat>
+			<stat type="accCombat">30</stat>
+			<stat type="pAtkSpd">150</stat>
+			<stat type="randomDamage">30</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="97088" name="Fire Lord Sword" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_sword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="ONE_HAND_SWORD" />
+		<stats>
+			<stat type="pAtk">509</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">35</stat>
+			<stat type="pAtkSpd">150</stat>
+			<stat type="randomDamage">15</stat>
+			<stat type="pAtkRange">50</stat>
+			<stat type="firePower">999</stat>
+		</stats>
+	</item>
+	<item id="97089" name="Fire Lord Dual Sword" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_dual_sword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="DUALSWORD" />
+		<stats>
+			<stat type="pAtk">500</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">48</stat>
+			<stat type="pAtkSpd">150</stat>
+			<stat type="randomDamage">30</stat>
+			<stat type="pAtkRange">30</stat>
+			<stat type="darkPower">999</stat>
+		</stats>
+	</item>
+	<item id="97143" name="Fire Lord Sword" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_sword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="time" val="10080" />
+		<set name="commissionItemType" val="ONE_HAND_SWORD" />
+		<stats>
+			<stat type="pAtk">509</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">35</stat>
+			<stat type="pAtkSpd">150</stat>
+			<stat type="randomDamage">15</stat>
+			<stat type="pAtkRange">50</stat>
+			<stat type="firePower">999</stat>
+		</stats>
+	</item>
+	<item id="95917" name="Heavenly Cloak of Worthy Death Knight" additionalName="Sealed" type="Armor">
+		<set name="icon" val="icon.nobless_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
+		<stats>
+			<stat type="pDef">30</stat>
+		</stats>
+	</item>
+	<item id="94372" name="Heavenly Cloak of Worthy Death Knight" additionalName="Sealed" type="Armor">
+		<set name="icon" val="icon.nobless_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
+		<stats>
+			<stat type="pDef">30</stat>
+		</stats>
+	</item>
+</list>

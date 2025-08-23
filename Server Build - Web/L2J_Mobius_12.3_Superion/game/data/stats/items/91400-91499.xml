@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="91311" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91312" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91313" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91314" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91315" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91367" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91368" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91369" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91422" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91423" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91424" name="AURA Blue Eva" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="51242" level="1" /> <!-- AURA Blue Eva -->
+		</skills>
+	</item>
+	<item id="91425" name="Lindvior Transformation" type="EtcItem">
+		<!-- Transforms you into Venom for . No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="22583" level="1" /> <!-- Lindvior -->
+		</skills>
+	</item>
+	<item id="91426" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91427" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91428" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91429" name="AURA RAD Eva" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="51243" level="1" /> <!-- AURA RAD Eva -->
+		</skills>
+	</item>
+	<item id="91430" name="AURA YELO Eva" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="51244" level="1" /> <!-- AURA YELO Eva -->
+		</skills>
+	</item>
+	<item id="91431" name="AURA PURPLE Eva" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="51245" level="1" /> <!-- AURA PURPLE Eva -->
+		</skills>
+	</item>
+	<item id="91432" name="Antharas Transformation" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="22400" level="1" /> <!-- Antharas -->
+		</skills>
+	</item>
+	<item id="91433" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91434" name="Dragon Transformation" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="30534" level="1" /> <!-- Dragon Red -->
+		</skills>
+	</item>
+	<item id="91435" name="Eigis Transformation" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="22401" level="1" /> <!-- eigis -->
+		</skills>
+	</item>
+	<item id="91436" name="Transformation Scroll: Venom" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_trans_4f_s_b_01" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="22732" level="1" /> <!-- Transformation Scroll: Venom -->
+		</skills>
+	</item>
+	<item id="91438" name="Kamael shadow Transformation" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="27419" level="1" /> <!-- Kamael shadow -->
+		</skills>
+	</item>
+	<item id="91439" name="Kamael Ligth Transformation" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="27420" level="1" /> <!-- Kamael Ligth -->
+		</skills>
+	</item>
+	<item id="91441" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91442" name="Dragon Transformation" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="30535" level="1" /> <!-- Dragon Behemot -->
+		</skills>
+	</item>
+	<item id="91443" name="Dark Dragon Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="chest" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91444" name="AURA Dark Hero" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="51248" level="1" /> <!-- Dark Hero -->
+		</skills>
+	</item>
+	<item id="91445" name="AURA Lengend Hero" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="51247" level="1" /> <!-- Lengend Hero -->
+		</skills>
+	</item>
+	<item id="91446" name="AURA Flame Behemoth" type="EtcItem">
+		<!-- Transforms you into Venom for 30 min. No effect if used while transformed. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="handler" val="ItemSkills" />
+		<set name="is_stackable" val="true" />
+		<set name="material" val="PAPER" />
+		<skills>
+			<skill id="51246" level="1" /> <!-- AURA Flame Behemoth -->
+		</skills>
+	</item>
+	<item id="91450" name="NewOrder Coin (L2NewOrder)" type="EtcItem">
+		<!-- Contains Night Goblin's power. Can be used through the Black Marketeer of Mammon. -->
+		<set name="icon" val="icon.bm_goblin_coin" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="91456" name="Eigis Appearance Stone" type="EtcItem">
+		<!-- Changes the appearance of the entire armor to that of Eigis. Used with upper or full-body armor. Allows use of the Eigis skills. -->
+		<set name="icon" val="BranchSys3.lcon.g_scrl_change_co_swimsuit_01" />
+		<set name="is_sellable" val="false" />
+		<set name="etcitem_type" val="SHAPE_SHIFTING_AM_FIXED" />
+		<set name="is_stackable" val="true" />
+		<set name="immediate_effect" val="true" />
+		<set name="handler" val="Appearance" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="material" val="STEEL" />
+	</item>
+	<item id="91367" name="Death A Appearance Stone" type="EtcItem">
+		<!-- Changes the appearance of the entire armor to that of Eigis. Used with upper or full-body armor. Allows use of the Eigis skills. -->
+		<set name="icon" val="BranchSys3.lcon.g_scrl_change_co_swimsuit_01" />
+		<set name="is_sellable" val="false" />
+		<set name="etcitem_type" val="SHAPE_SHIFTING_AM_FIXED" />
+		<set name="is_stackable" val="true" />
+		<set name="immediate_effect" val="true" />
+		<set name="handler" val="Appearance" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="material" val="STEEL" />
+	</item>
+	<item id="91465" name="Lionel Appearance Stone" type="EtcItem">
+		<!-- Changes the appearance of the entire armor to that of Eigis. Used with upper or full-body armor. Allows use of the Eigis skills. -->
+		<set name="icon" val="BranchSys3.lcon.g_scrl_change_co_swimsuit_01" />
+		<set name="is_sellable" val="false" />
+		<set name="etcitem_type" val="SHAPE_SHIFTING_AM_FIXED" />
+		<set name="is_stackable" val="true" />
+		<set name="immediate_effect" val="true" />
+		<set name="handler" val="Appearance" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="material" val="STEEL" />
+	</item>
+	<item id="91405" name="Antharas Appearance Stone" type="EtcItem">
+		<!-- Changes the appearance of the entire armor to that of Antharas. Used with upper or full-body armor. Allows use of the Antharas . -->
+		<set name="icon" val="BranchSys3.lcon.g_scrl_change_co_swimsuit_01" />
+		<set name="is_sellable" val="false" />
+		<set name="etcitem_type" val="SHAPE_SHIFTING_AM_FIXED" />
+		<set name="is_stackable" val="true" />
+		<set name="immediate_effect" val="true" />
+		<set name="handler" val="Appearance" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="material" val="STEEL" />
+	</item>
+	<item id="91457" name="Eigis Appearance Stone" type="EtcItem">
+		<!-- Changes the appearance of the entire armor to that of Eigis. Used with upper or full-body armor. Allows use of the Eigis skills. -->
+		<set name="icon" val="BranchSys3.lcon.g_scrl_change_co_swimsuit_01" />
+		<set name="is_sellable" val="false" />
+		<set name="etcitem_type" val="SHAPE_SHIFTING_AM_FIXED" />
+		<set name="is_stackable" val="true" />
+		<set name="immediate_effect" val="true" />
+		<set name="handler" val="Appearance" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="material" val="STEEL" />
+	</item>
+</list>

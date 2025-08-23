@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="81364" name="Fallen Angel's Ring" additionalName="Charisma Lv. 1" type="Armor">
+		<!-- When enchanted, increases Confusion Resistance/ Atk. Rate, Vitality bonus, acquired XP/ SP, P. Critical Damage, P./ M. Skill Critical Damage, and damage to immobilized targets. Effects of two identical rings do not stack. <Special effect>. CHA +1. <Enchanting>. Use Scroll: Enchant Fallen Angel Accessory. Can be augmented. -->
+		<set name="icon" val="icon.bm_ring_of_fallen_angel" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
+		<skills>
+			<skill id="39620" level="1" /> <!-- Craft Effect - Charisma Lv. 1 -->
+		</skills>
+		<stats>
+			<stat type="mDef">101</stat>
+		</stats>
+	</item>
+	<item id="81365" name="Fallen Angel's Ring" additionalName="Charisma Lv. 2" type="Armor">
+		<!-- When enchanted, increases Confusion Resistance/ Atk. Rate, Vitality bonus, acquired XP/ SP, P. Critical Damage, P./ M. Skill Critical Damage, and damage to immobilized targets. Effects of two identical rings do not stack. <Special effect>. CHA +2. <Enchanting>. Use Scroll: Enchant Fallen Angel Accessory. Can be augmented. -->
+		<set name="icon" val="icon.bm_ring_of_fallen_angel" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
+		<skills>
+			<skill id="39620" level="2" /> <!-- Craft Effect - Charisma Lv. 1 -->
+		</skills>
+		<stats>
+			<stat type="mDef">101</stat>
+		</stats>
+	</item>
+	<item id="81366" name="Fallen Angel's Ring" additionalName="Charisma Lv. 3" type="Armor">
+		<!-- When enchanted, increases Confusion Resistance/ Atk. Rate, Vitality bonus, acquired XP/ SP, P. Critical Damage, P./ M. Skill Critical Damage, and damage to immobilized targets. Effects of two identical rings do not stack. <Special effect>. CHA +3. <Enchanting>. Use Scroll: Enchant Fallen Angel Accessory. Can be augmented. -->
+		<set name="icon" val="icon.bm_ring_of_fallen_angel" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
+		<skills>
+			<skill id="39620" level="3" /> <!-- Craft Effect - Charisma Lv. 1 -->
+		</skills>
+		<stats>
+			<stat type="mDef">101</stat>
+		</stats>
+	</item>
+	<item id="91875" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="alldress" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91876" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="alldress" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="92317" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="alldress" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="92320" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="alldress" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="93929" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="alldress" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="94830" name="Sigel Knight Transformation Appearance" type="Armor">
+		<!-- Sigel Knight Transformation Appearance -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="default_action" val="EQUIP" />
+		<set name="material" val="BRONZE" />
+		<set name="bodypart" val="alldress" />
+		<stats>
+			<stat type="pDef">400</stat>
+		</stats>
+	</item>
+	<item id="91812" name="Fafurion Suit" type="Armor">
+		<!-- Changes the appearance of the entire armor to that of Fafurion Suit. Used with upper or full-body armor. -->
+		<set name="icon" val="BranchSys3.lcon.g_scrl_change_co_swimsuit_01" />
+		<set name="is_sellable" val="false" />
+		<set name="etcitem_type" val="SHAPE_SHIFTING_AM_FIXED" />
+		<set name="is_stackable" val="true" />
+		<set name="immediate_effect" val="true" />
+		<set name="handler" val="Appearance" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="material" val="STEEL" />
+	</item>
+	<item id="91807" name="Fafurion Suit Appearance Stone" type="EtcItem">
+		<!-- Changes the appearance of the entire armor to that of Red Assassin Suit. Used with upper or full-body armor. -->
+		<set name="icon" val="icon.honors_light_upbody_opt" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="4140" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">360</stat>
+			<stat type="accCombat">5E-08</stat>
+		</stats>
+	</item>
+	<item id="91809" name="White Assassin Suit" type="Armor">
+		<set name="icon" val="icon.honors_light_upbody_opt" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="4140" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">360</stat>
+			<stat type="accCombat">5E-08</stat>
+		</stats>
+	</item>
+	<item id="91813" name="White Assassin Suit Appearance Stone" type="EtcItem">
+		<!-- Changes the appearance of the entire armor to that of White Assassin Suit. Used with upper or full-body armor. -->
+		<set name="icon" val="BranchSys3.lcon.g_scrl_change_co_swimsuit_01" />
+		<set name="is_sellable" val="false" />
+		<set name="etcitem_type" val="SHAPE_SHIFTING_AM_FIXED" />
+		<set name="is_stackable" val="true" />
+		<set name="immediate_effect" val="true" />
+		<set name="handler" val="Appearance" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="material" val="STEEL" />
+	</item>
+</list>

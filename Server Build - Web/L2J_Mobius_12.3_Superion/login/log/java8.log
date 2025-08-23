@@ -1,0 +1,18 @@
+2025.04.26 13:05:04,528	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: HikariCP pool initialized successfully.
+2025.04.26 13:05:04,883	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized with a valid connection.
+2025.04.26 13:05:04,897	INFO	1	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Initialized
+2025.04.26 13:05:04,899	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...scheduled pool executor with 2 total threads.
+2025.04.26 13:05:04,900	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...instant pool executor with 2 total threads.
+2025.04.26 13:05:04,902	INFO	1	org.l2jmobius.loginserver.LoginController	Loading LoginController...
+2025.04.26 13:05:05,420	INFO	1	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
+2025.04.26 13:05:05,462	INFO	1	org.l2jmobius.loginserver.LoginController	Stored 20 keys for Blowfish communication.
+2025.04.26 13:05:05,575	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 127 server names.
+2025.04.26 13:05:05,602	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 1 registered Game Servers.
+2025.04.26 13:05:05,661	INFO	1	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2025.04.26 13:05:05,664	INFO	1	org.l2jmobius.loginserver.LoginServer	Loaded 2 IP Bans.
+2025.04.26 13:05:05,666	INFO	1	org.l2jmobius.loginserver.LoginServer	Listening for GameServers on 127.0.0.1:9014
+2025.04.26 13:05:05,688	INFO	1	org.l2jmobius.loginserver.LoginServer	LoginServer: is now listening on: 0.0.0.0:2106
+2025.04.26 13:06:33,009	INFO	46	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2025.04.26 13:06:33,010	INFO	46	org.l2jmobius.loginserver.GameServerThread	192.168.1.6192.168.1.0/24
+2025.04.26 13:06:33,010	INFO	46	org.l2jmobius.loginserver.GameServerThread	127.0.0.1127.0.0.0/8
+2025.04.26 13:06:33,011	INFO	46	org.l2jmobius.loginserver.GameServerThread	177.104.8.1730.0.0.0/0

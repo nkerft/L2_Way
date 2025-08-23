@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex -->
+		<production count="1" id="30297" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex - Oblivion -->
+		<production count="1" id="30300" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex - Discipline -->
+		<production count="1" id="30299" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex - Mastery -->
+		<production count="1" id="30298" />
+	</item>
+
+		<!-- Superion Giant's Codex List +11 ate +20 -->
+
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex - Chapter 1 -->
+		<production count="1" id="46150" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex - Discipline Chapter 1 -->
+		<production count="1" id="46152" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex - Mastery Chapter 1 -->
+		<production count="1" id="46151" />
+	</item>
+
+	<!-- Superion Giant's Codex List +21 ate +30 -->
+
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex - Chapter 2 -->
+		<production count="1" id="46154" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex - Discipline Chapter 2 -->
+		<production count="1" id="46156" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex - Mastery Chapter 2 -->
+		<production count="1" id="46155" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex  -->
+		<production count="1" id="30301" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex  -->
+		<production count="1" id="30302" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex  -->
+		<production count="1" id="30303" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="500" id="27659" />
+		<!-- Superion Giant's Codex  -->
+		<production count="1" id="30304" />
+	</item>
+</list>

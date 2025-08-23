@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<!-- Weapons R110 -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80175" />
+	<production count="1" id="37378" />
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80176" />
+	<production count="1" id="37378" />
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80177" />
+	<production count="1" id="37378" />
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80178" />
+	<production count="1" id="37378" />
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80179" />
+	<production count="1" id="37378" />
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80180" />
+	<production count="1" id="37378" />
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80181" />
+	<production count="1" id="37378" />
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80182" />
+	<production count="1" id="37378" />
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80183" />
+	<production count="1" id="37378" />
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80184" />
+	<production count="1" id="37378" />
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80185" />
+	<production count="1" id="37378" />
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80186" />
+	<production count="1" id="37378" />
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80187" />
+	<production count="1" id="37378" />
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1" id="80188" />
+	<production count="1" id="37378" />
+	</item>
+</list>

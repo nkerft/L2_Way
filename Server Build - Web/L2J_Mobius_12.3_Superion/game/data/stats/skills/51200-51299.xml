@@ -1,0 +1,662 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="51213" toLevel="1" name="Mysterious Transformation Box">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>1000</reuseDelay>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<magicLevel>1</magicLevel>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>91282</itemConsumeId> <!-- Mysterious Transformation Box -->
+		<conditions>
+			<condition name="OpEncumbered">
+				<weightPercent>10</weightPercent>
+				<slotsPercent>10</slotsPercent>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="RestorationRandom">
+				<items>
+					<item chance="10">
+						<item id="91271" count="2" /> <!-- Transformation Scroll: Dragon Berserker -->
+					</item>
+					<item chance="10">
+						<item id="91272" count="1" /> <!-- Transformation Scroll: Ninja Assassin -->
+					</item>
+					<item chance="10">
+						<item id="91273" count="1" /> <!-- Transformation Scroll: Blood Noblesse -->
+					</item>
+					<item chance="10">
+						<item id="91274" count="1" /> <!-- Transformation Scroll: White Noblesse -->
+					</item>
+					<item chance="10">
+						<item id="91275" count="1" /> <!-- Transformation Scroll: Blue Musketeer -->
+					</item>
+					<item chance="10">
+						<item id="91276" count="1" /> <!-- Transformation Scroll: Purple Cowboy -->
+					</item>
+					<item chance="10">
+						<item id="91277" count="1" /> <!-- Transformation Scroll: High Priest -->
+					</item>
+					<item chance="10">
+						<item id="91278" count="1" /> <!-- Transformation Scroll: Wild Wolf -->
+					</item>
+					<item chance="10">
+						<item id="91279" count="1" /> <!-- Transformation Scroll: Valkyrie -->
+					</item>
+					<item chance="10">
+						<item id="91280" count="1" /> <!-- Transformation Scroll: Pirate -->
+					</item>
+					<item chance="10">
+						<item id="91281" count="1" /> <!-- Transformation Scroll: Dragon Berserker -->
+					</item>
+				</items>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51214" toLevel="1" name="Transformation Sealbook: Dragon Berserker">
+		<!-- Grants the power of Dragon Berserker. For $s1, P. Atk. +$s2, M. Atk. +$s3, P. Critical Rate/ M. Skill Critical Rate +$s4, Atk. Spd./ Casting Spd. +$s5, Speed +$s6, Sayha's Grace Consumption -$s7. The transformation effect remains after death. <Special ability> While the transformation is active, with a certain chance P. Atk. +$s8, M. Atk. +$s9, P./ M. Critical Damage +$s10, Atk. Spd./ Casting Spd. +$s11, Damage Reflection +$s12 after a successful attack or skill use. -->
+		<icon>icon.bm2018_dragon_i01</icon>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>12000</abnormalTime>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<abnormalVisualEffect>D_CHAOS_MATCH_DECO_SMALL</abnormalVisualEffect>
+		<itemConsumeId>91827</itemConsumeId> <!-- Adventurer Scroll: Dragon Berserker Transformation -->
+		<itemConsumeId>1</itemConsumeId>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<effectPoint>1</effectPoint>
+		<isMagic>4</isMagic> <!-- Magic Skill -->
+		<magicLevel>76</magicLevel>
+		<operateType>A2</operateType>
+ 		<reuseDelay>60000</reuseDelay>
+		<stayAfterDeath>true</stayAfterDeath>
+		<hitTime>1500</hitTime>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="TriggerSkillByAttack">
+				<attackerType>Creature</attackerType>
+				<minDamage>1</minDamage>
+				<chance>20</chance>
+				<targetType>SELF</targetType>
+				<isCritical>false</isCritical>
+				<allowWeapons>ALL</allowWeapons>
+				<skillId>51462</skillId> <!-- Berserker Spirit -->
+				<skillLevel>1</skillLevel>
+			</effect>
+			<effect name="TriggerSkillByAttack">
+				<attackerType>Creature</attackerType>
+				<minDamage>1</minDamage>
+				<chance>20</chance>
+				<targetType>SELF</targetType>
+				<isCritical>true</isCritical>
+				<allowWeapons>ALL</allowWeapons>
+				<skillId>51462</skillId> <!-- Berserker Spirit -->
+				<skillLevel>1</skillLevel>
+			</effect>
+			<effect name="TriggerSkillByAttack">
+				<attackerType>Creature</attackerType>
+				<minDamage>1</minDamage>
+				<chance>20</chance>
+				<targetType>ENEMY</targetType>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>false</allowNormalAttack>
+				<isCritical>false</isCritical>
+				<allowWeapons>ALL</allowWeapons>
+				<skillId>51462</skillId> <!-- Berserker Spirit -->
+				<skillLevel>1</skillLevel>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51215" toLevel="1" name="Transformation Sealbook: Ninja Assassin">
+		<!-- Allows you to learn a skill to magically transform yourself into a Ninja Assassin. Item will disappear after using. -->
+		<hitTime>1500</hitTime>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>91272</itemConsumeId> <!-- Transformation Sealbook: Ninja Assassin -->
+		<operateType>A1</operateType>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpSkill">
+				<skillId>51184</skillId> <!-- Ninja Assassin -->
+				<skillLevel>1</skillLevel>
+				<hasLearned>false</hasLearned>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="SetSkill">
+				<skillId>51184</skillId> <!-- Ninja Assassin -->
+				<skillLevel>1</skillLevel>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51216" toLevel="1" name="Transformation Sealbook: Blue Musketeer">
+		<!-- Allows you to learn a skill to magically transform yourself into a Blue Musketeer. Item will disappear after using. -->
+		<hitTime>1500</hitTime>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>91275</itemConsumeId> <!-- Transformation Sealbook: Blue Musketeer -->
+		<operateType>A1</operateType>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpSkill">
+				<skillId>51185</skillId> <!-- Blue Musketeer -->
+				<skillLevel>1</skillLevel>
+				<hasLearned>false</hasLearned>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="SetSkill">
+				<skillId>51185</skillId> <!-- Blue Musketeer -->
+				<skillLevel>1</skillLevel>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51217" toLevel="1" name="Transformation Sealbook: Valkyrie">
+		<!-- Allows you to learn a skill to magically transform yourself into a Valkyrie. Item will disappear after using. -->
+		<hitTime>1500</hitTime>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>91279</itemConsumeId> <!-- Transformation Sealbook: Valkyrie -->
+		<operateType>A1</operateType>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpSkill">
+				<skillId>51186</skillId> <!-- Valkyrie -->
+				<skillLevel>1</skillLevel>
+				<hasLearned>false</hasLearned>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="SetSkill">
+				<skillId>51186</skillId> <!-- Valkyrie -->
+				<skillLevel>1</skillLevel>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51218" toLevel="1" name="Transformation Sealbook: Wild Wolf">
+		<!-- Allows you to learn a skill to magically transform yourself into a Wild Wolf. Item will disappear after using. -->
+		<hitTime>1500</hitTime>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>91278</itemConsumeId> <!-- Transformation Sealbook: Wild Wolf -->
+		<operateType>A1</operateType>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpSkill">
+				<skillId>51187</skillId> <!-- Wild Wolf -->
+				<skillLevel>1</skillLevel>
+				<hasLearned>false</hasLearned>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="SetSkill">
+				<skillId>51187</skillId> <!-- Wild Wolf -->
+				<skillLevel>1</skillLevel>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51219" toLevel="1" name="Transformation Sealbook: Pirate">
+		<!-- Allows you to learn a skill to magically transform yourself into a Pirate. Item will disappear after using. -->
+		<hitTime>1500</hitTime>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>91280</itemConsumeId> <!-- Transformation Sealbook: Pirate -->
+		<operateType>A1</operateType>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpSkill">
+				<skillId>51188</skillId> <!-- Pirate -->
+				<skillLevel>1</skillLevel>
+				<hasLearned>false</hasLearned>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="SetSkill">
+				<skillId>51188</skillId> <!-- Pirate -->
+				<skillLevel>1</skillLevel>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51220" toLevel="1" name="Transformation Sealbook: Purple Cowboy">
+		<!-- Allows you to learn a skill to magically transform yourself into a Purple Cowboy. Item will disappear after using. -->
+		<hitTime>1500</hitTime>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>91276</itemConsumeId> <!-- Transformation Sealbook: Purple Cowboy -->
+		<operateType>A1</operateType>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpSkill">
+				<skillId>51189</skillId> <!-- Purple Cowboy -->
+				<skillLevel>1</skillLevel>
+				<hasLearned>false</hasLearned>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="SetSkill">
+				<skillId>51189</skillId> <!-- Purple Cowboy -->
+				<skillLevel>1</skillLevel>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51221" toLevel="1" name="Transformation Sealbook: High Priest">
+		<!-- Allows you to learn a skill to magically transform yourself into a High Priest. Item will disappear after using. -->
+		<hitTime>1500</hitTime>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>91277</itemConsumeId> <!-- Transformation Sealbook: High Priest -->
+		<operateType>A1</operateType>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpSkill">
+				<skillId>51190</skillId> <!-- High Priest -->
+				<skillLevel>1</skillLevel>
+				<hasLearned>false</hasLearned>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="SetSkill">
+				<skillId>51190</skillId> <!-- High Priest -->
+				<skillLevel>1</skillLevel>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51222" toLevel="1" name="Transformation Sealbook: Blood Noblesse">
+		<!-- Allows you to learn a skill to magically transform yourself into a Blood Noblesse. Item will disappear after using. -->
+		<hitTime>1500</hitTime>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>91273</itemConsumeId> <!-- Transformation Sealbook: Blood Noblesse -->
+		<operateType>A1</operateType>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpSkill">
+				<skillId>51191</skillId> <!-- Blood Noblesse -->
+				<skillLevel>1</skillLevel>
+				<hasLearned>false</hasLearned>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="SetSkill">
+				<skillId>51191</skillId> <!-- Blood Noblesse -->
+				<skillLevel>1</skillLevel>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51223" toLevel="1" name="Transformation Sealbook: White Noblesse">
+		<!-- Allows you to learn a skill to magically transform yourself into a White Noblesse. Item will disappear after using. -->
+		<hitTime>1500</hitTime>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>91274</itemConsumeId> <!-- Transformation Sealbook: White Noblesse -->
+		<operateType>A1</operateType>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpSkill">
+				<skillId>51192</skillId> <!-- White Noblesse -->
+				<skillLevel>1</skillLevel>
+				<hasLearned>false</hasLearned>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="SetSkill">
+				<skillId>51192</skillId> <!-- White Noblesse -->
+				<skillLevel>1</skillLevel>
+			</effect>
+		</effects>
+	</skill>
+        <skill id="51241" toLevel="1" name="Manuscript - Disarm">
+                <!-- Allows you to learn Disarm skill. Item will disappear after using. -->
+                <isMagic>2</isMagic>
+                <itemConsumeCount>1</itemConsumeCount>
+                <itemConsumeId>91401</itemConsumeId>
+                <operateType>A1</operateType>
+                <targetType>SELF</targetType>
+                <affectScope>SINGLE</affectScope>
+                <castRange>-1</castRange>
+                <effectPoint>0</effectPoint>
+                <magicCriticalRate>5</magicCriticalRate>
+                <magicLevel>1</magicLevel>
+                <hitTime>500</hitTime>
+                <effectRange>-1</effectRange>
+                <blockedInOlympiad>true</blockedInOlympiad>
+                <basicProperty>NONE</basicProperty>
+                <conditions>
+                        <condition name="CheckLevel">
+                                <minLevel>80</minLevel>
+                        </condition>
+                </conditions>
+                <effects>
+                        <effect name="SetSkill">
+                                <skillId>51247</skillId>
+                                <skillLevel>1</skillLevel>
+                        </effect>
+                </effects>
+         </skill>
+	<skill id="51242" toLevel="1" name="Transformation Sealbook: AURA Blue Eva">
+		<!-- Grants the power of AURA Blue Eva. For $s1, P. Atk. +$s2, M. Atk. +$s3, P. Critical Rate/ M. Skill Critical Rate +$s4, Atk. Spd./ Casting Spd. +$s5, Speed +$s6, Sayha's Grace Consumption -$s7. The transformation effect remains after death. <Special ability> While the transformation is active, with a certain chance P. Atk. +$s8, M. Atk. +$s9, P./ M. Critical Damage +$s10, Atk. Spd./ Casting Spd. +$s11, Damage Reflection +$s12 after a successful attack or skill use. -->
+		<icon>icon.bm2018_dragon_i01</icon>
+		<abnormalTime>-1</abnormalTime>
+		<abnormalVisualEffect>H_B_MOONLIGHTA_AVE</abnormalVisualEffect>
+		<toggleGroupId>1</toggleGroupId>
+		<magicLevel>80</magicLevel>
+		<operateType>T</operateType>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>NONE</targetType>
+		<effects>
+			<effect name="PAtk">
+				<amount>135</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>150</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="PhysicalAttackSpeed">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>15</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="CriticalRate">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicCriticalRate">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="VitalityPointsRate">
+				<amount>-10</amount>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51243" toLevel="1" name="Transformation Sealbook: AURA RAD Eva">
+		<!-- Grants the power of AURA Blue Eva. For $s1, P. Atk. +$s2, M. Atk. +$s3, P. Critical Rate/ M. Skill Critical Rate +$s4, Atk. Spd./ Casting Spd. +$s5, Speed +$s6, Sayha's Grace Consumption -$s7. The transformation effect remains after death. <Special ability> While the transformation is active, with a certain chance P. Atk. +$s8, M. Atk. +$s9, P./ M. Critical Damage +$s10, Atk. Spd./ Casting Spd. +$s11, Damage Reflection +$s12 after a successful attack or skill use. -->
+		<icon>icon.bm2018_dragon_i01</icon>
+		<abnormalTime>-1</abnormalTime>
+		<abnormalVisualEffect>H_P_GHOSTA_AVE</abnormalVisualEffect>
+		<toggleGroupId>1</toggleGroupId>
+		<magicLevel>80</magicLevel>
+		<operateType>T</operateType>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>NONE</targetType>
+		<effects>
+			<effect name="PAtk">
+				<amount>135</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>150</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="PhysicalAttackSpeed">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>15</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="CriticalRate">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicCriticalRate">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="VitalityPointsRate">
+				<amount>-10</amount>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51244" toLevel="1" name="Transformation Sealbook: AURA YELO Eva">
+		<!-- Grants the power of AURA Blue Eva. For $s1, P. Atk. +$s2, M. Atk. +$s3, P. Critical Rate/ M. Skill Critical Rate +$s4, Atk. Spd./ Casting Spd. +$s5, Speed +$s6, Sayha's Grace Consumption -$s7. The transformation effect remains after death. <Special ability> While the transformation is active, with a certain chance P. Atk. +$s8, M. Atk. +$s9, P./ M. Critical Damage +$s10, Atk. Spd./ Casting Spd. +$s11, Damage Reflection +$s12 after a successful attack or skill use. -->
+		<icon>icon.bm2018_dragon_i01</icon>
+		<abnormalLevel>-1</abnormalLevel>
+		<abnormalVisualEffect>H_Y_SAGITTARIUSA_AVE</abnormalVisualEffect>
+		<toggleGroupId>1</toggleGroupId>
+		<magicLevel>80</magicLevel>
+		<operateType>T</operateType>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>NONE</targetType>
+		<effects>
+			<effect name="PAtk">
+				<amount>135</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>150</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="PhysicalAttackSpeed">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>15</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="CriticalRate">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicCriticalRate">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="VitalityPointsRate">
+				<amount>-10</amount>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51245" toLevel="1" name="Transformation Sealbook: AURA PURPLE Eva">
+		<!-- Grants the power of AURA Blue Eva. For $s1, P. Atk. +$s2, M. Atk. +$s3, P. Critical Rate/ M. Skill Critical Rate +$s4, Atk. Spd./ Casting Spd. +$s5, Speed +$s6, Sayha's Grace Consumption -$s7. The transformation effect remains after death. <Special ability> While the transformation is active, with a certain chance P. Atk. +$s8, M. Atk. +$s9, P./ M. Critical Damage +$s10, Atk. Spd./ Casting Spd. +$s11, Damage Reflection +$s12 after a successful attack or skill use. -->
+		<icon>icon.bm2018_dragon_i01</icon>
+		<abnormalLevel>-1</abnormalLevel>
+		<abnormalVisualEffect>H_R_TRICKSTERA_AVE</abnormalVisualEffect>
+		<toggleGroupId>1</toggleGroupId>
+		<magicLevel>80</magicLevel>
+		<operateType>T</operateType>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>NONE</targetType>
+		<effects>
+			<effect name="PAtk">
+				<amount>135</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>150</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="PhysicalAttackSpeed">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>15</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="CriticalRate">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicCriticalRate">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="VitalityPointsRate">
+				<amount>-10</amount>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51246" toLevel="1" name="Transformation Sealbook: AURA Flame Behemoth">
+		<!-- Grants the power of AURA Flame Behemoth. For $s1, P. Atk. +$s2, M. Atk. +$s3, P. Critical Rate/ M. Skill Critical Rate +$s4, Atk. Spd./ Casting Spd. +$s5, Speed +$s6, Sayha's Grace Consumption -$s7. The transformation effect remains after death. <Special ability> While the transformation is active, with a certain chance P. Atk. +$s8, M. Atk. +$s9, P./ M. Critical Damage +$s10, Atk. Spd./ Casting Spd. +$s11, Damage Reflection +$s12 after a successful attack or skill use. -->
+		<icon>icon.bm2018_dragon_i01</icon>
+		<abnormalLevel>-1</abnormalLevel>
+		<abnormalVisualEffect>V_ORC_IMMOLATION_BODY_AVE</abnormalVisualEffect>
+		<toggleGroupId>1</toggleGroupId>
+		<magicLevel>80</magicLevel>
+		<operateType>T</operateType>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>NONE</targetType>
+		<effects>
+			<effect name="PAtk">
+				<amount>235</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>250</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="PhysicalAttackSpeed">
+				<amount>230</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>230</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>35</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="CriticalRate">
+				<amount>80</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicCriticalRate">
+				<amount>80</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="VitalityPointsRate">
+				<amount>-5</amount>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51247" toLevel="1" name="Transformation Sealbook: AURA Lengend Hero">
+		<!-- Grants the power of AURA Blue Eva. For $s1, P. Atk. +$s2, M. Atk. +$s3, P. Critical Rate/ M. Skill Critical Rate +$s4, Atk. Spd./ Casting Spd. +$s5, Speed +$s6, Sayha's Grace Consumption -$s7. The transformation effect remains after death. <Special ability> While the transformation is active, with a certain chance P. Atk. +$s8, M. Atk. +$s9, P./ M. Critical Damage +$s10, Atk. Spd./ Casting Spd. +$s11, Damage Reflection +$s12 after a successful attack or skill use. -->
+		<icon>icon.bm2018_dragon_i01</icon>
+		<abnormalLevel>-1</abnormalLevel>
+		<abnormalVisualEffect>LEGEND_DECO_HERO</abnormalVisualEffect>
+		<toggleGroupId>1</toggleGroupId>
+		<magicLevel>80</magicLevel>
+		<operateType>T</operateType>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>NONE</targetType>
+		<effects>
+			<effect name="PAtk">
+				<amount>135</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>150</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="PhysicalAttackSpeed">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>15</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="CriticalRate">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicCriticalRate">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="VitalityPointsRate">
+				<amount>-10</amount>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="51248" toLevel="1" name="Transformation Sealbook: AURA Dark Hero">
+		<!-- Grants the power of AURA Blue Eva. For $s1, P. Atk. +$s2, M. Atk. +$s3, P. Critical Rate/ M. Skill Critical Rate +$s4, Atk. Spd./ Casting Spd. +$s5, Speed +$s6, Sayha's Grace Consumption -$s7. The transformation effect remains after death. <Special ability> While the transformation is active, with a certain chance P. Atk. +$s8, M. Atk. +$s9, P./ M. Critical Damage +$s10, Atk. Spd./ Casting Spd. +$s11, Damage Reflection +$s12 after a successful attack or skill use. -->
+		<icon>icon.bm2018_dragon_i01</icon>
+		<abnormalLevel>-1</abnormalLevel>
+		<abnormalVisualEffect>ARENA_UNSEAL_E</abnormalVisualEffect>
+		<toggleGroupId>1</toggleGroupId>
+		<magicLevel>80</magicLevel>
+		<operateType>T</operateType>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>NONE</targetType>
+		<effects>
+			<effect name="PAtk">
+				<amount>135</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>150</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="PhysicalAttackSpeed">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>15</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="CriticalRate">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicCriticalRate">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="VitalityPointsRate">
+				<amount>-10</amount>
+			</effect>
+		</effects>
+	</skill>
+</list>

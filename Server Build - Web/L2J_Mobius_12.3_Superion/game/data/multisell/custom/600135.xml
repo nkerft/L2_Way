@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<!-- Armor Leviathan R110 -->
+
+	<item>
+	<!-- Adena -->
+        <ingredient count="1" id="10639" />
+	<production count="1" id="46864" />
+	<production count="1" id="46865" />
+	<production count="1" id="46866" />
+	<production count="1" id="46867" />
+	<production count="1" id="46868" />
+	<production count="1" id="18054" />
+	<!-- Armor Leviathan Heavy R110 -->
+	</item>
+	<item>
+	<!-- Adena -->
+        <ingredient count="1" id="10639" />
+	<production count="1" id="46870" />
+	<production count="1" id="46871" />
+	<production count="1" id="46872" />
+	<production count="1" id="46873" />
+	<production count="1" id="46874" />
+	<!-- Armor Leviathan Leather R110 -->
+	</item>
+	<item>
+	<!-- Adena -->
+        <ingredient count="1" id="10639" />
+	<production count="1" id="46875" />
+	<production count="1" id="46876" />
+	<production count="1" id="46877" />
+	<production count="1" id="46878" />
+	<production count="1" id="46879" />
+	<production count="1" id="46880" />
+	<!-- Armor Leviathan Robe R110 -->
+	</item>
+</list>

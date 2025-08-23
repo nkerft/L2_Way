@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+<item>
+	<!-- Bttle of Tauti soul -->
+	<ingredient count="1" id="35295" />
+	<!-- Tauti One-Handed Axe -->
+	<production count="1" id="34998" />
+</item>
+<item>
+	<!-- Bttle of Tauti soul -->
+	<ingredient count="1" id="35295" />
+	<!-- Tauti Two-Handed Axe -->
+	<production count="1" id="34999" />
+</item>
+<item>
+	<!-- Bttle of Tauti soul -->
+	<ingredient count="1" id="35295" />
+	<!-- Not in Use_Tauti Weapon -->
+	<production count="1" id="35000" />
+</item>
+<item>
+	<!-- Bttle of Tauti soul -->
+	<ingredient count="1" id="35295" />
+	<!-- Tauti Dual Axe -->
+	<production count="1" id="35001" />
+</item>
+<item>
+	<!-- Bttle of Tauti soul -->
+	<ingredient count="1" id="35295" />
+	<ingredient count="1" id="34998" />
+	<!-- Tauti One-Handed Axe -->
+	<production count="1" id="47867" />
+</item>
+<item>
+	<!-- Bttle of Tauti soul -->
+	<ingredient count="1" id="35295" />
+	<ingredient count="1" id="34999" />
+	<!-- Tauti Two-Handed Axe -->
+	<production count="1" id="47868" />
+</item>
+<item>
+	<!-- Bttle of Tauti soul -->
+	<ingredient count="1" id="35295" />
+        <ingredient count="1" id="35001" />
+	<!-- Tauti Dual Axe -->
+	<production count="1" id="47868" />
+</item>
+
+</list>

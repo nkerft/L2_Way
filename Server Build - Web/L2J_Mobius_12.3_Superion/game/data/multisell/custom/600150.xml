@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<!-- Frost Lord Sword -->
+		<ingredient id="23805" enchantmentLevel="0" count="20" />
+		<production id="95725" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Frost Lord Two-Handed Sword -->
+		<ingredient id="23805" enchantmentLevel="0" count="20" />
+		<production id="95726" enchantmentLevel="0" count="1" />
+	</item>	
+	<item>
+		<!-- Frost Lord Axe -->
+		<ingredient id="23805" enchantmentLevel="0" count="20" />
+		<production id="95727" enchantmentLevel="0" count="1" />
+	</item>	
+	<item>
+		<!-- Frost Lord Dagger -->
+		<ingredient id="23805" enchantmentLevel="0" count="20" />
+		<production id="95728" enchantmentLevel="0" count="1" />
+	</item>	
+	<item>
+		<!-- Frost Lord Spear -->
+		<ingredient id="23805" enchantmentLevel="0" count="20" />
+		<production id="95729" enchantmentLevel="0" count="1" />
+	</item>	
+	<item>
+		<!-- Frost Lord Bow -->
+		<ingredient id="23805" enchantmentLevel="0" count="20" />
+		<production id="95730" enchantmentLevel="0" count="1" />
+	</item>	
+	<item>
+		<!-- Frost Lord Fist -->
+		<ingredient id="23805" enchantmentLevel="0" count="20" />
+		<production id="95731" enchantmentLevel="0" count="1" />
+	</item>	
+	<item>
+		<!-- Frost Lord Magic -->
+		<ingredient id="23805" enchantmentLevel="0" count="20" />
+		<production id="95732" enchantmentLevel="0" count="1" />
+	</item>	
+	<item>
+		<!-- Frost Lord Staff -->
+		<ingredient id="23805" enchantmentLevel="0" count="20" />
+		<production id="95733" enchantmentLevel="0" count="1" />
+	</item>	
+	<item>
+		<!-- Frost Lord Ancient Sord -->
+		<ingredient id="23805" enchantmentLevel="0" count="20" />
+		<production id="95734" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Frost Lord Rapier Sord -->
+		<ingredient id="23805" enchantmentLevel="0" count="20" />
+		<production id="95735" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Frost Lord Dual Sord -->
+		<ingredient id="23805" enchantmentLevel="0" count="20" />
+		<production id="95737" enchantmentLevel="0" count="1" />
+	</item>	
+</list>

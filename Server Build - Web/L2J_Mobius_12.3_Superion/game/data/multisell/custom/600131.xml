@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+<item>
+	<!-- Anniversary Coin -->
+	<ingredient count="20" id="23805" />
+	<!-- Scroll: Enchant Weapon of Destruction -->
+	<production count="2" id="33478" />
+</item>
+<item>
+	<!-- Anniversary Coin -->
+	<ingredient count="15" id="23805" />
+	<!-- Scroll: Enchant Armor of Destruction -->
+	<production count="2" id="33479" />
+</item>
+<item>
+	<!-- Anniversary Coin -->
+	<ingredient count="30" id="23805" />
+	<!-- Scroll: Enchant Weapon of Heavenly -->
+	<production count="2" id="22427" />
+</item>
+<item>
+	<!-- Anniversary Coin -->
+	<ingredient count="25" id="23805" />
+	<!-- Scroll: Enchant Armor of Heavenly -->
+	<production count="2" id="22430" />
+</item>
+
+</list>

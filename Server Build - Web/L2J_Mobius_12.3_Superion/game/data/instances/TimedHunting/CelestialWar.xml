@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance id="1026" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
+	<locations>
+		<enter type="FIXED">
+			<location x="-146271" y="89690" z="-13704" />
+		</enter>
+		<exit type="ORIGIN" />
+	</locations>
+	<conditions>
+		<condition type="Level">
+			<param name="min" value="115" />
+			<param name="max" value="199" />
+		</condition>
+	</conditions>
+	<reenter apply="ON_ENTER">
+		<reset day="MONDAY" hour="6" minute="30" />
+		<reset day="TUESDAY" hour="6" minute="30" />
+		<reset day="WEDNESDAY" hour="6" minute="30" />
+		<reset day="THURSDAY" hour="6" minute="30" />
+		<reset day="FRIDAY" hour="6" minute="30" />
+		<reset day="SATURDAY" hour="6" minute="30" />
+		<reset day="SUNDAY" hour="6" minute="30" />
+	</reenter>
+	<spawnlist>
+		<group spawnByDefault="true">
+			<npc id="23970" x="-145724" y="82342" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-145337" y="81766" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-144994" y="80880" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-145032" y="80345" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-145373" y="80057" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-145748" y="79561" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-146241" y="79561" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-146763" y="79611" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-147123" y="79975" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-147554" y="80321" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-147584" y="80908" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-147651" y="81478" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-147675" y="81490" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-147162" y="81736" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-146728" y="82243" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-146245" y="82072" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-145728" y="82255" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-145330" y="81765" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-144826" y="81467" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-144750" y="80854" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="23970" x="-144762" y="80285" z="-14152" heading="98303" /> <!-- Archangel -->
+			<npc id="24913" x="-146202" y="80902" z="-14136" heading="98303" /> <!-- Sealed Archangel -->
+			<npc id="29348" x="-146263" y="76947" z="-13992" heading="98303" /> <!-- Anakim -->
+		</group>
+	</spawnlist>
+</instance>

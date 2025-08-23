@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="10" />
+		<production id="21039" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="300" />
+		<production id="39479" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="500" />
+		<production id="38099" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="1500" />
+		<production id="81139" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="1500" />
+		<production id="81368" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="1500" />
+		<production id="81635" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="1500" />
+		<production id="81636" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="1500" />
+		<production id="81637" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="1500" />
+		<production id="81638" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="1500" />
+		<production id="81639" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="1500" />
+		<production id="23487" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="1500" />
+		<production id="60033" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="1500" />
+		<production id="26334" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- Weapon Frost +10 -->
+		<ingredient id="4356" enchantmentLevel="0" count="1500" />
+		<production id="48026" enchantmentLevel="0" count="1" />
+	</item>
+</list>
+	

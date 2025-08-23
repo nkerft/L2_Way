@@ -1,0 +1,1238 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="40001" level="125" type="RaidBoss" name="Vanguard Rider" title="Vanguard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="40034117754185" sp="36030705842" />
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="482297162.90828" hpRegen="9.4" mp="68076" mpRegen="30" />
+			<attack physical="5456050.41243471" magical="45131.643963848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="450263.053009167" magical="45131.643963848" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="36" />
+			<height normal="123" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4414" level="1" /> <!-- Heavy Armor Type -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="14765" level="5" /> <!-- Vampiric Rage Resistence -->
+			<skill id="4410" level="22" /> <!-- Extremely Weak P Atk -->
+			<skill id="4411" level="22" /> <!-- Extremely Weak M Atk -->
+			<skill id="4412" level="22" /> <!-- Extremely Weak P Def -->
+			<skill id="4413" level="22" /> <!-- Extremely Weak M Def -->
+			<skill id="14655" level="1" /> <!-- Barrier of Reflection -->
+			<skill id="18181" level="1" /> <!-- Alien -->
+			<skill id="4442" level="1" /> <!-- Great fist -->
+			<skill id="4443" level="1" /> <!-- Great blunt -->
+			<skill id="4449" level="1" /> <!-- Great two -->
+			<skill id="1383" level="5" /> <!-- Mass Fire -->
+			<skill id="1385" level="5" /> <!-- Mass Wind -->
+			<skill id="21188" level="1" /> <!-- Recovery HP -->
+			<skill id="5125" level="1" /> <!-- Maximum status -->
+			<skill id="14765" level="4" /> <!-- Blood Siphon Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="46447" min="3" max="3" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46448" min="2" max="2" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46449" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46450" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46462" min="3" max="3" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46463" min="2" max="2" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46464" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46465" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46477" min="3" max="3" chance="23" /> <!-- Leona's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46478" min="2" max="2" chance="23" /> <!-- Leona's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46479" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46480" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46492" min="3" max="3" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46493" min="2" max="2" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46494" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46495" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46507" min="3" max="3" chance="23" /> <!-- Lionel's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46508" min="2" max="2" chance="23" /> <!-- Lionel's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46509" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46510" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 7 - Weapon -->
+				<item id="80333" min="1" max="1" chance="34" /> <!-- Dragon's Necklace -->
+				<item id="80334" min="1" max="1" chance="33" /> <!-- Dragon's Earring -->
+				<item id="80335" min="1" max="1" chance="33" /> <!-- Dragon's Ring -->
+				<item id="80090" min="2" max="2" chance="7.15" /> <!-- Krishna Shaper -->
+				<item id="80091" min="2" max="2" chance="7.15" /> <!-- Krishna Cutter -->
+				<item id="80092" min="2" max="2" chance="7.15" /> <!-- Krishna Slasher -->
+				<item id="80093" min="2" max="2" chance="7.15" /> <!-- Krishna Avenger -->
+				<item id="80094" min="2" max="2" chance="7.15" /> <!-- Krishna Fighter -->
+				<item id="80095" min="2" max="2" chance="7.15" /> <!-- Krishna Stormer -->
+				<item id="80096" min="2" max="2" chance="7.15" /> <!-- Krishna Thrower -->
+				<item id="80097" min="2" max="2" chance="7.15" /> <!-- Krishna Guardian -->
+				<item id="80098" min="2" max="2" chance="7.15" /> <!-- Krishna Buster -->
+				<item id="80099" min="2" max="2" chance="7.15" /> <!-- Krishna Caster -->
+				<item id="80100" min="2" max="2" chance="7.15" /> <!-- Krishna Retributer -->
+				<item id="80101" min="2" max="2" chance="7.15" /> <!-- Krishna Dual Swords -->
+				<item id="80102" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Daggers -->
+				<item id="80103" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Blunt Weapons -->
+				<item id="80104" min="4" max="4" chance="20" /> <!-- Leviathan Helmet - Heavy armor -->
+				<item id="80105" min="4" max="4" chance="20" /> <!-- Leviathan Breastplate - Heavy armor -->
+				<item id="80106" min="4" max="4" chance="20" /> <!-- Leviathan Gaiters - Heavy armor -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="40002" level="125" type="RaidBoss" name="Vanguard Rider" title="Vanguard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="40034117754185" sp="36030705842" />
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="482297162.90828" hpRegen="9.4" mp="68076" mpRegen="30" />
+			<attack physical="5456050.41243471" magical="45131.643963848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="450263.053009167" magical="45131.643963848" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="36" />
+			<height normal="123" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4414" level="1" /> <!-- Heavy Armor Type -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="14765" level="5" /> <!-- Vampiric Rage Resistence -->
+			<skill id="4410" level="22" /> <!-- Extremely Weak P Atk -->
+			<skill id="4411" level="22" /> <!-- Extremely Weak M Atk -->
+			<skill id="4412" level="22" /> <!-- Extremely Weak P Def -->
+			<skill id="4413" level="22" /> <!-- Extremely Weak M Def -->
+			<skill id="14655" level="1" /> <!-- Barrier of Reflection -->
+			<skill id="18181" level="1" /> <!-- Alien -->
+			<skill id="4442" level="1" /> <!-- Great fist -->
+			<skill id="4443" level="1" /> <!-- Great blunt -->
+			<skill id="4449" level="1" /> <!-- Great two -->
+			<skill id="1383" level="5" /> <!-- Mass Fire -->
+			<skill id="1385" level="5" /> <!-- Mass Wind -->
+			<skill id="21188" level="1" /> <!-- Recovery HP -->
+			<skill id="5125" level="1" /> <!-- Maximum status -->
+			<skill id="14765" level="4" /> <!-- Blood Siphon Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="46447" min="3" max="3" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46448" min="2" max="2" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46449" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46450" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46462" min="3" max="3" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46463" min="2" max="2" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46464" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46465" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46477" min="3" max="3" chance="23" /> <!-- Leona's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46478" min="2" max="2" chance="23" /> <!-- Leona's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46479" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46480" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46492" min="3" max="3" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46493" min="2" max="2" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46494" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46495" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46507" min="3" max="3" chance="23" /> <!-- Lionel's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46508" min="2" max="2" chance="23" /> <!-- Lionel's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46509" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46510" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 7 - Weapon -->
+				<item id="80333" min="1" max="1" chance="34" /> <!-- Dragon's Necklace -->
+				<item id="80334" min="1" max="1" chance="33" /> <!-- Dragon's Earring -->
+				<item id="80335" min="1" max="1" chance="33" /> <!-- Dragon's Ring -->
+				<item id="80090" min="2" max="2" chance="7.15" /> <!-- Krishna Shaper -->
+				<item id="80091" min="2" max="2" chance="7.15" /> <!-- Krishna Cutter -->
+				<item id="80092" min="2" max="2" chance="7.15" /> <!-- Krishna Slasher -->
+				<item id="80093" min="2" max="2" chance="7.15" /> <!-- Krishna Avenger -->
+				<item id="80094" min="2" max="2" chance="7.15" /> <!-- Krishna Fighter -->
+				<item id="80095" min="2" max="2" chance="7.15" /> <!-- Krishna Stormer -->
+				<item id="80096" min="2" max="2" chance="7.15" /> <!-- Krishna Thrower -->
+				<item id="80097" min="2" max="2" chance="7.15" /> <!-- Krishna Guardian -->
+				<item id="80098" min="2" max="2" chance="7.15" /> <!-- Krishna Buster -->
+				<item id="80099" min="2" max="2" chance="7.15" /> <!-- Krishna Caster -->
+				<item id="80100" min="2" max="2" chance="7.15" /> <!-- Krishna Retributer -->
+				<item id="80101" min="2" max="2" chance="7.15" /> <!-- Krishna Dual Swords -->
+				<item id="80102" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Daggers -->
+				<item id="80103" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Blunt Weapons -->
+				<item id="80104" min="4" max="4" chance="20" /> <!-- Leviathan Helmet - Heavy armor -->
+				<item id="80105" min="4" max="4" chance="20" /> <!-- Leviathan Breastplate - Heavy armor -->
+				<item id="80106" min="4" max="4" chance="20" /> <!-- Leviathan Gaiters - Heavy armor -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="40017" level="125" type="RaidBoss" name="Vanguard Rider" title="Vanguard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="40034117754185" sp="36030705842" />
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="482297162.90828" hpRegen="9.4" mp="68076" mpRegen="30" />
+			<attack physical="5456050.41243471" magical="45131.643963848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="450263.053009167" magical="45131.643963848" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="36" />
+			<height normal="123" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4414" level="1" /> <!-- Heavy Armor Type -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="14765" level="5" /> <!-- Vampiric Rage Resistence -->
+			<skill id="4410" level="22" /> <!-- Extremely Weak P Atk -->
+			<skill id="4411" level="22" /> <!-- Extremely Weak M Atk -->
+			<skill id="4412" level="22" /> <!-- Extremely Weak P Def -->
+			<skill id="4413" level="22" /> <!-- Extremely Weak M Def -->
+			<skill id="14655" level="1" /> <!-- Barrier of Reflection -->
+			<skill id="18181" level="1" /> <!-- Alien -->
+			<skill id="4442" level="1" /> <!-- Great fist -->
+			<skill id="4443" level="1" /> <!-- Great blunt -->
+			<skill id="4449" level="1" /> <!-- Great two -->
+			<skill id="1383" level="5" /> <!-- Mass Fire -->
+			<skill id="1385" level="5" /> <!-- Mass Wind -->
+			<skill id="21188" level="1" /> <!-- Recovery HP -->
+			<skill id="5125" level="1" /> <!-- Maximum status -->
+			<skill id="14765" level="4" /> <!-- Blood Siphon Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="46447" min="3" max="3" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46448" min="2" max="2" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46449" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46450" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46462" min="3" max="3" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46463" min="2" max="2" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46464" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46465" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46477" min="3" max="3" chance="23" /> <!-- Leona's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46478" min="2" max="2" chance="23" /> <!-- Leona's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46479" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46480" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46492" min="3" max="3" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46493" min="2" max="2" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46494" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46495" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46507" min="3" max="3" chance="23" /> <!-- Lionel's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46508" min="2" max="2" chance="23" /> <!-- Lionel's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46509" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46510" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 7 - Weapon -->
+				<item id="80333" min="1" max="1" chance="34" /> <!-- Dragon's Necklace -->
+				<item id="80334" min="1" max="1" chance="33" /> <!-- Dragon's Earring -->
+				<item id="80335" min="1" max="1" chance="33" /> <!-- Dragon's Ring -->
+				<item id="80090" min="2" max="2" chance="7.15" /> <!-- Krishna Shaper -->
+				<item id="80091" min="2" max="2" chance="7.15" /> <!-- Krishna Cutter -->
+				<item id="80092" min="2" max="2" chance="7.15" /> <!-- Krishna Slasher -->
+				<item id="80093" min="2" max="2" chance="7.15" /> <!-- Krishna Avenger -->
+				<item id="80094" min="2" max="2" chance="7.15" /> <!-- Krishna Fighter -->
+				<item id="80095" min="2" max="2" chance="7.15" /> <!-- Krishna Stormer -->
+				<item id="80096" min="2" max="2" chance="7.15" /> <!-- Krishna Thrower -->
+				<item id="80097" min="2" max="2" chance="7.15" /> <!-- Krishna Guardian -->
+				<item id="80098" min="2" max="2" chance="7.15" /> <!-- Krishna Buster -->
+				<item id="80099" min="2" max="2" chance="7.15" /> <!-- Krishna Caster -->
+				<item id="80100" min="2" max="2" chance="7.15" /> <!-- Krishna Retributer -->
+				<item id="80101" min="2" max="2" chance="7.15" /> <!-- Krishna Dual Swords -->
+				<item id="80102" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Daggers -->
+				<item id="80103" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Blunt Weapons -->
+				<item id="80104" min="4" max="4" chance="20" /> <!-- Leviathan Helmet - Heavy armor -->
+				<item id="80105" min="4" max="4" chance="20" /> <!-- Leviathan Breastplate - Heavy armor -->
+				<item id="80106" min="4" max="4" chance="20" /> <!-- Leviathan Gaiters - Heavy armor -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="40029" level="125" type="RaidBoss" name="Demon Campfire" title="Vanguard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="40034117754185" sp="36030705842" />
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="482297162.90828" hpRegen="9.4" mp="68076" mpRegen="30" />
+			<attack physical="5456050.41243471" magical="45131.643963848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="450263.053009167" magical="45131.643963848" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="36" />
+			<height normal="123" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4414" level="1" /> <!-- Heavy Armor Type -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="5465" level="1" /> <!-- Earth Attack -->
+			<skill id="14765" level="4" /> <!-- Blood Siphon Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="46447" min="3" max="3" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46448" min="2" max="2" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46449" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46450" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46462" min="3" max="3" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46463" min="2" max="2" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46464" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46465" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46477" min="3" max="3" chance="23" /> <!-- Leona's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46478" min="2" max="2" chance="23" /> <!-- Leona's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46479" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46480" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46492" min="3" max="3" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46493" min="2" max="2" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46494" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46495" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46507" min="3" max="3" chance="23" /> <!-- Lionel's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46508" min="2" max="2" chance="23" /> <!-- Lionel's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46509" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46510" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 7 - Weapon -->
+				<item id="80333" min="1" max="1" chance="34" /> <!-- Dragon's Necklace -->
+				<item id="80334" min="1" max="1" chance="33" /> <!-- Dragon's Earring -->
+				<item id="80335" min="1" max="1" chance="33" /> <!-- Dragon's Ring -->
+				<item id="80090" min="2" max="2" chance="7.15" /> <!-- Krishna Shaper -->
+				<item id="80091" min="2" max="2" chance="7.15" /> <!-- Krishna Cutter -->
+				<item id="80092" min="2" max="2" chance="7.15" /> <!-- Krishna Slasher -->
+				<item id="80093" min="2" max="2" chance="7.15" /> <!-- Krishna Avenger -->
+				<item id="80094" min="2" max="2" chance="7.15" /> <!-- Krishna Fighter -->
+				<item id="80095" min="2" max="2" chance="7.15" /> <!-- Krishna Stormer -->
+				<item id="80096" min="2" max="2" chance="7.15" /> <!-- Krishna Thrower -->
+				<item id="80097" min="2" max="2" chance="7.15" /> <!-- Krishna Guardian -->
+				<item id="80098" min="2" max="2" chance="7.15" /> <!-- Krishna Buster -->
+				<item id="80099" min="2" max="2" chance="7.15" /> <!-- Krishna Caster -->
+				<item id="80100" min="2" max="2" chance="7.15" /> <!-- Krishna Retributer -->
+				<item id="80101" min="2" max="2" chance="7.15" /> <!-- Krishna Dual Swords -->
+				<item id="80102" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Daggers -->
+				<item id="80103" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Blunt Weapons -->
+				<item id="80104" min="4" max="4" chance="20" /> <!-- Leviathan Helmet - Heavy armor -->
+				<item id="80105" min="4" max="4" chance="20" /> <!-- Leviathan Breastplate - Heavy armor -->
+				<item id="80106" min="4" max="4" chance="20" /> <!-- Leviathan Gaiters - Heavy armor -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="40030" level="125" type="RaidBoss" name="Demon Campfire" title="Vanguard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="40034117754185" sp="36030705842" />
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="482297162.90828" hpRegen="9.4" mp="68076" mpRegen="30" />
+			<attack physical="5456050.41243471" magical="45131.643963848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="450263.053009167" magical="45131.643963848" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="36" />
+			<height normal="123" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4414" level="1" /> <!-- Heavy Armor Type -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="5465" level="1" /> <!-- Earth Attack -->
+			<skill id="14765" level="4" /> <!-- Blood Siphon Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="46447" min="3" max="3" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46448" min="2" max="2" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46449" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46450" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46462" min="3" max="3" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46463" min="2" max="2" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46464" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46465" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46477" min="3" max="3" chance="23" /> <!-- Leona's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46478" min="2" max="2" chance="23" /> <!-- Leona's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46479" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46480" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46492" min="3" max="3" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46493" min="2" max="2" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46494" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46495" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46507" min="3" max="3" chance="23" /> <!-- Lionel's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46508" min="2" max="2" chance="23" /> <!-- Lionel's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46509" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46510" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 7 - Weapon -->
+				<item id="80333" min="1" max="1" chance="34" /> <!-- Dragon's Necklace -->
+				<item id="80334" min="1" max="1" chance="33" /> <!-- Dragon's Earring -->
+				<item id="80335" min="1" max="1" chance="33" /> <!-- Dragon's Ring -->
+				<item id="80090" min="2" max="2" chance="7.15" /> <!-- Krishna Shaper -->
+				<item id="80091" min="2" max="2" chance="7.15" /> <!-- Krishna Cutter -->
+				<item id="80092" min="2" max="2" chance="7.15" /> <!-- Krishna Slasher -->
+				<item id="80093" min="2" max="2" chance="7.15" /> <!-- Krishna Avenger -->
+				<item id="80094" min="2" max="2" chance="7.15" /> <!-- Krishna Fighter -->
+				<item id="80095" min="2" max="2" chance="7.15" /> <!-- Krishna Stormer -->
+				<item id="80096" min="2" max="2" chance="7.15" /> <!-- Krishna Thrower -->
+				<item id="80097" min="2" max="2" chance="7.15" /> <!-- Krishna Guardian -->
+				<item id="80098" min="2" max="2" chance="7.15" /> <!-- Krishna Buster -->
+				<item id="80099" min="2" max="2" chance="7.15" /> <!-- Krishna Caster -->
+				<item id="80100" min="2" max="2" chance="7.15" /> <!-- Krishna Retributer -->
+				<item id="80101" min="2" max="2" chance="7.15" /> <!-- Krishna Dual Swords -->
+				<item id="80102" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Daggers -->
+				<item id="80103" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Blunt Weapons -->
+				<item id="80104" min="4" max="4" chance="20" /> <!-- Leviathan Helmet - Heavy armor -->
+				<item id="80105" min="4" max="4" chance="20" /> <!-- Leviathan Breastplate - Heavy armor -->
+				<item id="80106" min="4" max="4" chance="20" /> <!-- Leviathan Gaiters - Heavy armor -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="40171" level="125" type="RaidBoss" name="Demon Lord" title="Vanguard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="40034117754185" sp="36030705842" />
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="482297162.90828" hpRegen="9.4" mp="68076" mpRegen="30" />
+			<attack physical="5456050.41243471" magical="45131.643963848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="450263.053009167" magical="45131.643963848" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="36" />
+			<height normal="123" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4414" level="1" /> <!-- Heavy Armor Type -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="5465" level="1" /> <!-- Earth Attack -->
+			<skill id="14765" level="4" /> <!-- Blood Siphon Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="46447" min="3" max="3" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46448" min="2" max="2" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46449" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46450" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46462" min="3" max="3" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46463" min="2" max="2" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46464" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46465" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46477" min="3" max="3" chance="23" /> <!-- Leona's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46478" min="2" max="2" chance="23" /> <!-- Leona's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46479" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46480" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46492" min="3" max="3" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46493" min="2" max="2" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46494" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46495" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46507" min="3" max="3" chance="23" /> <!-- Lionel's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46508" min="2" max="2" chance="23" /> <!-- Lionel's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46509" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46510" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 7 - Weapon -->
+				<item id="80333" min="1" max="1" chance="34" /> <!-- Dragon's Necklace -->
+				<item id="80334" min="1" max="1" chance="33" /> <!-- Dragon's Earring -->
+				<item id="80335" min="1" max="1" chance="33" /> <!-- Dragon's Ring -->
+				<item id="80090" min="2" max="2" chance="7.15" /> <!-- Krishna Shaper -->
+				<item id="80091" min="2" max="2" chance="7.15" /> <!-- Krishna Cutter -->
+				<item id="80092" min="2" max="2" chance="7.15" /> <!-- Krishna Slasher -->
+				<item id="80093" min="2" max="2" chance="7.15" /> <!-- Krishna Avenger -->
+				<item id="80094" min="2" max="2" chance="7.15" /> <!-- Krishna Fighter -->
+				<item id="80095" min="2" max="2" chance="7.15" /> <!-- Krishna Stormer -->
+				<item id="80096" min="2" max="2" chance="7.15" /> <!-- Krishna Thrower -->
+				<item id="80097" min="2" max="2" chance="7.15" /> <!-- Krishna Guardian -->
+				<item id="80098" min="2" max="2" chance="7.15" /> <!-- Krishna Buster -->
+				<item id="80099" min="2" max="2" chance="7.15" /> <!-- Krishna Caster -->
+				<item id="80100" min="2" max="2" chance="7.15" /> <!-- Krishna Retributer -->
+				<item id="80101" min="2" max="2" chance="7.15" /> <!-- Krishna Dual Swords -->
+				<item id="80102" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Daggers -->
+				<item id="80103" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Blunt Weapons -->
+				<item id="80104" min="4" max="4" chance="20" /> <!-- Leviathan Helmet - Heavy armor -->
+				<item id="80105" min="4" max="4" chance="20" /> <!-- Leviathan Breastplate - Heavy armor -->
+				<item id="80106" min="4" max="4" chance="20" /> <!-- Leviathan Gaiters - Heavy armor -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="40172" level="130" type="RaidBoss" name="Demon Landy" title="Demon">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="40034117754185" sp="36030705842" />
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="482297162.90828" hpRegen="3.0" mp="68076" mpRegen="30" />
+			<attack physical="5456050.41243471" magical="45131.643963848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="450263.053009167" magical="45131.643963848" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="36" />
+			<height normal="123" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4414" level="1" /> <!-- Heavy Armor Type -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="5465" level="1" /> <!-- Earth Attack -->
+			<skill id="14765" level="4" /> <!-- Blood Siphon Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="46447" min="3" max="3" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46448" min="2" max="2" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46449" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46450" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46462" min="3" max="3" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46463" min="2" max="2" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46464" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46465" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46477" min="3" max="3" chance="23" /> <!-- Leona's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46478" min="2" max="2" chance="23" /> <!-- Leona's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46479" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46480" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46492" min="3" max="3" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46493" min="2" max="2" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46494" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46495" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46507" min="3" max="3" chance="23" /> <!-- Lionel's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46508" min="2" max="2" chance="23" /> <!-- Lionel's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46509" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46510" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 7 - Weapon -->
+				<item id="80333" min="1" max="1" chance="34" /> <!-- Dragon's Necklace -->
+				<item id="80334" min="1" max="1" chance="33" /> <!-- Dragon's Earring -->
+				<item id="80335" min="1" max="1" chance="33" /> <!-- Dragon's Ring -->
+				<item id="80090" min="2" max="2" chance="7.15" /> <!-- Krishna Shaper -->
+				<item id="80091" min="2" max="2" chance="7.15" /> <!-- Krishna Cutter -->
+				<item id="80092" min="2" max="2" chance="7.15" /> <!-- Krishna Slasher -->
+				<item id="80093" min="2" max="2" chance="7.15" /> <!-- Krishna Avenger -->
+				<item id="80094" min="2" max="2" chance="7.15" /> <!-- Krishna Fighter -->
+				<item id="80095" min="2" max="2" chance="7.15" /> <!-- Krishna Stormer -->
+				<item id="80096" min="2" max="2" chance="7.15" /> <!-- Krishna Thrower -->
+				<item id="80097" min="2" max="2" chance="7.15" /> <!-- Krishna Guardian -->
+				<item id="80098" min="2" max="2" chance="7.15" /> <!-- Krishna Buster -->
+				<item id="80099" min="2" max="2" chance="7.15" /> <!-- Krishna Caster -->
+				<item id="80100" min="2" max="2" chance="7.15" /> <!-- Krishna Retributer -->
+				<item id="80101" min="2" max="2" chance="7.15" /> <!-- Krishna Dual Swords -->
+				<item id="80102" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Daggers -->
+				<item id="80103" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Blunt Weapons -->
+				<item id="80104" min="4" max="4" chance="20" /> <!-- Leviathan Helmet - Heavy armor -->
+				<item id="80105" min="4" max="4" chance="20" /> <!-- Leviathan Breastplate - Heavy armor -->
+				<item id="80106" min="4" max="4" chance="20" /> <!-- Leviathan Gaiters - Heavy armor -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="40173" level="130" type="RaidBoss" name="Demon" title="Demo">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="40034117754185" sp="36030705842" />
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="482297162.90828" hpRegen="3.0" mp="68076" mpRegen="30" />
+			<attack physical="5456050.41243471" magical="45131.643963848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="450263.053009167" magical="45131.643963848" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="36" />
+			<height normal="123" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4414" level="1" /> <!-- Heavy Armor Type -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="5465" level="1" /> <!-- Earth Attack -->
+			<skill id="14765" level="4" /> <!-- Blood Siphon Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="46447" min="3" max="3" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46448" min="2" max="2" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46449" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46450" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46462" min="3" max="3" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46463" min="2" max="2" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46464" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46465" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46477" min="3" max="3" chance="23" /> <!-- Leona's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46478" min="2" max="2" chance="23" /> <!-- Leona's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46479" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46480" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46492" min="3" max="3" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46493" min="2" max="2" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46494" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46495" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46507" min="3" max="3" chance="23" /> <!-- Lionel's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46508" min="2" max="2" chance="23" /> <!-- Lionel's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46509" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46510" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 7 - Weapon -->
+				<item id="80333" min="1" max="1" chance="34" /> <!-- Dragon's Necklace -->
+				<item id="80334" min="1" max="1" chance="33" /> <!-- Dragon's Earring -->
+				<item id="80335" min="1" max="1" chance="33" /> <!-- Dragon's Ring -->
+				<item id="80090" min="2" max="2" chance="7.15" /> <!-- Krishna Shaper -->
+				<item id="80091" min="2" max="2" chance="7.15" /> <!-- Krishna Cutter -->
+				<item id="80092" min="2" max="2" chance="7.15" /> <!-- Krishna Slasher -->
+				<item id="80093" min="2" max="2" chance="7.15" /> <!-- Krishna Avenger -->
+				<item id="80094" min="2" max="2" chance="7.15" /> <!-- Krishna Fighter -->
+				<item id="80095" min="2" max="2" chance="7.15" /> <!-- Krishna Stormer -->
+				<item id="80096" min="2" max="2" chance="7.15" /> <!-- Krishna Thrower -->
+				<item id="80097" min="2" max="2" chance="7.15" /> <!-- Krishna Guardian -->
+				<item id="80098" min="2" max="2" chance="7.15" /> <!-- Krishna Buster -->
+				<item id="80099" min="2" max="2" chance="7.15" /> <!-- Krishna Caster -->
+				<item id="80100" min="2" max="2" chance="7.15" /> <!-- Krishna Retributer -->
+				<item id="80101" min="2" max="2" chance="7.15" /> <!-- Krishna Dual Swords -->
+				<item id="80102" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Daggers -->
+				<item id="80103" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Blunt Weapons -->
+				<item id="80104" min="4" max="4" chance="20" /> <!-- Leviathan Helmet - Heavy armor -->
+				<item id="80105" min="4" max="4" chance="20" /> <!-- Leviathan Breastplate - Heavy armor -->
+				<item id="80106" min="4" max="4" chance="20" /> <!-- Leviathan Gaiters - Heavy armor -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="40174" level="130" type="RaidBoss" name="Demon" title="Demo">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="40034117754185" sp="36030705842" />
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="482297162.90828" hpRegen="9.4" mp="68076" mpRegen="30" />
+			<attack physical="5456050.41243471" magical="45131.643963848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="450263.053009167" magical="45131.643963848" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="36" />
+			<height normal="123" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4414" level="1" /> <!-- Heavy Armor Type -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="5465" level="1" /> <!-- Earth Attack -->
+			<skill id="14765" level="4" /> <!-- Blood Siphon Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="46447" min="3" max="3" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46448" min="2" max="2" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46449" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46450" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46462" min="3" max="3" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46463" min="2" max="2" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46464" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46465" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46477" min="3" max="3" chance="23" /> <!-- Leona's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46478" min="2" max="2" chance="23" /> <!-- Leona's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46479" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46480" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46492" min="3" max="3" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46493" min="2" max="2" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46494" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46495" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46507" min="3" max="3" chance="23" /> <!-- Lionel's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46508" min="2" max="2" chance="23" /> <!-- Lionel's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46509" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46510" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 7 - Weapon -->
+				<item id="80333" min="1" max="1" chance="34" /> <!-- Dragon's Necklace -->
+				<item id="80334" min="1" max="1" chance="33" /> <!-- Dragon's Earring -->
+				<item id="80335" min="1" max="1" chance="33" /> <!-- Dragon's Ring -->
+				<item id="80090" min="2" max="2" chance="7.15" /> <!-- Krishna Shaper -->
+				<item id="80091" min="2" max="2" chance="7.15" /> <!-- Krishna Cutter -->
+				<item id="80092" min="2" max="2" chance="7.15" /> <!-- Krishna Slasher -->
+				<item id="80093" min="2" max="2" chance="7.15" /> <!-- Krishna Avenger -->
+				<item id="80094" min="2" max="2" chance="7.15" /> <!-- Krishna Fighter -->
+				<item id="80095" min="2" max="2" chance="7.15" /> <!-- Krishna Stormer -->
+				<item id="80096" min="2" max="2" chance="7.15" /> <!-- Krishna Thrower -->
+				<item id="80097" min="2" max="2" chance="7.15" /> <!-- Krishna Guardian -->
+				<item id="80098" min="2" max="2" chance="7.15" /> <!-- Krishna Buster -->
+				<item id="80099" min="2" max="2" chance="7.15" /> <!-- Krishna Caster -->
+				<item id="80100" min="2" max="2" chance="7.15" /> <!-- Krishna Retributer -->
+				<item id="80101" min="2" max="2" chance="7.15" /> <!-- Krishna Dual Swords -->
+				<item id="80102" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Daggers -->
+				<item id="80103" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Blunt Weapons -->
+				<item id="80104" min="4" max="4" chance="20" /> <!-- Leviathan Helmet - Heavy armor -->
+				<item id="80105" min="4" max="4" chance="20" /> <!-- Leviathan Breastplate - Heavy armor -->
+				<item id="80106" min="4" max="4" chance="20" /> <!-- Leviathan Gaiters - Heavy armor -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="40175" level="130" type="RaidBoss" name="Demon" title="Demo">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="40034117754185" sp="36030705842" />
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="482297162.90828" hpRegen="9.4" mp="68076" mpRegen="30" />
+			<attack physical="5456050.41243471" magical="45131.643963848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="450263.053009167" magical="45131.643963848" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="36" />
+			<height normal="123" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4414" level="1" /> <!-- Heavy Armor Type -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="5465" level="1" /> <!-- Earth Attack -->
+			<skill id="14765" level="4" /> <!-- Blood Siphon Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="46447" min="3" max="3" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46448" min="2" max="2" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46449" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46450" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46462" min="3" max="3" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46463" min="2" max="2" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46464" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46465" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46477" min="3" max="3" chance="23" /> <!-- Leona's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46478" min="2" max="2" chance="23" /> <!-- Leona's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46479" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46480" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46492" min="3" max="3" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46493" min="2" max="2" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46494" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46495" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46507" min="3" max="3" chance="23" /> <!-- Lionel's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46508" min="2" max="2" chance="23" /> <!-- Lionel's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46509" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46510" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 7 - Weapon -->
+				<item id="80333" min="1" max="1" chance="34" /> <!-- Dragon's Necklace -->
+				<item id="80334" min="1" max="1" chance="33" /> <!-- Dragon's Earring -->
+				<item id="80335" min="1" max="1" chance="33" /> <!-- Dragon's Ring -->
+				<item id="80090" min="2" max="2" chance="7.15" /> <!-- Krishna Shaper -->
+				<item id="80091" min="2" max="2" chance="7.15" /> <!-- Krishna Cutter -->
+				<item id="80092" min="2" max="2" chance="7.15" /> <!-- Krishna Slasher -->
+				<item id="80093" min="2" max="2" chance="7.15" /> <!-- Krishna Avenger -->
+				<item id="80094" min="2" max="2" chance="7.15" /> <!-- Krishna Fighter -->
+				<item id="80095" min="2" max="2" chance="7.15" /> <!-- Krishna Stormer -->
+				<item id="80096" min="2" max="2" chance="7.15" /> <!-- Krishna Thrower -->
+				<item id="80097" min="2" max="2" chance="7.15" /> <!-- Krishna Guardian -->
+				<item id="80098" min="2" max="2" chance="7.15" /> <!-- Krishna Buster -->
+				<item id="80099" min="2" max="2" chance="7.15" /> <!-- Krishna Caster -->
+				<item id="80100" min="2" max="2" chance="7.15" /> <!-- Krishna Retributer -->
+				<item id="80101" min="2" max="2" chance="7.15" /> <!-- Krishna Dual Swords -->
+				<item id="80102" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Daggers -->
+				<item id="80103" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Blunt Weapons -->
+				<item id="80104" min="4" max="4" chance="20" /> <!-- Leviathan Helmet - Heavy armor -->
+				<item id="80105" min="4" max="4" chance="20" /> <!-- Leviathan Breastplate - Heavy armor -->
+				<item id="80106" min="4" max="4" chance="20" /> <!-- Leviathan Gaiters - Heavy armor -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="40176" level="125" type="RaidBoss" name="Demon" title="Vanguard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="40034117754185" sp="36030705842" />
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="482297162.90828" hpRegen="9.4" mp="68076" mpRegen="30" />
+			<attack physical="5456050.41243471" magical="45131.643963848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="450263.053009167" magical="45131.643963848" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="36" />
+			<height normal="123" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4414" level="1" /> <!-- Heavy Armor Type -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="5465" level="1" /> <!-- Earth Attack -->
+			<skill id="14765" level="4" /> <!-- Blood Siphon Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="46447" min="3" max="3" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46448" min="2" max="2" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46449" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46450" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46462" min="3" max="3" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46463" min="2" max="2" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46464" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46465" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46477" min="3" max="3" chance="23" /> <!-- Leona's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46478" min="2" max="2" chance="23" /> <!-- Leona's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46479" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46480" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46492" min="3" max="3" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46493" min="2" max="2" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46494" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46495" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46507" min="3" max="3" chance="23" /> <!-- Lionel's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46508" min="2" max="2" chance="23" /> <!-- Lionel's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46509" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46510" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 7 - Weapon -->
+				<item id="80333" min="1" max="1" chance="34" /> <!-- Dragon's Necklace -->
+				<item id="80334" min="1" max="1" chance="33" /> <!-- Dragon's Earring -->
+				<item id="80335" min="1" max="1" chance="33" /> <!-- Dragon's Ring -->
+				<item id="80090" min="2" max="2" chance="7.15" /> <!-- Krishna Shaper -->
+				<item id="80091" min="2" max="2" chance="7.15" /> <!-- Krishna Cutter -->
+				<item id="80092" min="2" max="2" chance="7.15" /> <!-- Krishna Slasher -->
+				<item id="80093" min="2" max="2" chance="7.15" /> <!-- Krishna Avenger -->
+				<item id="80094" min="2" max="2" chance="7.15" /> <!-- Krishna Fighter -->
+				<item id="80095" min="2" max="2" chance="7.15" /> <!-- Krishna Stormer -->
+				<item id="80096" min="2" max="2" chance="7.15" /> <!-- Krishna Thrower -->
+				<item id="80097" min="2" max="2" chance="7.15" /> <!-- Krishna Guardian -->
+				<item id="80098" min="2" max="2" chance="7.15" /> <!-- Krishna Buster -->
+				<item id="80099" min="2" max="2" chance="7.15" /> <!-- Krishna Caster -->
+				<item id="80100" min="2" max="2" chance="7.15" /> <!-- Krishna Retributer -->
+				<item id="80101" min="2" max="2" chance="7.15" /> <!-- Krishna Dual Swords -->
+				<item id="80102" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Daggers -->
+				<item id="80103" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Blunt Weapons -->
+				<item id="80104" min="4" max="4" chance="20" /> <!-- Leviathan Helmet - Heavy armor -->
+				<item id="80105" min="4" max="4" chance="20" /> <!-- Leviathan Breastplate - Heavy armor -->
+				<item id="80106" min="4" max="4" chance="20" /> <!-- Leviathan Gaiters - Heavy armor -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="40177" level="125" type="RaidBoss" name="Sauron" title="Dark Lord">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="40034117754185" sp="36030705842" />
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="482297162.90828" hpRegen="9.4" mp="68076" mpRegen="30" />
+			<attack physical="5456050.41243471" magical="45131.643963848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="450263.053009167" magical="45131.643963848" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="36" />
+			<height normal="123" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="1492" level="1" /> <!-- Fire Trap -->
+			<skill id="1285" level="1" /> <!-- Seed of Fire -->
+			<skill id="4429" level="5" /> <!-- Fire Resistance -->
+			<skill id="4418" level="5" /> <!-- Fire Attribute -->
+			<skill id="4279" level="5" /> <!-- Fire Vul -->
+			<skill id="514" level="5" /> <!-- Fire Trap -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4414" level="1" /> <!-- Heavy Armor Type -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="14765" level="5" /> <!-- Vampiric Rage Resistence -->
+			<skill id="4410" level="22" /> <!-- Extremely Weak P Atk -->
+			<skill id="4411" level="22" /> <!-- Extremely Weak M Atk -->
+			<skill id="4412" level="22" /> <!-- Extremely Weak P Def -->
+			<skill id="4413" level="22" /> <!-- Extremely Weak M Def -->
+			<skill id="14655" level="1" /> <!-- Barrier of Reflection -->
+			<skill id="18181" level="1" /> <!-- Alien -->
+			<skill id="4442" level="1" /> <!-- Great fist -->
+			<skill id="4443" level="1" /> <!-- Great blunt -->
+			<skill id="4449" level="1" /> <!-- Great two -->
+			<skill id="1383" level="5" /> <!-- Mass Fire -->
+			<skill id="1384" level="5" /> <!-- Mass Water -->
+			<skill id="1385" level="5" /> <!-- Mass Wind -->
+			<skill id="21188" level="1" /> <!-- Recovery HP -->
+			<skill id="5125" level="1" /> <!-- Maximum status -->
+			<skill id="14765" level="4" /> <!-- Blood Siphon Resistance -->
+			<skill id="5465" level="1" /> <!-- Earth Attack -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="46447" min="3" max="3" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46448" min="2" max="2" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46449" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46450" min="1" max="1" chance="15.5" /> <!-- Kain's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46462" min="3" max="3" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46463" min="2" max="2" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46464" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46465" min="1" max="1" chance="15.5" /> <!-- Mermoden's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46477" min="3" max="3" chance="23" /> <!-- Leona's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46478" min="2" max="2" chance="23" /> <!-- Leona's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46479" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46480" min="1" max="1" chance="23" /> <!-- Leona's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46492" min="3" max="3" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46493" min="2" max="2" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46494" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46495" min="1" max="1" chance="23" /> <!-- Pantheon's Soul Crystal Lv. 7 - Weapon -->
+				<item id="46507" min="3" max="3" chance="23" /> <!-- Lionel's Soul Crystal Lv. 4 - Weapon -->
+				<item id="46508" min="2" max="2" chance="23" /> <!-- Lionel's Soul Crystal Lv. 5 - Weapon -->
+				<item id="46509" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 6 - Weapon -->
+				<item id="46510" min="1" max="1" chance="23" /> <!-- Lionel's Soul Crystal Lv. 7 - Weapon -->
+				<item id="80333" min="1" max="1" chance="34" /> <!-- Dragon's Necklace -->
+				<item id="80334" min="1" max="1" chance="33" /> <!-- Dragon's Earring -->
+				<item id="80335" min="1" max="1" chance="33" /> <!-- Dragon's Ring -->
+				<item id="80090" min="2" max="2" chance="7.15" /> <!-- Krishna Shaper -->
+				<item id="80091" min="2" max="2" chance="7.15" /> <!-- Krishna Cutter -->
+				<item id="80092" min="2" max="2" chance="7.15" /> <!-- Krishna Slasher -->
+				<item id="80093" min="2" max="2" chance="7.15" /> <!-- Krishna Avenger -->
+				<item id="80094" min="2" max="2" chance="7.15" /> <!-- Krishna Fighter -->
+				<item id="80095" min="2" max="2" chance="7.15" /> <!-- Krishna Stormer -->
+				<item id="80096" min="2" max="2" chance="7.15" /> <!-- Krishna Thrower -->
+				<item id="80097" min="2" max="2" chance="7.15" /> <!-- Krishna Guardian -->
+				<item id="80098" min="2" max="2" chance="7.15" /> <!-- Krishna Buster -->
+				<item id="80099" min="2" max="2" chance="7.15" /> <!-- Krishna Caster -->
+				<item id="80100" min="2" max="2" chance="7.15" /> <!-- Krishna Retributer -->
+				<item id="80101" min="2" max="2" chance="7.15" /> <!-- Krishna Dual Swords -->
+				<item id="80102" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Daggers -->
+				<item id="80103" min="2" max="2" chance="7.1" /> <!-- Krishna Dual Blunt Weapons -->
+				<item id="80104" min="4" max="4" chance="20" /> <!-- Leviathan Helmet - Heavy armor -->
+				<item id="80105" min="4" max="4" chance="20" /> <!-- Leviathan Breastplate - Heavy armor -->
+				<item id="80106" min="4" max="4" chance="20" /> <!-- Leviathan Gaiters - Heavy armor -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="40164" level="115" type="Monster" name="Death" title="Death Guard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8446.44475689713" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<collision>
+			<radius normal="16" />
+			<height normal="32.6" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="14" /> <!-- Humans -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="1" /> <!-- Bare Hands -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
+		</skillList>
+	</npc>
+	<npc id="40165" level="115" type="Monster" name="Death" title="Death Guard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8446.44475689713" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<collision>
+			<radius normal="16" />
+			<height normal="32.6" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="14" /> <!-- Humans -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="1" /> <!-- Bare Hands -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
+		</skillList>
+	</npc>
+	<npc id="40166" level="115" type="Monster" name="Death" title="Death Guard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8446.44475689713" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<collision>
+			<radius normal="16" />
+			<height normal="32.6" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="14" /> <!-- Humans -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="1" /> <!-- Bare Hands -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
+		</skillList>
+	</npc>
+	<npc id="40167" level="115" type="Monster" name="Death" title="Death Guard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8446.44475689713" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<collision>
+			<radius normal="16" />
+			<height normal="32.6" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="14" /> <!-- Humans -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="1" /> <!-- Bare Hands -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
+		</skillList>
+	</npc>
+	<npc id="40168" level="115" type="Monster" name="Death" title="Death Guard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8446.44475689713" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<collision>
+			<radius normal="16" />
+			<height normal="32.6" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="14" /> <!-- Humans -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="1" /> <!-- Bare Hands -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
+		</skillList>
+	</npc>
+	<npc id="40169" level="115" type="Monster" name="Death" title="Death Guard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8446.44475689713" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<collision>
+			<radius normal="16" />
+			<height normal="32.6" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="14" /> <!-- Humans -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="1" /> <!-- Bare Hands -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
+		</skillList>
+	</npc>
+	<npc id="40170" level="115" type="Monster" name="Death" title="Death Guard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8446.44475689713" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="5" critical="4" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<attribute>
+				<defence fire="20" water="20" wind="20" earth="20" holy="20" dark="20" />
+			</attribute>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<collision>
+			<radius normal="16" />
+			<height normal="32.6" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="14" /> <!-- Humans -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="1" /> <!-- Bare Hands -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
+		</skillList>
+	</npc>
+	<npc id="40325" level="115" type="Monster" name="Eigis">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>FAIRY</race>
+		<sex>FEMALE</sex>
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="18446.44475689713" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>710</hitTime>
+			<abnormalResist physical="230" magical="230" />
+		</stats>
+		<status attackable="true" noSleepMode="true" />
+		<collision>
+			<radius normal="20" />
+			<height normal="67" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="13" /> <!-- Fairies -->
+			<skill id="14765" level="3" /> <!-- Vampiric Rage Resistance -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4062" level="1" /> <!-- Orfen -->
+			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
+		</skillList>
+	</npc>
+</list>

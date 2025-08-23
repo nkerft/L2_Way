@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="47247" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="47216" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="47218" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1000" id="27659" />
+	<production count="1" id="17623" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="37507" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="37508" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="37509" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="37513" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="37514" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="37515" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="37510" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="37511" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="37512" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="15000" id="57" />
+	<ingredient count="150" id="36514" />
+	<ingredient count="150" id="27659" />
+	<production count="1" id="37516" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="37517" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="37518" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1000" id="27659" />
+	<production count="1" id="47248" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1000" id="27659" />
+	<production count="1" id="47245" />
+</item>
+
+
+	<!-- Blessed Awakening Boss Jewels -->
+
+<item>
+	<!-- Adena -->
+	<ingredient count="1000" id="27659" />
+	<production count="1" id="19463" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1000" id="27659" />
+	<production count="1" id="36946" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1000" id="27659" />
+	<production count="1" id="19464" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1000" id="27659" />
+	<production count="1" id="35570" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1000" id="27659" />
+	<production count="1" id="37522" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="37521" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="36254" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="21712" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="36255" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="500" id="27659" />
+	<production count="1" id="16026" />
+</item>
+
+</list>

@@ -1,0 +1,12 @@
+abr. 20, 2025 9:33:57 AM org.l2jmobius.gameserver.managers.DBSpawnManager load
+ADVERTÊNCIA: DBSpawnManager: Error while initializing DBSpawnManager: 
+java.lang.NullPointerException: Cannot invoke "com.zaxxer.hikari.HikariDataSource.getConnection()" because "org.l2jmobius.commons.database.DatabaseFactory.DATABASE_POOL" is null
+	at org.l2jmobius.commons.database.DatabaseFactory.getConnection(DatabaseFactory.java:260)
+	at org.l2jmobius.gameserver.managers.DBSpawnManager.load(DBSpawnManager.java:91)
+	at org.l2jmobius.gameserver.managers.DBSpawnManager.<init>(DBSpawnManager.java:65)
+	at org.l2jmobius.gameserver.managers.DBSpawnManager$SingletonHolder.<clinit>(DBSpawnManager.java:653)
+	at org.l2jmobius.gameserver.managers.DBSpawnManager.getInstance(DBSpawnManager.java:648)
+	at org.l2jmobius.gameserver.Shutdown.saveData(Shutdown.java:449)
+	at org.l2jmobius.gameserver.Shutdown.startShutdownActions(Shutdown.java:399)
+	at org.l2jmobius.gameserver.Shutdown.run(Shutdown.java:143)
+

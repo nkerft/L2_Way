@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<!-- Forgotten SpellBook -->
+
+	<item>
+	<!-- Adena -->
+	<ingredient count="30" id="27659" />
+	<production count="1" id="48876" />
+	<!-- Forgotten SpellBook Chapter 1 -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="30" id="27659" />
+	<production count="1" id="46036" />
+	<!-- Forgotten SpellBook Chapter 1 -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="30" id="27659" />
+	<production count="1" id="48877" />
+	<!-- Forgotten SpellBook Chapter 2 -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="30" id="27659" />
+	<production count="1" id="48878" />
+	<!-- Forgotten SpellBook Chapter 3 -->
+ 	</item>
+		<item>
+	<ingredient count="30" id="27659" />
+	<production count="1" id="45926" />
+	<!-- SpellBook Chapter 1 -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="30" id="27659" />
+	<production count="1" id="45927" />
+	<!-- SpellBook  -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="30" id="27659" />
+	<production count="1" id="45928" />
+	<!-- SpellBook  -->
+	</item>
+		<item>
+	<ingredient count="30" id="27659" />
+	<production count="1" id="47854" />
+	<!-- SpellBook  -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="30" id="27659" />
+	<production count="1" id="47855" />
+	<!-- SpellBook -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="40" id="27659" />
+	<production count="1" id="45922" />
+	<!-- SpellBook -->
+	</item>
+		<item>
+	<ingredient count="50" id="27659" />
+	<production count="1" id="45923" />
+	<!-- SpellBook -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="60" id="27659" />
+	<production count="1" id="45924" />
+	<!-- SpellBook -->
+	</item>
+		<item>
+	<ingredient count="70" id="27659" />
+	<production count="1" id="47852" />
+	<!-- SpellBook -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="80" id="27659" />
+	<production count="1" id="47853" />
+	<!-- SpellBook -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="90" id="27659" />
+	<production count="1" id="80970" />
+	<!-- SpellBook -->
+	</item>
+</list>

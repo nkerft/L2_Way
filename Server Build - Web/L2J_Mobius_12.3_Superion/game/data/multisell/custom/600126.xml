@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+
+	<!-- Noble Accessories -->
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Leather Shirt -->
+	<production count="1" id="35772" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35771" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35770" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35769" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35768" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35767" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35766" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35784" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35783" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35782" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35781" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35780" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35779" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35778" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35777" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35796" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35795" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35794" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35793" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35792" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35791" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35790" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35789" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35808" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35807" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35806" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35805" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35804" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35803" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35819" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35818" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35817" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35816" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35815" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35830" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35829" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35828" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35827" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35826" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35842" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35841" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35840" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35839" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35838" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35837" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35836" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35835" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35854" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35853" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35852" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35851" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35850" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35849" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35848" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35847" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35866" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35865" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35864" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35863" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35862" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35861" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35860" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35859" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35878" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35877" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35876" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="5" id="27659" />
+	<!-- Hair Accessory -->
+	<production count="1" id="35875" />
+</item>
+</list>

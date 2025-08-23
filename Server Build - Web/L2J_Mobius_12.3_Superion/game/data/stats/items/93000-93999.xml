@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="93039" name="Worthy Warrior Transformation" type="Armor">
+		<!-- When equipped, it is impossible to wear armor. Hats, weapons and accessories are not removed. -->
+		<set name="icon" val="icon.gomdori_chest_change" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="BRONZE" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="93905" name="Flame Sword (NPC)" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.fire_sword_aden" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
+		<set name="bodypart" val="rhand" />
+		<set name="enchant_enabled" val="true" />
+		<set name="element_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<skills>
+			<skill id="50364" level="1" /> <!-- Death Knight's Flame Sword Effect" -->
+			<skill id="50365" level="2" type="ON_ENCHANT" type_value="1" /> <!-- +1 Death Knight's Flame Sword Effect -->
+			<skill id="50365" level="3" type="ON_ENCHANT" type_value="2" /> <!-- +2 Death Knight's Flame Sword Effect -->
+			<skill id="50365" level="4" type="ON_ENCHANT" type_value="3" /> <!-- +3 Death Knight's Flame Sword Effect -->
+			<skill id="50365" level="5" type="ON_ENCHANT" type_value="4" /> <!-- +4 Death Knight's Flame Sword Effect -->
+			<skill id="50365" level="6" type="ON_ENCHANT" type_value="5" /> <!-- +5 Death Knight's Flame Sword Effect -->
+			<skill id="50365" level="7" type="ON_ENCHANT" type_value="6" /> <!-- +6 Death Knight's Flame Sword Effect -->
+			<skill id="50365" level="8" type="ON_ENCHANT" type_value="7" /> <!-- +7 Death Knight's Flame Sword Effect -->
+			<skill id="50365" level="9" type="ON_ENCHANT" type_value="8" /> <!-- +8 Death Knight's Flame Sword Effect -->
+			<skill id="50365" level="10" type="ON_ENCHANT" type_value="9" /> <!-- +9 Death Knight's Flame Sword Effect -->
+			<skill id="50365" level="11" type="ON_ENCHANT" type_value="10" /> <!-- +10 Death Knight's Flame Sword Effect -->
+		</skills>
+		<stats>
+			<stat type="pAtk">1309</stat>
+			<stat type="mAtk">352</stat>
+			<stat type="rCrit">10</stat>
+			<stat type="pAtkSpd">259</stat>
+			<stat type="randomDamage">15</stat>
+			<stat type="pAtkRange">70</stat>
+			<stat type="firePower">999</stat>
+		</stats>
+	</item>
+</list>

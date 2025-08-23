@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="100025" name="Fafurion's" additionalName="Test" type="Armor">
+		<set name="icon" val="icon.armor_t903_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="1750" />
+		<set name="price" val="3562000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pDef">138</stat>
+		</stats>
+	</item>
+	<item id="100026" name="Volcano's" additionalName="Test" type="Armor">
+		<set name="icon" val="icon.armor_t903_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="1750" />
+		<set name="price" val="3562000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pDef">138</stat>
+		</stats>
+	</item>
+	<item id="100093" name="Fafurion's" additionalName="Test" type="Armor">
+		<set name="icon" val="icon.armor_t903_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="1750" />
+		<set name="price" val="3562000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pDef">138</stat>
+		</stats>
+	</item>
+	<item id="100094" name="Volcano's" additionalName="Test" type="Armor">
+		<set name="icon" val="icon.armor_t903_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="1750" />
+		<set name="price" val="3562000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pDef">138</stat>
+		</stats>
+	</item>
+	<item id="100095" name="witch's" additionalName="Test" type="Armor">
+		<set name="icon" val="icon.armor_t903_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="1750" />
+		<set name="price" val="3562000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pDef">138</stat>
+		</stats>
+	</item>
+	<item id="100098" name="Heavenly Cloak of Worthy Death Knight" additionalName="Sealed" type="Armor">
+		<set name="icon" val="icon.nobless_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
+		<cond msgId="2453">
+			<player cloakStatus="true" />
+		</cond>
+		<stats>
+			<stat type="pDef">200</stat>
+			<stat type="mDef">160</stat>
+		</stats>
+		<skills>
+			<skill id="36364" level="1" /> <!-- Cloak of Light Dragon: Basic Effect -->
+			<skill id="36365" level="1" type="ON_ENCHANT" type_value="1" /> <!-- Dragon Light Cloak Enchant Effect -->
+			<skill id="36365" level="2" type="ON_ENCHANT" type_value="2" /> <!-- Dragon Light Cloak Enchant Effect -->
+			<skill id="36365" level="3" type="ON_ENCHANT" type_value="3" /> <!-- Dragon Light Cloak Enchant Effect -->
+			<skill id="36365" level="4" type="ON_ENCHANT" type_value="4" /> <!-- Dragon Light Cloak Enchant Effect -->
+			<skill id="36365" level="5" type="ON_ENCHANT" type_value="5" /> <!-- Dragon Light Cloak Enchant Effect -->
+			<skill id="36367" level="1" type="ON_EQUIP" /> <!-- Cloak of Light Dragon -->
+		</skills>
+	</item>
+	<item id="100099" name="Heavenly Cloak of Worthy Death Knight" additionalName="Sealed" type="Armor">
+		<set name="icon" val="icon.nobless_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
+		<stats>
+			<stat type="pDef">30</stat>
+		</stats>
+	</item>
+	<item id="100027" name="Dark Dragon Mask - Event" type="Armor">
+		<!-- A scary head accessory. Equipped in 2 head accessory slots. Event only. -->
+		<set name="icon" val="icon.accessary_mask_of_chaotic_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="immediate_effect" val="true" />
+		<set name="enchant_enabled" val="true" />
+		<set name="isAppearanceable" val="true" />
+		<set name="commissionItemType" val="HAIR_ACCESSORY" />
+		<set name="weight" val="10" />
+		<set name="material" val="STEEL" />
+		<skills>
+			<skill id="12884" level="1" /> <!-- Rabbit Ears - DEX -->
+			<skill id="12885" level="1" /> <!-- Raccoon Ears: CON -->
+			<skill id="12886" level="1" /> <!-- Raccoon Ears: MEN -->
+			<skill id="12887" level="1" /> <!-- Cat Ears: INT -->
+			<skill id="12883" level="1" /> <!-- Rabbit Ears - STR -->
+			<skill id="12891" level="1" /> <!-- Angel Circlet - P. Def. -->
+			<skill id="12892" level="1" /> <!-- Angel Circlet - M. Def. -->
+			<skill id="12893" level="1" /> <!-- Angel Circlet - P. Evasion -->
+			<skill id="12894" level="1" /> <!-- Demon Circlet - P. Atk. -->
+			<skill id="12895" level="1" /> <!-- Demon Circlet - M. Atk. -->
+			<skill id="12883" level="1" /> <!-- Rabbit Ears - STR -->
+			<skill id="12889" level="1" /> <!-- Romantic Chapeau - P. Critical Rate -->
+		</skills>
+	</item>
+</list>

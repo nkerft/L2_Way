@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+<item>
+	<!-- Lancet Character Card -->
+	<ingredient count="1" id="20884" />
+	<!-- Noble Pack -->
+	<production count="1" id="27562" />
+</item>
+<item>
+	<!-- Liposa Character Card -->
+	<ingredient count="1" id="20885" />
+	<!-- Noble Pack -->
+	<production count="1" id="27562" />
+</item>
+<item>
+	<!-- Velarin Character Card -->
+	<ingredient count="1" id="20886" />
+	<!-- Noble Pack -->
+	<production count="1" id="27562" />
+</item>
+<item>
+	<!-- Dulcinel Character Card -->
+	<ingredient count="1" id="20887" />
+	<!-- Noble Pack -->
+	<production count="1" id="27562" />
+</item>
+<item>
+	<!-- Chimeros Character Card -->
+	<ingredient count="1" id="20888" />
+	<!-- Noble Pack -->
+	<production count="1" id="27562" />
+</item>
+<item>
+	<!-- Niveri Character Card -->
+	<ingredient count="1" id="20889" />
+	<!-- Noble Pack -->
+	<production count="1" id="27562" />
+</item>
+<item>
+	<!-- Hamell Character Card -->
+	<ingredient count="1" id="20890" />
+	<!-- Noble Pack -->
+	<production count="1" id="27562" />
+</item>
+<item>
+	<!-- Jorya Character Card -->
+	<ingredient count="1" id="20891" />
+	<!-- Noble Pack -->
+	<production count="1" id="27562" />
+</item>
+<item>
+	<!-- Ralmak Character Card -->
+	<ingredient count="1" id="20892" />
+	<!-- Noble Pack -->
+	<production count="1" id="27562" />
+</item>
+<item>
+	<!-- Goras Character Card -->
+	<ingredient count="1" id="20893" />
+	<!-- Noble Pack -->
+	<production count="1" id="27562" />
+</item>
+<item>
+	<!-- Vensa Character Card -->
+	<ingredient count="1" id="20894" />
+	<!-- Noble Pack -->
+	<production count="1" id="27562" />
+</item>
+<item>
+	<!-- Kiela Character Card -->
+	<ingredient count="1" id="20895" />
+	<!-- Noble Pack -->
+	<production count="1" id="27562" />
+</item>
+
+</list>

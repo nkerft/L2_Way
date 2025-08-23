@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<!-- Forgotten SpellBook -->
+
+	<item>
+	<!-- Adena -->
+	<ingredient count="1000" id="80000" />
+	<ingredient count="500" id="36515" />
+	<production count="1" id="48954" />
+	<!-- Artifact Book Lv 1 -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="2000" id="80000" />
+	<ingredient count="1000" id="36515" />
+	<ingredient count="1" id="48954" />
+	<production count="1" id="48955" />
+	<!-- Artifact Book Lv 2 -->
+	</item>
+        <item>
+	<!-- Adena -->
+	<ingredient count="3000" id="80000" />
+	<ingredient count="1500" id="36515" />
+	<ingredient count="1" id="48955" />
+	<production count="1" id="48956" />
+	<!-- Artifact Book Lv 3 -->
+	</item>
+        <item>
+	<!-- Adena -->
+	<ingredient count="500" id="80000" />
+	<production count="1" id="48957" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="500" id="80000" />
+	<production count="1" id="48958" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="500" id="80000" />
+	<production count="1" id="48959" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="500" id="80000" />
+	<production count="1" id="48960" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48961" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48962" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48963" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48964" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="500" id="80000" />
+	<production count="1" id="48965" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="500" id="80000" />
+	<production count="1" id="48966" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="500" id="80000" />
+	<production count="1" id="48967" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="500" id="80000" />
+	<production count="1" id="48968" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48969" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48970" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48971" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48972" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48973" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48974" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48975" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48976" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48977" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48980" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48981" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48982" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48983" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48984" />
+	<!-- Artifact -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="200" id="80000" />
+	<production count="1" id="48985" />
+	<!-- Artifact -->
+	</item>
+
+</list>

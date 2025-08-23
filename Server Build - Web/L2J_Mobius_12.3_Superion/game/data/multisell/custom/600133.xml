@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+<item>
+	<!-- Aniverssario coin -->
+	<ingredient count="1000" id="27659" />
+	<!-- Bracelet -->
+	<production count="1" id="39747" />
+</item>
+<item>
+	<!-- Aniverssario coin -->
+	<ingredient count="50" id="27659" />
+	<!-- Bracelet -->
+	<production count="1" id="40041" />
+</item>
+<item>
+	<!-- Aniverssario coin -->
+	<ingredient count="50" id="27659" />
+	<!-- Bracelet -->
+	<production count="1" id="40042" />
+</item>
+<item>
+	<!-- Aniverssario coin -->
+	<ingredient count="50" id="27659" />
+	<!-- Bracelet -->
+	<production count="1" id="40043" />
+</item>
+<item>
+	<!-- Aniverssario coin -->
+	<ingredient count="50" id="27659" />
+	<!-- Bracelet -->
+	<production count="1" id="40044" />
+</item>
+<item>
+	<!-- Aniverssario coin -->
+	<ingredient count="50" id="27659" />
+	<!-- Bracelet -->
+	<production count="1" id="40045" />
+</item>
+<item>
+	<!-- Aniverssario coin -->
+	<ingredient count="50" id="27659" />
+	<!-- Bracelet -->
+	<production count="1" id="40046" />
+</item>
+<item>
+	<!-- Aniverssario coin -->
+	<ingredient count="50" id="27659" />
+	<!-- Bracelet -->
+	<production count="1" id="40047" />
+</item>
+<item>
+	<!-- Aniverssario coin -->
+	<ingredient count="50" id="27659" />
+	<!-- Bracelet -->
+	<production count="1" id="40048" />
+</item>
+
+</list>

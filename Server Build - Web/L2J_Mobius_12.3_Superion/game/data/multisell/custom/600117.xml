@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<!-- R99 PvP Weapons -->
+
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="10014" />
+	<production count="1" id="37644" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="10014" />
+	<production count="1" id="37645" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="10014" />
+	<production count="1" id="37646" />
+</item>
+<item>
+	<!-- Ade" />
+</item>na -->
+	<ingredient count="1" id="10014" />
+	<production count="1" id="37647" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="10014" />
+	<production count="1" id="37648" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="10014" />
+	<production count="1" id="37649" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="10014" />
+	<production count="1" id="37650" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="10014" />
+	<production count="1" id="37651" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="10014" />
+	<production count="1" id="37652" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="10014" />
+	<production count="1" id="37653" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="10014" />
+	<production count="1" id="37654" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="10014" />
+	<production count="1" id="37655" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="10014" />
+	<production count="1" id="37656" />
+</item>
+
+</list>

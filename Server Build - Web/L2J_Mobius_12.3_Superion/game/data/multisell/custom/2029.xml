@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="30" id="27659" />
+		<production count="1" id="80924" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="30" id="27659" />
+		<production count="1" id="45922" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="35" id="27659" />
+		<production count="1" id="45923" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="30" id="27659" />
+		<production count="1" id="45924" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="35" id="27659" />
+		<production count="1" id="47852" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="30" id="27659" />
+		<production count="1" id="47853" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="35" id="27659" />
+		<production count="1" id="80970" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="30" id="27659" />
+		<production count="1" id="45928" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="35" id="27659" />
+		<production count="1" id="45870" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="30" id="27659" />
+		<production count="1" id="45925" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="30" id="27659" />
+		<production count="1" id="45926" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="30" id="27659" />
+		<production count="1" id="47854" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="35" id="27659" />
+		<production count="1" id="47855" />
+	</item>
+</list>

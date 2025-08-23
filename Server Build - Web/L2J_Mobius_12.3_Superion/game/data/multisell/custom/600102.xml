@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<!-- Artifact Book -->
+
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="6393" />
+	<production count="1" id="48026" />
+	<!-- Kat the Cat Costume Appearance Stone -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="6393" />
+        <production count="1" id="48027" />
+	<!-- Barbarian Wolf Costume Appearance Stone -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="6393" />
+	<production count="1" id="48024" />
+	<!-- Healer Outfit Appearance Stone -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="6393" />
+	<production count="1" id="48023" />
+	<!-- White Knight Suit Appearance Stone -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="6393" />
+	<production count="1" id="48029" />
+	<!-- Freya's Charisma Potion -->
+	</item>
+        <item>
+	<!-- Adena -->
+	<ingredient count="100" id="6393" />
+	<production count="1" id="48765" />
+	<!-- Cat Outfit -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="6393" />
+	<production count="1" id="48766" />
+	<!-- panda outfit -->
+	</item>
+        <item>
+	<!-- Adena -->
+	<ingredient count="500" id="6393" />
+	<production count="1" id="36184" />
+	<!-- Annihilation Energy -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="500" id="6393" />
+	<production count="1" id="36186" />
+	<!-- Energy of Desire -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1500" id="6393" />
+	<production count="1" id="40236" />
+	<!-- Giant's Energy 100-unit Pack -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1500" id="6393" />
+	<production count="1" id="38763" />
+	<!-- Energy of Destruction 100-unit Pack -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="1000" id="6393" />
+	<production count="1" id="37716" />
+	<!-- Seven Signs' Energy -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="3" id="6393" />
+	<production count="1" id="23768" />
+	<!-- Tarot Card -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="3" id="6393" />
+	<production count="1" id="46376" />
+	<!-- Shadow Weapon Coupon -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="50" id="6393" />
+	<production count="1" id="36003" />
+	<!-- p atk -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="50" id="6393" />
+	<production count="1" id="36004" />
+	<!-- p defesa -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="50" id="6393" />
+	<production count="1" id="36005" />
+	<!-- magic -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="70" id="6393" />
+	<production count="1" id="36005" />
+	<!-- cp -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="85" id="6393" />
+	<production count="1" id="36016" />
+	<!-- magic -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="250" id="6393" />
+	<production count="1" id="28412" />
+	<!-- magic -->
+	</item>
+	<item>
+	<!-- Adena -->
+	<ingredient count="500" id="6393" />
+	<production count="1" id="48995" />
+	<!-- shirt -->
+	</item>
+
+</list>

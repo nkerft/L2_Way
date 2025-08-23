@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<!-- Adena -->
+	<!-- Lancet Character Card -->
+	<ingredient count="1" id="27526" />
+	<!-- Noble Pack -->
+	<production count="1" id="33496" />
+	</item>
+	<item>
+		<!-- Adena -->
+	<ingredient count="1" id="27526" />
+	<!-- Noble Pack -->
+	<production count="1" id="33497" />
+	</item>
+	<item>
+		<!-- Adena -->
+	<ingredient count="1" id="27526" />
+	<!-- Noble Pack -->
+	<production count="1" id="33498" />
+	</item>
+</list>

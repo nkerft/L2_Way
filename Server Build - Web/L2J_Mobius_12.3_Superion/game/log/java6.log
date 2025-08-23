@@ -1,0 +1,40 @@
+2025.08.22 14:23:54,888	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: ipconfig.xml does not exist, using automatic configuration...
+2025.08.22 14:23:55,033	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: Adding new subnet: 192.168.50.0/24 address: 192.168.50.160
+2025.08.22 14:23:55,034	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+2025.08.22 14:23:55,035	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: Adding new subnet: 0.0.0.0/0 address: 85.221.135.235
+2025.08.22 14:23:55,051	WARNING	1	org.l2jmobius.Config	[SkillDurationList]: invalid config property -> SkillList "1323"10800  
+2025.08.22 14:23:55,258	WARNING	1	org.l2jmobius.commons.util.ConfigReader	Config 'DelevelRemoveAbilities' not found in file 'CommunityBoard.ini', using default: false.
+2025.08.22 14:23:55,258	WARNING	1	org.l2jmobius.commons.util.ConfigReader	Config 'CommunityBoardPeaceOnly' not found in file 'CommunityBoard.ini', using default: false.
+2025.08.22 14:23:55,259	WARNING	1	org.l2jmobius.commons.util.ConfigReader	Config 'CommunityCombatDisabled' not found in file 'CommunityBoard.ini', using default: true.
+2025.08.22 14:23:55,379	INFO	1	org.l2jmobius.Config	Loaded 6 Filter Words.
+2025.08.22 14:23:55,382	INFO	1	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Database ]
+2025.08.22 14:23:55,536	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: HikariCP pool initialized successfully.
+2025.08.22 14:24:05,848	WARNING	49	org.l2jmobius.gameserver.Shutdown	Server scheduled restart issued shutdown command. Shutdown in 1 seconds!
+2025.08.22 14:24:08,083	WARNING	61	org.l2jmobius.gameserver.Shutdown	GM shutdown countdown is over. shutting down NOW!
+2025.08.22 14:24:08,085	INFO	61	org.l2jmobius.gameserver.Shutdown	All players disconnected and saved(0ms).
+2025.08.22 14:24:08,086	INFO	61	org.l2jmobius.gameserver.Shutdown	Game Time Task Manager: Thread interruped(2ms).
+2025.08.22 14:24:08,087	INFO	61	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Shutting down.
+2025.08.22 14:24:08,087	INFO	61	org.l2jmobius.gameserver.Shutdown	Thread Pool Manager: Manager has been shut down(2ms).
+2025.08.22 14:24:08,087	INFO	61	org.l2jmobius.gameserver.Shutdown	Login Server Thread: Thread interruped(0ms).
+2025.08.22 14:24:08,087	INFO	61	org.l2jmobius.gameserver.Shutdown	GM shutdown received. Shutting down NOW!
+2025.08.22 14:24:14,497	WARNING	49	org.l2jmobius.gameserver.Shutdown	Server scheduled restart issued shutdown command. Shutdown in 1 seconds!
+2025.08.22 14:24:17,816	WARNING	49	org.l2jmobius.gameserver.Shutdown	Server scheduled restart issued shutdown command. Shutdown in 1 seconds!
+2025.08.22 14:24:40,586	WARNING	49	org.l2jmobius.gameserver.Shutdown	Server scheduled restart issued shutdown command. Shutdown in 1 seconds!
+2025.08.22 14:24:42,664	WARNING	49	org.l2jmobius.gameserver.Shutdown	Server scheduled restart issued shutdown command. Shutdown in 1 seconds!
+2025.08.22 14:24:55,556	SEVERE	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Problem initializing connection pool.
+2025.08.22 14:24:55,573	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------=[ ThreadPool ]
+2025.08.22 14:24:55,573	INFO	1	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Initialized
+2025.08.22 14:24:55,573	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...scheduled pool executor with 16 high priority threads.
+2025.08.22 14:24:55,574	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...scheduled pool executor with 64 total threads.
+2025.08.22 14:24:55,574	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...instant pool executor with 32 total threads.
+2025.08.22 14:24:55,574	INFO	1	org.l2jmobius.gameserver.GameServer	-----------------------------------------------=[ IdManager ]
+2025.08.22 14:25:08,096	SEVERE	61	org.l2jmobius.commons.database.DatabaseFactory	Database: Could not get a connection.
+2025.08.22 14:25:08,097	WARNING	61	org.l2jmobius.gameserver.managers.DBSpawnManager	DBSpawnManager: Error while initializing DBSpawnManager: 
+2025.08.22 14:25:55,586	SEVERE	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Could not get a connection.
+2025.08.22 14:25:55,587	WARNING	1	org.l2jmobius.gameserver.managers.DatabaseIdManager	DatabaseIdManager: Could not execute cleanup query: DELETE FROM account_gsdata WHERE account_gsdata.account_name NOT IN (SELECT account_name FROM characters) - java.lang.RuntimeException: Unable to obtain a database connection.
+2025.08.22 14:26:08,104	SEVERE	61	org.l2jmobius.commons.database.DatabaseFactory	Database: Could not get a connection.
+2025.08.22 14:26:55,593	SEVERE	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Could not get a connection.
+2025.08.22 14:26:55,594	WARNING	1	org.l2jmobius.gameserver.managers.DatabaseIdManager	DatabaseIdManager: Could not execute cleanup query: DELETE FROM character_contacts WHERE character_contacts.charId NOT IN (SELECT charId FROM characters) - java.lang.RuntimeException: Unable to obtain a database connection.
+2025.08.22 14:27:55,605	SEVERE	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Could not get a connection.
+2025.08.22 14:27:55,606	WARNING	1	org.l2jmobius.gameserver.managers.DatabaseIdManager	DatabaseIdManager: Could not execute cleanup query: DELETE FROM character_contacts WHERE character_contacts.contactId NOT IN (SELECT charId FROM characters) - java.lang.RuntimeException: Unable to obtain a database connection.
+2025.08.22 14:28:29,817	WARNING	49	org.l2jmobius.gameserver.Shutdown	Server scheduled restart issued shutdown command. Shutdown in 1 seconds!

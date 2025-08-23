@@ -1,0 +1,9 @@
+2025.08.22 14:40:39,347	INFO	3	org.l2jmobius.commons.database.DatabaseFactory	Database: HikariCP pool initialized successfully.
+2025.08.22 14:41:39,386	SEVERE	3	org.l2jmobius.commons.database.DatabaseFactory	Database: Problem initializing connection pool.
+2025.08.22 14:41:39,400	INFO	3	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Initialized
+2025.08.22 14:41:39,401	INFO	3	org.l2jmobius.commons.threads.ThreadPool	...scheduled pool executor with 2 total threads.
+2025.08.22 14:41:39,402	INFO	3	org.l2jmobius.commons.threads.ThreadPool	...instant pool executor with 2 total threads.
+2025.08.22 14:41:39,403	INFO	3	org.l2jmobius.loginserver.LoginController	Loading LoginController...
+2025.08.22 14:41:39,890	INFO	3	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
+2025.08.22 14:41:39,923	INFO	3	org.l2jmobius.loginserver.LoginController	Stored 20 keys for Blowfish communication.
+2025.08.22 14:41:40,010	INFO	3	org.l2jmobius.loginserver.GameServerTable	Loaded 127 server names.

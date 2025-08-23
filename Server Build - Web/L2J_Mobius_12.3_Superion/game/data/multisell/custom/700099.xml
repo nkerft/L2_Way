@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<!-- Virgo -->
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="48048" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="48052" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="48055" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="48057" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="48059" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="48050" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="48054" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="48056" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="48058" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="48051" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="48053" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="48049" />
+	</item>
+</list>

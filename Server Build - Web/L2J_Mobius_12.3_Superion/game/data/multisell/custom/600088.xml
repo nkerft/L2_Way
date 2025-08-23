@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22670" />
+	</item> <!-- Emerald Weapon Appearance Stone: Spear -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22731" />
+	</item> <!-- Japanese Great Spear Appearance Stone -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="23933" />
+	</item> <!-- Tears Spear Appearance Stone ( 7 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37420" />
+	</item> <!-- Emerald Weapon Appearance Stone: Spear -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="36652" />
+	</item> <!-- Emerald Weapon Appearance Stone: Spear ( 7 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37404" />
+	</item> <!-- Emerald Weapon Appearance Stone: Spear ( 15 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37837" />
+	</item> <!-- Valentine Appearance Stone: Spear ( 15 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37853" />
+	</item> <!-- Valentine Appearance Stone: Spear ( 30 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37910" />
+	</item> <!-- Chrono Campana Appearance Stone: Spear -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37922" />
+	</item> <!-- Chrono Campana Appearance Stone: Spear ( 15 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="38192" />
+	</item> <!-- Squid Appearance Stone: Spear ( 30 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="38203" />
+	</item> <!-- Squid Appearance Stone: Spear -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="23214" />
+	</item> <!-- Maliss Stormer Appearance Stone -->
+
+</list>

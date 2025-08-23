@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+																		<!-- Artifact - P. Atk -->
+	<item>
+		<!-- pack +10 -->
+		<ingredient id="23805" enchantmentLevel="0" count="60" />
+		<production id="29917" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- pack +10 -->
+		<ingredient id="23805" enchantmentLevel="0" count="30" />
+		<production id="29918" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- pack +10 -->
+		<ingredient id="23805" enchantmentLevel="0" count="30" />
+		<production id="29919" enchantmentLevel="0" count="1" />
+	</item>
+	<item>
+		<!-- pack +10 -->
+		<ingredient id="23805" enchantmentLevel="0" count="30" />
+		<production id="29920" enchantmentLevel="0" count="1" />
+	</item>	
+</list>

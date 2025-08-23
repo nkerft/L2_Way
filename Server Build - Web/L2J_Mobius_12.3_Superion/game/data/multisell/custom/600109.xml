@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+        <item>
+		<!-- Adena -->
+	        <ingredient count="150" id="27659" />
+		<!-- Lv. 5 Legendary STR Dye -->
+		<production count="1" id="39415" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="150" id="27659" />
+		<!-- Lv. 5 Legendary DEX Dye -->
+		<production count="1" id="39416" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="150" id="27659" />
+		<!-- Lv. 5 Legendary CON Dye -->
+		<production count="1" id="39417" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="150" id="27659" />
+		<!-- Lv. 5 Legendary INT Dye -->
+		<production count="1" id="39418" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="150" id="27659" />
+		<!-- Lv. 5 Legendary WIT Dye -->
+		<production count="1" id="39419" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="150" id="27659" />
+		<!-- Lv. 5 Legendary MEN Dye -->
+		<production count="1" id="39420" />
+	</item>
+        <item>
+		<!-- Adena -->
+	        <ingredient count="150" id="27659" />
+		<!-- Lv. 5 Legendary WIT Dye -->
+		<production count="1" id="39455" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="150" id="27659" />
+		<!-- Lv. 5 Legendary MEN Dye -->
+		<production count="1" id="39460" />
+	</item>
+</list>

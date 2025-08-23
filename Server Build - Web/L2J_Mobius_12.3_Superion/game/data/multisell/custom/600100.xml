@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<!-- Forgotten SpellBook -->
+
+	<item>
+	<!-- Adena -->
+	<ingredient count="550" id="47937" />
+	<production count="1" id="22760" />
+	<!-- Maphrs Rune 200% -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="550" id="47937" />
+	<production count="1" id="23269" />
+	<!-- Evas Rune -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="550" id="47937" />
+	<production count="1" id="23325" />
+	<!-- Harps Sealed Rune of power -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="550" id="47937" />
+	<production count="1" id="23326" />
+	<!-- Harps Sealed Rune of Magic -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="550" id="47937" />
+	<production count="1" id="23327" />
+	<!-- Harps Sealed Rune of Will -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="550" id="47937" />
+	<production count="1" id="23328" />
+	<!-- Harps Sealed Rune of Destruction -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="550" id="47937" />
+	<production count="1" id="23329" />
+	<!-- Harps Sealed Rune of Skill -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="550" id="47937" />
+	<production count="1" id="23330" />
+	<!-- Harps Sealed Rune of Wisdom -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="550" id="47937" />
+	<production count="1" id="28408" />
+	<!-- Evas Rune -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="550" id="47937" />
+	<production count="1" id="37564" />
+	<!-- Emperor Rune -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="550" id="47937" />
+	<production count="1" id="48680" />
+	<!-- Freya Dark Rune -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="550" id="47937" />
+	<production count="1" id="48681" />
+	<!-- Freya Bloody Rune  -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="200000000" id="57" />
+	<production count="10" id="24355" />
+	<!-- PA  -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="10000000" id="57" />
+	<production count="3" id="24355" />
+	<!-- Dye  -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="10000000" id="57" />
+	<production count="3" id="48830" />
+	<!-- Pa  -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="10000000" id="57" />
+	<production count="3" id="47665" />
+	<!-- Pa  -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="10000000" id="57" />
+	<production count="10" id="47663" />
+	<!-- Pa  -->
+	</item>
+
+</list>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+        <item>
+	        <!-- Anniversary Coin -->
+	        <ingredient count="1000" id="27659" />
+	        <!-- Power Shirt -->
+	        <production count="1" id="21580" />
+        </item>
+        <item>
+	        <!-- Anniversary Coin -->
+	        <ingredient count="1000" id="27659" />
+	        <!-- Power Shirt -->
+	        <production count="1" id="21706" />
+        </item>
+        <item>
+	        <!-- Anniversary Coin -->
+	        <ingredient count="1000" id="27659" />
+	        <!-- Shiny Elemental Shirt -->
+	        <production count="1" id="37718" />
+        </item>
+        <item>
+	        <!-- Anniversary Coin -->
+	        <ingredient count="1000" id="27659" />
+	        <!-- Reflect Magic T-shirt -->
+	        <production count="1" id="46194" />
+        </item>
+        <item>
+	        <!-- Anniversary Coin -->
+	        <ingredient count="1000" id="27659" />
+	        <!-- Reflect Attack T-shirt -->
+	        <production count="1" id="46193" />
+        </item>
+        <item>
+	        <!-- Anniversary Coin -->
+	        <ingredient count="1000" id="27659" />
+	        <!-- Pa'agrio's Shirt -->
+	        <production count="1" id="34623" />
+        </item>
+        <item>
+	        <!-- Anniversary Coin -->
+	        <ingredient count="1000" id="27659" />
+	        <!-- Sayha's Shirt -->
+	        <production count="1" id="34624" />
+        </item>
+        <item>
+	        <!-- Anniversary Coin -->
+	        <ingredient count="1000" id="27659" />
+	        <!-- Eva's Shirt -->
+	        <production count="1" id="34625" />
+        </item>
+        <item>
+	        <!-- Anniversary Coin -->
+	        <ingredient count="1000" id="27659" />
+	        <!-- Maphr's Shirt -->
+	        <production count="1" id="34626" />
+        </item>
+        <item>
+	        <!-- Anniversary Coin -->
+	        <ingredient count="1000" id="27659" />
+	        <!-- Maphr's Shirt -->
+	        <production count="1" id="23307" />
+       </item>
+</list>

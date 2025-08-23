@@ -1,0 +1,26 @@
+2025.08.22 14:40:28,452	INFO	3	org.l2jmobius.commons.util.IXmlReader	Network Config: ipconfig.xml does not exist, using automatic configuration...
+2025.08.22 14:40:28,590	INFO	3	org.l2jmobius.commons.util.IXmlReader	Network Config: Adding new subnet: 192.168.50.0/24 address: 192.168.50.160
+2025.08.22 14:40:28,591	INFO	3	org.l2jmobius.commons.util.IXmlReader	Network Config: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+2025.08.22 14:40:28,592	INFO	3	org.l2jmobius.commons.util.IXmlReader	Network Config: Adding new subnet: 0.0.0.0/0 address: 85.221.135.235
+2025.08.22 14:40:28,609	WARNING	3	org.l2jmobius.Config	[SkillDurationList]: invalid config property -> SkillList "1323"10800  
+2025.08.22 14:40:28,804	WARNING	3	org.l2jmobius.commons.util.ConfigReader	Config 'DelevelRemoveAbilities' not found in file 'CommunityBoard.ini', using default: false.
+2025.08.22 14:40:28,804	WARNING	3	org.l2jmobius.commons.util.ConfigReader	Config 'CommunityBoardPeaceOnly' not found in file 'CommunityBoard.ini', using default: false.
+2025.08.22 14:40:28,805	WARNING	3	org.l2jmobius.commons.util.ConfigReader	Config 'CommunityCombatDisabled' not found in file 'CommunityBoard.ini', using default: true.
+2025.08.22 14:40:28,924	INFO	3	org.l2jmobius.Config	Loaded 6 Filter Words.
+2025.08.22 14:40:28,928	INFO	3	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Database ]
+2025.08.22 14:40:29,071	INFO	3	org.l2jmobius.commons.database.DatabaseFactory	Database: HikariCP pool initialized successfully.
+2025.08.22 14:41:29,075	SEVERE	3	org.l2jmobius.commons.database.DatabaseFactory	Database: Problem initializing connection pool.
+2025.08.22 14:41:29,091	INFO	3	org.l2jmobius.gameserver.GameServer	----------------------------------------------=[ ThreadPool ]
+2025.08.22 14:41:29,095	INFO	3	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Initialized
+2025.08.22 14:41:29,095	INFO	3	org.l2jmobius.commons.threads.ThreadPool	...scheduled pool executor with 16 high priority threads.
+2025.08.22 14:41:29,109	INFO	3	org.l2jmobius.commons.threads.ThreadPool	...scheduled pool executor with 64 total threads.
+2025.08.22 14:41:29,109	INFO	3	org.l2jmobius.commons.threads.ThreadPool	...instant pool executor with 32 total threads.
+2025.08.22 14:41:29,110	INFO	3	org.l2jmobius.gameserver.GameServer	-----------------------------------------------=[ IdManager ]
+2025.08.22 14:41:42,049	WARNING	60	org.l2jmobius.gameserver.Shutdown	Server scheduled restart issued shutdown command. Shutdown in 1 seconds!
+2025.08.22 14:41:44,413	WARNING	169	org.l2jmobius.gameserver.Shutdown	GM shutdown countdown is over. shutting down NOW!
+2025.08.22 14:41:44,414	INFO	169	org.l2jmobius.gameserver.Shutdown	All players disconnected and saved(0ms).
+2025.08.22 14:41:44,414	INFO	169	org.l2jmobius.gameserver.Shutdown	Game Time Task Manager: Thread interruped(1ms).
+2025.08.22 14:41:44,414	INFO	169	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Shutting down.
+2025.08.22 14:41:44,417	INFO	169	org.l2jmobius.gameserver.Shutdown	Thread Pool Manager: Manager has been shut down(3ms).
+2025.08.22 14:41:44,417	INFO	169	org.l2jmobius.gameserver.Shutdown	Login Server Thread: Thread interruped(0ms).
+2025.08.22 14:41:44,417	INFO	169	org.l2jmobius.gameserver.Shutdown	GM shutdown received. Shutting down NOW!

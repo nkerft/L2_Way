@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<!-- Virgo -->
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="80130" />
+	        <ingredient count="100" id="47866" />
+	        <ingredient count="100" id="81344" />
+	        <ingredient count="1" id="81565" />
+		<!-- Bracelet -->
+		<production count="1" id="81566" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="200" id="80130" />
+	        <ingredient count="200" id="47866" />
+	        <ingredient count="1" id="81566" />
+	        <ingredient count="200" id="81344" />
+		<!-- Bracelet -->
+		<production count="1" id="81567" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="80130" />
+	        <ingredient count="300" id="47866" />
+	        <ingredient count="1" id="81567" />
+	        <ingredient count="250" id="81344" />
+		<!-- Bracelet -->
+		<production count="1" id="81568" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="80130" />
+	        <ingredient count="500" id="47866" />
+	        <ingredient count="1" id="81568" />
+	        <ingredient count="500" id="81344" />
+		<!-- Bracelet -->
+		<production count="1" id="81569" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="80130" />
+	        <ingredient count="800" id="47866" />
+	        <ingredient count="1" id="81569" />
+	        <ingredient count="800" id="81344" />
+		<!-- Bracelet -->
+		<production count="1" id="81570" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="80130" />
+	        <ingredient count="1000" id="47866" />
+	        <ingredient count="1" id="81570" />
+	        <ingredient count="1000" id="81344" />
+		<!-- Bracelet -->
+		<production count="1" id="81571" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1100" id="80130" />
+	        <ingredient count="1100" id="47866" />
+	        <ingredient count="1" id="81571" />
+	        <ingredient count="1100" id="81344" />
+		<!-- Bracelet -->
+		<production count="1" id="81572" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1200" id="80130" />
+	        <ingredient count="1200" id="47866" />
+	        <ingredient count="1" id="81572" />
+	        <ingredient count="1200" id="81344" />
+		<!-- Bracelet -->
+		<production count="1" id="81573" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1500" id="80130" />
+	        <ingredient count="1500" id="47866" />
+	        <ingredient count="1" id="81573" />
+	        <ingredient count="1500" id="81344" />
+		<!-- Bracelet -->
+		<production count="1" id="81574" />
+	</item>
+</list>

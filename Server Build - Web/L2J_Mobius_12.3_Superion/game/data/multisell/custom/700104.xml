@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+																		<!-- Artifact - P. Def -->
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="450" />
+		<ingredient id="29276" enchantmentLevel="0" count="1" />
+		<production id="29285" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="750" />
+		<ingredient id="29285" enchantmentLevel="7" count="1" />
+		<production id="29294" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="450" />
+		<ingredient id="29277" enchantmentLevel="0" count="1" />
+		<production id="29286" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="750" />
+		<ingredient id="29286" enchantmentLevel="7" count="1" />
+		<production id="29295" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="450" />
+		<ingredient id="29280" enchantmentLevel="0" count="1" />
+		<production id="29289" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="750" />
+		<ingredient id="29289" enchantmentLevel="7" count="1" />
+		<production id="29298" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="450" />
+		<ingredient id="29284" enchantmentLevel="0" count="1" />
+		<production id="29293" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="750" />
+		<ingredient id="29293" enchantmentLevel="7" count="1" />
+		<production id="29302" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="450" />
+		<ingredient id="29282" enchantmentLevel="0" count="1" />
+		<production id="29291" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="750" />
+		<ingredient id="29291" enchantmentLevel="7" count="1" />
+		<production id="29300" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="450" />
+		<ingredient id="29281" enchantmentLevel="0" count="1" />
+		<production id="29290" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="750" />
+		<ingredient id="29290" enchantmentLevel="7" count="1" />
+		<production id="29299" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="450" />
+		<ingredient id="29283" enchantmentLevel="0" count="1" />
+		<production id="29292" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="750" />
+		<ingredient id="29290" enchantmentLevel="7" count="1" />
+		<production id="29301" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="450" />
+		<ingredient id="29278" enchantmentLevel="0" count="1" />
+		<production id="29287" enchantmentLevel="7" count="1" />
+	</item>
+	<item>
+		<!-- SEVEN SINS +7 -->
+		<ingredient id="27659" enchantmentLevel="0" count="750" />
+		<ingredient id="29287" enchantmentLevel="7" count="1" />
+		<production id="29359" enchantmentLevel="7" count="1" />
+	</item>
+</list>
+	

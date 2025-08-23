@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB --><!-- Jewels Grade R  -->
+	</npcs>
+	<item>
+		<ingredient count="1" id="95005" />
+		<production count="1" id="37734" />
+	</item>
+	<item>
+		<ingredient count="1" id="95005" />
+		<production count="1" id="26469" />
+	</item>
+	<item>
+		<ingredient count="1" id="95005" />
+		<production count="1" id="23638" />
+	</item>
+	<item>
+		<ingredient count="1" id="95005" />
+		<production count="1" id="23640" />
+	</item>
+	<item>
+		<ingredient count="1" id="95005" />
+		<production count="1" id="27665" />
+	</item>
+	
+	
+</list>

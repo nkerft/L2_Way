@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<!-- Forgotten SpellBook -->
+
+	<item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="13346" />
+	<!-- Entrance Pass: Kamaloka 3-unit Pack (Event) -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="36275" />
+	<!-- Entrance Pass: Istina (Normal) -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="7075" />
+	<!-- Entrance Pass: Sepulcher -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="36272" />
+	<!-- Emperor's Entrance Pass: Baylor -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="36277" />
+	<!-- Entrance Pass: Spezion (Epic) -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="48948" />
+	<!-- Entrance Pass: Krofin's Nest -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="36274" />
+	<!-- Entrance Pass: Nornil's Garden -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="36276" />
+	<!-- Entrance Pass: Octavis (Normal) -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="38159" />
+	<!-- Entrance Pass: Fantasy Fishing Dock (1-hour) -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="80065" />
+	<!-- Entrance Pass: Altar of Shillien -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="28400" />
+	<!-- Entrance Pass: Embryo Command Post -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="46641" />
+	<!-- Entrance Pass: Crystal Caverns -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="28400" />
+	<!-- Entrance Pass: Embryo Command Post -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="48705" />
+	<!-- Entrance Pass: Fall of Etina -->
+	</item>
+		<item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="48704" />
+	<!-- Entrance Pass: Fallen Emperor's Throne -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="13085" />
+	<!-- Entrance Pass: Kamaloka 3-unit Package  -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="23606" />
+	<!-- Entrance Pass: Kartia's Labyrinth Lv. 85 (Solo)  -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="23607" />
+	<!-- Passe de entrada: Labirinto de Kartia Lv. 90 (Solo)  -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="23608" />
+	<!-- Passe de entrada: Labirinto de Kartia Lv. 95 (Solo)  -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="23610" />
+	<!-- Entrance Pass: Kartia's Labyrinth Lv. 90 (Party)  -->
+	</item>
+                <item>
+	<!-- Adena -->
+	<ingredient count="5000000000" id="57" />
+	<ingredient count="100" id="36515" />
+	<production count="1" id="23611" />
+	<!-- Entrance Pass: Kartia's Labyrinth Lv. 95 (Party)  -->
+	</item>
+
+</list>

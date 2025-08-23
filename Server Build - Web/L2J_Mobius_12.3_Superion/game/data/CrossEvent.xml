@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/CrossEvent.xsd">
+	<dailyResets>5</dailyResets>
+    <cells>
+ 		<cell id="1" rewardId="100722" rewardAmount="1" /> <!-- Dye Hardener - Imprint -->
+ 		<cell id="2" rewardId="99043" rewardAmount="10" /> <!-- Golden Fruit Buff Lv. 3 - Imprint -->
+ 		<cell id="3" rewardId="99044" rewardAmount="10" /> <!-- Dragon's Special Elixir Lv. 3 - Imprint -->
+ 		<cell id="4" rewardId="91938" rewardAmount="1" /> <!-- Primeval Isle Time Recharge Stone -->
+ 		<cell id="5" rewardId="91939" rewardAmount="1" /> <!-- Tomb of Ancient Pirates Time Recharge Stone -->
+ 		<cell id="6" rewardId="90794" rewardAmount="10" /> <!-- Shining Scroll of Mood Melody - Imprint -->
+ 		<cell id="7" rewardId="90183" rewardAmount="10" /> <!-- Chef's Fish Stew - Victory -->
+ 		<cell id="8" rewardId="90907" rewardAmount="100" /> <!-- Soulshot Ticket - Imprint -->
+ 		<cell id="9" rewardId="49674" rewardAmount="10" /> <!-- XP Boost Scroll - Imprint -->
+ 		<cell id="10" rewardId="100812" rewardAmount="1" /> <!-- Doll Summoning Ticket (Regular-Top-grade) - 11 Times - Imprint -->
+ 		<cell id="11" rewardId="97147" rewardAmount="5" /> <!-- Potential Hardener - Imprint -->
+ 		<cell id="12" rewardId="57" rewardAmount="10000000" /> <!-- 10.000.000 Adena -->
+ 		<cell id="13" rewardId="96030" rewardAmount="5" /> <!-- Sayha's Storm Lv. 4 - Imprint -->
+ 		<cell id="14" rewardId="91741" rewardAmount="5" /> <!-- Einhasad's Protection - Imprint -->
+ 		<cell id="15" rewardId="57" rewardAmount="1" /> <!--  -->
+ 		<cell id="16" rewardId="57" rewardAmount="1" /> <!--  -->
+    </cells>
+    <advancedRewards>
+                <item id="90831" count="1" /> <!-- Transformation Scroll: White Assassin -->
+                <item id="99016" count="1" /> <!-- Golden Fruit Buff Lv. 2 (Time-limited) -->
+    </advancedRewards>
+</list>

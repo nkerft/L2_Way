@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<!-- Virgo -->
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1800" id="27659" />
+	        <ingredient count="400" id="81446" />
+	        <ingredient count="1" id="81443" />
+		<!-- Agathion - Dragon -->
+		<production count="1" id="81444" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+		<!-- Dragon -->
+		<production count="1" id="81445" />
+	</item>
+</list>

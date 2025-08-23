@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<!-- R99 PvP Weapons -->
+
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80698" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80699" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80700" />
+</item>
+<item>
+	<!-- Ade" />
+</item>na -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80701" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80702" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80703" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80704" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80705" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80706" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80707" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80708" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80710" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80711" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80859" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80860" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80861" />
+</item>
+<item>
+	<!-- Ade" />
+</item>na -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80862" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80863" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80864" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80865" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80866" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80867" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80868" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80869" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80870" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80871" />
+</item>
+<item>
+	<!-- Adena -->
+	<ingredient count="1" id="4358" />
+	<production count="1" id="80872" />
+</item>
+
+</list>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<!-- Virgo -->
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="10" id="27659" />
+		<!-- Bracelet -->
+		<production count="1" id="28762" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="10" id="27659" />
+		<!-- Bracelet -->
+		<production count="1" id="28760" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+		<!-- Bracelet -->
+		<production count="1" id="48060" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+	        <ingredient count="1" id="48060" />
+		<!-- Bracelet -->
+		<production count="1" id="48061" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="400" id="27659" />
+	        <ingredient count="1" id="48061" />
+		<!-- Bracelet -->
+		<production count="1" id="48062" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="27659" />
+	        <ingredient count="1" id="48062" />
+		<!-- Bracelet -->
+		<production count="1" id="48063" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="600" id="27659" />
+	        <ingredient count="1" id="48063" />
+		<!-- Bracelet -->
+		<production count="1" id="48064" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="700" id="27659" />
+	        <ingredient count="1" id="48064" />
+		<!-- Bracelet -->
+		<production count="1" id="48575" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="27659" />
+	        <ingredient count="1" id="48575" />
+		<!-- Bracelet -->
+		<production count="1" id="48576" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="27659" />
+	        <ingredient count="1" id="48064" />
+	        <ingredient count="1" id="48575" />
+	        <ingredient count="1" id="48576" />
+		<!-- Bracelet -->
+		<production count="1" id="48577" />
+	</item>
+</list>

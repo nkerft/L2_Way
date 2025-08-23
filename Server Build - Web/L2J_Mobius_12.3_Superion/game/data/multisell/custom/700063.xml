@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="5" id="27659" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47687" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="5" id="27659" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47688" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="5" id="27659" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47689" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="5" id="27659" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47690" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="5" id="27659" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47691" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="5" id="27659" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47692" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="5" id="27659" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47693" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="5" id="27659" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47694" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="300" id="48831" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47695" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="5" id="27659" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47696" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="5" id="27659" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47697" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="5" id="27659" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47698" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="5" id="27659" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47699" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="5" id="27659" />
+		<!-- Talisman - Destruction -->
+		<production count="1" id="47700" />
+	</item>
+</list>

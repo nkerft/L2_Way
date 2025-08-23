@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Heavy Helmet -->
+		<production count="1" id="80104" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Heavy Breastplate -->
+		<production count="1" id="80105" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Gaiters -->
+		<production count="1" id="80106" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Gauntlets -->
+		<production count="1" id="80107" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Boots -->
+		<production count="1" id="80108" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Shield -->
+		<production count="1" id="80109" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Heavy Helmet -->
+		<production count="1" id="80110" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Heavy Breastplate -->
+		<production count="1" id="80111" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Gaiters -->
+		<production count="1" id="80112" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Gauntlets -->
+		<production count="1" id="80113" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Boots -->
+		<production count="1" id="80114" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Heavy Helmet -->
+		<production count="1" id="80115" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Heavy Breastplate -->
+		<production count="1" id="80116" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Gaiters -->
+		<production count="1" id="80117" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Gauntlets -->
+		<production count="1" id="80118" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Boots -->
+		<production count="1" id="80119" />
+	</item>
+	<item>
+		<!-- Adena -->
+	        <ingredient count="500" id="27659" />
+		<!-- Armor Leviathan Shield -->
+		<production count="1" id="80120" />
+	</item>
+</list>

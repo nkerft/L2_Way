@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<!-- Virgo -->
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+	        <ingredient count="1" id="24000" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="28769" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="200" id="27659" />
+	        <ingredient count="1" id="28769" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="28770" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+	        <ingredient count="1" id="28770" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="28771" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="400" id="27659" />
+	        <ingredient count="1" id="28771" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="28772" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="27659" />
+	        <ingredient count="1" id="28772" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="28773" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="600" id="27659" />
+	        <ingredient count="1" id="28773" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="28774" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="700" id="27659" />
+	        <ingredient count="1" id="28774" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="28775" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="27659" />
+	        <ingredient count="1" id="28775" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="28776" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="900" id="27659" />
+	        <ingredient count="1" id="28776" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="28777" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="27659" />
+	        <ingredient count="1" id="28777" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="28778" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1100" id="27659" />
+	        <ingredient count="1" id="28778" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="28779" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1200" id="27659" />
+	        <ingredient count="1" id="28779" />
+		<!-- Agathion - Virgo -->
+		<production count="1" id="28780" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+	        <ingredient count="1" id="24012" />
+		<!-- Agathion - Capricorn -->
+		<production count="1" id="28781" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="200" id="27659" />
+	        <ingredient count="1" id="28781" />
+		<!-- Agathion - Capricorn -->
+		<production count="1" id="28782" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+	        <ingredient count="1" id="28782" />
+		<!-- Agathion - Capricorn -->
+		<production count="1" id="28783" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="400" id="27659" />
+	        <ingredient count="1" id="28783" />
+		<!-- Agathion - Capricorn -->
+		<production count="1" id="28784" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="27659" />
+	        <ingredient count="1" id="28784" />
+		<!-- Agathion - Capricorn -->
+		<production count="1" id="28785" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="600" id="27659" />
+	        <ingredient count="1" id="28785" />
+		<!-- Agathion - Capricorn -->
+		<production count="1" id="28786" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="700" id="27659" />
+	        <ingredient count="1" id="28786" />
+		<!-- Agathion - Capricorn -->
+		<production count="1" id="28787" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="27659" />
+	        <ingredient count="1" id="28787" />
+		<!-- Agathion - Capricorn -->
+		<production count="1" id="28788" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="900" id="27659" />
+	        <ingredient count="1" id="28788" />
+		<!-- Agathion - Capricorn -->
+		<production count="1" id="28789" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="27659" />
+	        <ingredient count="1" id="28789" />
+		<!-- Agathion - Capricorn -->
+		<production count="1" id="28790" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1100" id="27659" />
+	        <ingredient count="1" id="28790" />
+		<!-- Agathion - Capricorn -->
+		<production count="1" id="28791" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1200" id="27659" />
+	        <ingredient count="1" id="28791" />
+		<!-- Agathion - Capricorn -->
+		<production count="1" id="28792" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+	        <ingredient count="1" id="24024" />
+		<!-- Agathion - Libra -->
+		<production count="1" id="28793" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="200" id="27659" />
+	        <ingredient count="1" id="28793" />
+		<!-- Agathion - Libra -->
+		<production count="1" id="28794" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+	        <ingredient count="1" id="28794" />
+		<!-- Agathion - Libra -->
+		<production count="1" id="28795" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="400" id="27659" />
+	        <ingredient count="1" id="28795" />
+		<!-- Agathion - Libra -->
+		<production count="1" id="28796" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="27659" />
+	        <ingredient count="1" id="28796" />
+		<!-- Agathion - Libra -->
+		<production count="1" id="28797" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="600" id="27659" />
+	        <ingredient count="1" id="28797" />
+		<!-- Agathion - Libra -->
+		<production count="1" id="28798" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="700" id="27659" />
+	        <ingredient count="1" id="28798" />
+		<!-- Agathion - Libra -->
+		<production count="1" id="28799" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="27659" />
+	        <ingredient count="1" id="28799" />
+		<!-- Agathion - Libra -->
+		<production count="1" id="28800" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="900" id="27659" />
+	        <ingredient count="1" id="28800" />
+		<!-- Agathion - Libra -->
+		<production count="1" id="28801" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="27659" />
+	        <ingredient count="1" id="28801" />
+		<!-- Agathion - Libra -->
+		<production count="1" id="28802" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1100" id="27659" />
+	        <ingredient count="1" id="28802" />
+		<!-- Agathion - Libra -->
+		<production count="1" id="28803" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1200" id="27659" />
+	        <ingredient count="1" id="28803" />
+		<!-- Agathion - Libra -->
+		<production count="1" id="28804" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+	        <ingredient count="1" id="24036" />
+		<!-- Agathion - Aries -->
+		<production count="1" id="28805" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="200" id="27659" />
+	        <ingredient count="1" id="28805" />
+		<!-- Agathion - Aries -->
+		<production count="1" id="28806" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+	        <ingredient count="1" id="28806" />
+		<!-- Agathion - Aries -->
+		<production count="1" id="28807" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="400" id="27659" />
+	        <ingredient count="1" id="28807" />
+		<!-- Agathion - Aries -->
+		<production count="1" id="28808" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="27659" />
+	        <ingredient count="1" id="28808" />
+		<!-- Agathion - Aries -->
+		<production count="1" id="28809" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="600" id="27659" />
+	        <ingredient count="1" id="28809" />
+		<!-- Agathion - Aries -->
+		<production count="1" id="28810" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="700" id="27659" />
+	        <ingredient count="1" id="28810" />
+		<!-- Agathion - Aries -->
+		<production count="1" id="28811" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="27659" />
+	        <ingredient count="1" id="28811" />
+		<!-- Agathion - Aries -->
+		<production count="1" id="28812" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="900" id="27659" />
+	        <ingredient count="1" id="28812" />
+		<!-- Agathion - Aries -->
+		<production count="1" id="28813" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="27659" />
+	        <ingredient count="1" id="28813" />
+		<!-- Agathion - Aries -->
+		<production count="1" id="28814" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1100" id="27659" />
+	        <ingredient count="1" id="28814" />
+		<!-- Agathion - Aries -->
+		<production count="1" id="28815" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1200" id="27659" />
+	        <ingredient count="1" id="28815" />
+		<!-- Agathion - Aries -->
+		<production count="1" id="28816" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+	        <ingredient count="1" id="24048" />
+		<!-- Agathion - Taurus -->
+		<production count="1" id="28817" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="200" id="27659" />
+	        <ingredient count="1" id="28817" />
+		<!-- Agathion - Taurus -->
+		<production count="1" id="28818" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+	        <ingredient count="1" id="28818" />
+		<!-- Agathion - Taurus -->
+		<production count="1" id="28819" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="400" id="27659" />
+	        <ingredient count="1" id="28819" />
+		<!-- Agathion - Taurus -->
+		<production count="1" id="28820" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="27659" />
+	        <ingredient count="1" id="28820" />
+		<!-- Agathion - Taurus -->
+		<production count="1" id="28821" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="600" id="27659" />
+	        <ingredient count="1" id="28821" />
+		<!-- Agathion - Taurus -->
+		<production count="1" id="28822" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="700" id="27659" />
+	        <ingredient count="1" id="28822" />
+		<!-- Agathion - Taurus -->
+		<production count="1" id="28823" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="27659" />
+	        <ingredient count="1" id="28823" />
+		<!-- Agathion - Taurus -->
+		<production count="1" id="28824" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="900" id="27659" />
+	        <ingredient count="1" id="28824" />
+		<!-- Agathion - Taurus -->
+		<production count="1" id="28825" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="27659" />
+	        <ingredient count="1" id="28825" />
+		<!-- Agathion - Taurus -->
+		<production count="1" id="28826" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1100" id="27659" />
+	        <ingredient count="1" id="28826" />
+		<!-- Agathion - Taurus -->
+		<production count="1" id="28827" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1200" id="27659" />
+	        <ingredient count="1" id="28827" />
+		<!-- Agathion - Taurus -->
+		<production count="1" id="28828" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+	        <ingredient count="1" id="24060" />
+		<!-- Agathion - Leo -->
+		<production count="1" id="28829" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="200" id="27659" />
+	        <ingredient count="1" id="28829" />
+		<!-- Agathion - Leo -->
+		<production count="1" id="28830" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+	        <ingredient count="1" id="28830" />
+		<!-- Agathion - Leo -->
+		<production count="1" id="28831" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="400" id="27659" />
+	        <ingredient count="1" id="28831" />
+		<!-- Agathion - Leo -->
+		<production count="1" id="28832" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="27659" />
+	        <ingredient count="1" id="28832" />
+		<!-- Agathion - Leo -->
+		<production count="1" id="28833" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="600" id="27659" />
+	        <ingredient count="1" id="28833" />
+		<!-- Agathion - Leo -->
+		<production count="1" id="28834" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="700" id="27659" />
+	        <ingredient count="1" id="28834" />
+		<!-- Agathion - Leo -->
+		<production count="1" id="28835" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="27659" />
+	        <ingredient count="1" id="28835" />
+		<!-- Agathion - Leo -->
+		<production count="1" id="28836" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="900" id="27659" />
+	        <ingredient count="1" id="28836" />
+		<!-- Agathion - Leo -->
+		<production count="1" id="28837" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="27659" />
+	        <ingredient count="1" id="28837" />
+		<!-- Agathion - Leo -->
+		<production count="1" id="28838" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1100" id="27659" />
+	        <ingredient count="1" id="28838" />
+		<!-- Agathion - Leo -->
+		<production count="1" id="28839" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1200" id="27659" />
+	        <ingredient count="1" id="28839" />
+		<!-- Agathion - Leo -->
+		<production count="1" id="28840" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+	        <ingredient count="1" id="24072" />
+		<!-- Agathion - Gemini -->
+		<production count="1" id="28841" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="200" id="27659" />
+	        <ingredient count="1" id="28841" />
+		<!-- Agathion - Gemini -->
+		<production count="1" id="28842" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+	        <ingredient count="1" id="28842" />
+		<!-- Agathion - Gemini -->
+		<production count="1" id="28843" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="400" id="27659" />
+	        <ingredient count="1" id="28843" />
+		<!-- Agathion - Gemini -->
+		<production count="1" id="28844" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="27659" />
+	        <ingredient count="1" id="28844" />
+		<!-- Agathion - Gemini -->
+		<production count="1" id="28845" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="600" id="27659" />
+	        <ingredient count="1" id="28845" />
+		<!-- Agathion - Gemini -->
+		<production count="1" id="28846" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="700" id="27659" />
+	        <ingredient count="1" id="28846" />
+		<!-- Agathion - Gemini -->
+		<production count="1" id="28847" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="27659" />
+	        <ingredient count="1" id="28847" />
+		<!-- Agathion - Gemini -->
+		<production count="1" id="28848" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="900" id="27659" />
+	        <ingredient count="1" id="28848" />
+		<!-- Agathion - Gemini -->
+		<production count="1" id="28849" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="27659" />
+	        <ingredient count="1" id="28849" />
+		<!-- Agathion - Gemini -->
+		<production count="1" id="28850" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1100" id="27659" />
+	        <ingredient count="1" id="28850" />
+		<!-- Agathion - Gemini -->
+		<production count="1" id="28851" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1200" id="27659" />
+	        <ingredient count="1" id="28851" />
+		<!-- Agathion - Gemini -->
+		<production count="1" id="28852" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+	        <ingredient count="1" id="24084" />
+		<!-- Agathion - Scorpio -->
+		<production count="1" id="28853" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="200" id="27659" />
+	        <ingredient count="1" id="28853" />
+		<!-- Agathion - Scorpio -->
+		<production count="1" id="28854" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+	        <ingredient count="1" id="28854" />
+		<!-- Agathion - Scorpio -->
+		<production count="1" id="28855" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="400" id="27659" />
+	        <ingredient count="1" id="28855" />
+		<!-- Agathion - Scorpio -->
+		<production count="1" id="28856" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="27659" />
+	        <ingredient count="1" id="28856" />
+		<!-- Agathion - Scorpio -->
+		<production count="1" id="28857" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="600" id="27659" />
+	        <ingredient count="1" id="28857" />
+		<!-- Agathion - Scorpio -->
+		<production count="1" id="28858" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="700" id="27659" />
+	        <ingredient count="1" id="28858" />
+		<!-- Agathion - Scorpio -->
+		<production count="1" id="28859" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="27659" />
+	        <ingredient count="1" id="28859" />
+		<!-- Agathion - Scorpio -->
+		<production count="1" id="28860" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="900" id="27659" />
+	        <ingredient count="1" id="28860" />
+		<!-- Agathion - Scorpio -->
+		<production count="1" id="28861" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="27659" />
+	        <ingredient count="1" id="28861" />
+		<!-- Agathion - Scorpio -->
+		<production count="1" id="28862" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1100" id="27659" />
+	        <ingredient count="1" id="28862" />
+		<!-- Agathion - Scorpio -->
+		<production count="1" id="28863" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1200" id="27659" />
+	        <ingredient count="1" id="28863" />
+		<!-- Agathion - Scorpio -->
+		<production count="1" id="28864" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+	        <ingredient count="1" id="24096" />
+		<!-- Agathion - Aquarius -->
+		<production count="1" id="28865" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="200" id="27659" />
+	        <ingredient count="1" id="28865" />
+		<!-- Agathion - Aquarius -->
+		<production count="1" id="28866" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+	        <ingredient count="1" id="28866" />
+		<!-- Agathion - Aquarius -->
+		<production count="1" id="28867" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="400" id="27659" />
+	        <ingredient count="1" id="28867" />
+		<!-- Agathion - Aquarius -->
+		<production count="1" id="28868" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="27659" />
+	        <ingredient count="1" id="28868" />
+		<!-- Agathion - Aquarius -->
+		<production count="1" id="28869" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="600" id="27659" />
+	        <ingredient count="1" id="28869" />
+		<!-- Agathion - Aquarius -->
+		<production count="1" id="28870" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="700" id="27659" />
+	        <ingredient count="1" id="28870" />
+		<!-- Agathion - Aquarius -->
+		<production count="1" id="28871" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="27659" />
+	        <ingredient count="1" id="28871" />
+		<!-- Agathion - Aquarius -->
+		<production count="1" id="28872" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="900" id="27659" />
+	        <ingredient count="1" id="28872" />
+		<!-- Agathion - Aquarius -->
+		<production count="1" id="28873" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="27659" />
+	        <ingredient count="1" id="28873" />
+		<!-- Agathion - Aquarius -->
+		<production count="1" id="28874" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1100" id="27659" />
+	        <ingredient count="1" id="28874" />
+		<!-- Agathion - Aquarius -->
+		<production count="1" id="28875" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1200" id="27659" />
+	        <ingredient count="1" id="28875" />
+		<!-- Agathion - Aquarius -->
+		<production count="1" id="28876" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+	        <ingredient count="1" id="24108" />
+		<!-- Agathion - Pisces -->
+		<production count="1" id="28877" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="200" id="27659" />
+	        <ingredient count="1" id="28877" />
+		<!-- Agathion - Pisces -->
+		<production count="1" id="28878" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+	        <ingredient count="1" id="28878" />
+		<!-- Agathion - Pisces -->
+		<production count="1" id="28879" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="400" id="27659" />
+	        <ingredient count="1" id="28879" />
+		<!-- Agathion - Pisces -->
+		<production count="1" id="28880" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="27659" />
+	        <ingredient count="1" id="28880" />
+		<!-- Agathion - Pisces -->
+		<production count="1" id="28881" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="600" id="27659" />
+	        <ingredient count="1" id="28881" />
+		<!-- Agathion - Pisces -->
+		<production count="1" id="28882" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="700" id="27659" />
+	        <ingredient count="1" id="28882" />
+		<!-- Agathion - Pisces -->
+		<production count="1" id="28883" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="27659" />
+	        <ingredient count="1" id="28883" />
+		<!-- Agathion - Pisces -->
+		<production count="1" id="28884" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="900" id="27659" />
+	        <ingredient count="1" id="28884" />
+		<!-- Agathion - Pisces -->
+		<production count="1" id="28885" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="27659" />
+	        <ingredient count="1" id="28885" />
+		<!-- Agathion - Pisces -->
+		<production count="1" id="28886" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1100" id="27659" />
+	        <ingredient count="1" id="28886" />
+		<!-- Agathion - Pisces -->
+		<production count="1" id="28887" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1200" id="27659" />
+	        <ingredient count="1" id="28887" />
+		<!-- Agathion - Pisces -->
+		<production count="1" id="28888" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+	        <ingredient count="1" id="24120" />
+		<!-- Agathion - Sagittarius -->
+		<production count="1" id="28889" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="200" id="27659" />
+	        <ingredient count="1" id="28889" />
+		<!-- Agathion - Sagittarius -->
+		<production count="1" id="28890" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+	        <ingredient count="1" id="28890" />
+		<!-- Agathion - Sagittarius -->
+		<production count="1" id="28891" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="400" id="27659" />
+	        <ingredient count="1" id="28891" />
+		<!-- Agathion - Sagittarius -->
+		<production count="1" id="28892" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="27659" />
+	        <ingredient count="1" id="28892" />
+		<!-- Agathion - Sagittarius -->
+		<production count="1" id="28893" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="600" id="27659" />
+	        <ingredient count="1" id="28893" />
+		<!-- Agathion - Sagittarius -->
+		<production count="1" id="28894" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="700" id="27659" />
+	        <ingredient count="1" id="28894" />
+		<!-- Agathion - Sagittarius -->
+		<production count="1" id="28895" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="27659" />
+	        <ingredient count="1" id="28895" />
+		<!-- Agathion - Sagittarius -->
+		<production count="1" id="28896" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="900" id="27659" />
+	        <ingredient count="1" id="28896" />
+		<!-- Agathion - Sagittarius -->
+		<production count="1" id="28897" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="27659" />
+	        <ingredient count="1" id="28897" />
+		<!-- Agathion - Sagittarius -->
+		<production count="1" id="28898" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1100" id="27659" />
+	        <ingredient count="1" id="28898" />
+		<!-- Agathion - Sagittarius -->
+		<production count="1" id="28899" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1200" id="27659" />
+	        <ingredient count="1" id="28899" />
+		<!-- Agathion - Sagittarius -->
+		<production count="1" id="28900" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="100" id="27659" />
+	        <ingredient count="1" id="24132" />
+		<!-- Agathion - Cancer -->
+		<production count="1" id="28901" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="200" id="27659" />
+	        <ingredient count="1" id="28901" />
+		<!-- Agathion - Cancer -->
+		<production count="1" id="28902" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="300" id="27659" />
+	        <ingredient count="1" id="28902" />
+		<!-- Agathion - Cancer -->
+		<production count="1" id="28903" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="400" id="27659" />
+	        <ingredient count="1" id="28903" />
+		<!-- Agathion - Cancer -->
+		<production count="1" id="28904" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="500" id="27659" />
+	        <ingredient count="1" id="28904" />
+		<!-- Agathion - Cancer -->
+		<production count="1" id="28905" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="600" id="27659" />
+	        <ingredient count="1" id="28905" />
+		<!-- Agathion - Cancer -->
+		<production count="1" id="28906" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="700" id="27659" />
+	        <ingredient count="1" id="28906" />
+		<!-- Agathion - Cancer -->
+		<production count="1" id="28907" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="800" id="27659" />
+	        <ingredient count="1" id="28907" />
+		<!-- Agathion - Cancer -->
+		<production count="1" id="28908" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="900" id="27659" />
+	        <ingredient count="1" id="28908" />
+		<!-- Agathion - Cancer -->
+		<production count="1" id="28909" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1000" id="27659" />
+	        <ingredient count="1" id="28909" />
+		<!-- Agathion - Cancer -->
+		<production count="1" id="28910" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1100" id="27659" />
+	        <ingredient count="1" id="28910" />
+		<!-- Agathion - Cancer -->
+		<production count="1" id="28911" />
+	</item>
+	<item>
+		<!-- Coin of Luck -->
+	        <ingredient count="1200" id="27659" />
+	        <ingredient count="1" id="28911" />
+		<!-- Agathion - Cancer -->
+		<production count="1" id="28912" />
+	</item>
+</list>

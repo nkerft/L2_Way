@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="AetherDropData.xsd">
+	<npc id="22935" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Weiss Khan -->
+	<npc id="22936" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Weiss Ele -->
+	<npc id="22943" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Demonic Weiss Khan -->
+	<npc id="22944" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Demonic Weiss Ele -->
+	<npc id="22931" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Krakia Bathus -->
+	<npc id="22934" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Rakzan -->
+	<npc id="22937" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Bamonti -->
+	<npc id="22939" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Demonic Bathus -->
+	<npc id="22942" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Demonic Rakzan -->
+	<npc id="22945" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Demonic Bamonti -->
+	<npc id="22933" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Krakia Lotus -->
+	<npc id="22941" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Demonic Lotus -->
+	<npc id="23349" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Noctum -->
+	<npc id="23350" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Demonic Noctum -->
+	<npc id="22863" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fairy Warrior -->
+	<npc id="22871" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fairy Rogue -->
+	<npc id="22879" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fairy Avenger -->
+	<npc id="22895" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Satyr Summoner -->
+	<npc id="22903" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Satyr Witch -->
+	<npc id="23033" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Failed Creation -->
+	<npc id="23034" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Failed Creation -->
+	<npc id="23035" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Failed Creation -->
+	<npc id="23036" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Failed Creation -->
+	<npc id="23037" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Failed Creation -->
+	<npc id="22750" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Elite Bgurent -->
+	<npc id="22751" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Elite Brakian -->
+	<npc id="22752" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Elite Groikan -->
+	<npc id="22753" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Elite Treykan -->
+	<npc id="22757" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Elite Turtlelian -->
+	<npc id="22758" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Elite Krajian -->
+	<npc id="22759" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Elite Tardyon -->
+	<npc id="22763" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Elite Kanibi -->
+	<npc id="22764" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Elite Kiriona -->
+	<npc id="22765" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Elite Kaiona -->
+	<npc id="22865" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fairy Warrior -->
+	<npc id="22873" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fairy Rogue -->
+	<npc id="22881" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fairy Avenger -->
+	<npc id="22889" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Satyr Mage -->
+	<npc id="22897" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Satyr Summoner -->
+	<npc id="22905" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Satyr Witch -->
+	<npc id="23041" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Pan Direm -->
+	<npc id="18972" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Treekin Defender -->
+	<npc id="18974" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Centaur Archer -->
+	<npc id="23763" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fairy Avenger -->
+	<npc id="23765" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fairy Rogue -->
+	<npc id="23767" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fairy Warrior -->
+	<npc id="23769" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Satyr Summoner -->
+	<npc id="23771" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Satyr Witch -->
+	<npc id="23773" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Satyr Mage -->
+	<npc id="18973" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Treekin Defender -->
+	<npc id="18975" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Centaur Archer -->
+	<npc id="22965" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Novice Phantom -->
+	<npc id="22966" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Novice Phantom Wizard -->
+	<npc id="22967" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Veteran Phantom Swordsman -->
+	<npc id="18977" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Beorning Berserker -->
+	<npc id="22969" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Wraith Guardian -->
+	<npc id="22970" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Wraith Warrior -->
+	<npc id="23263" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Broken Service Golem -->
+	<npc id="22968" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Veteran Praetorian Swordsman -->
+	<npc id="23250" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Spicula 5 -->
+	<npc id="23251" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Spicula 6 -->
+	<npc id="23255" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Light Golem -->
+	<npc id="23264" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Broken Drill Golem -->
+	<npc id="23267" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Screw Golem -->
+	<npc id="22911" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Victim -->
+	<npc id="22914" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Guardian -->
+	<npc id="22917" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Thrower -->
+	<npc id="22921" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Curator -->
+	<npc id="23248" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Spicula 3 -->
+	<npc id="23249" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Spicula 4 -->
+	<npc id="23257" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Twosword Golem -->
+	<npc id="23266" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Broken Pincer Golem -->
+	<npc id="23276" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Chief Scout -->
+	<npc id="23301" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Laido Destruction Golem -->
+	<npc id="22912" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Victim -->
+	<npc id="22915" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Guardian -->
+	<npc id="22918" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Thrower -->
+	<npc id="22922" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Curator -->
+	<npc id="22924" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Ancient Hero -->
+	<npc id="22926" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Chief Curator -->
+	<npc id="23150" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Hellish Creature -->
+	<npc id="23151" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Shillien's Messenger -->
+	<npc id="23259" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Broken Golem -->
+	<npc id="23261" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Control Golem -->
+	<npc id="23275" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Spicula Captain -->
+	<npc id="23304" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Spicula Larva -->
+	<npc id="24129" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Spicula Guard Leader -->
+	<npc id="22913" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Victim -->
+	<npc id="22916" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Guardian -->
+	<npc id="22919" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Thrower -->
+	<npc id="22923" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Curator -->
+	<npc id="22925" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Ancient Hero -->
+	<npc id="22927" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orbis' Chief Curator -->
+	<npc id="23755" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Wandering Dead of the Dimension -->
+	<npc id="23757" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lost Soul of the Dimension -->
+	<npc id="23759" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Roaming Vengeance of the Dimension -->
+	<npc id="22139" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Old Aristocrat's Soldier -->
+	<npc id="22140" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Resurrected Worker -->
+	<npc id="22141" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Forgotten Sacrifice -->
+	<npc id="22142" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Layperson -->
+	<npc id="22143" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Believer -->
+	<npc id="22144" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Resurrected Temple Knight -->
+	<npc id="22145" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ritual Sacrifice -->
+	<npc id="23277" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ritual Offering -->
+	<npc id="23278" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Layperson -->
+	<npc id="23314" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nerva Orc Raider -->
+	<npc id="23315" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nerva Orc Archer -->
+	<npc id="23317" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nerva Orc Wizard -->
+	<npc id="23761" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Dimension Dissolver -->
+	<npc id="19270" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lesser Zahak -->
+	<npc id="22146" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Priest -->
+	<npc id="22147" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ritual Offering -->
+	<npc id="22148" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Believer -->
+	<npc id="22149" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ritual Offering -->
+	<npc id="22150" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Believer -->
+	<npc id="22151" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Priest -->
+	<npc id="22152" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple Guardian -->
+	<npc id="22153" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple's Guard Captain -->
+	<npc id="22154" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ritual Sacrifice -->
+	<npc id="22155" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's High Priest -->
+	<npc id="22156" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Priest -->
+	<npc id="22157" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Priest -->
+	<npc id="22158" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Believer -->
+	<npc id="22159" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's High Priest -->
+	<npc id="22160" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Priest -->
+	<npc id="22161" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ritual Sacrifice -->
+	<npc id="22162" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Believer -->
+	<npc id="22163" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's High Priest -->
+	<npc id="22164" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Believer -->
+	<npc id="22165" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Priest -->
+	<npc id="22166" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Believer -->
+	<npc id="22167" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's High Priest -->
+	<npc id="22168" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Priest -->
+	<npc id="22169" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ritual Sacrifice -->
+	<npc id="22170" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Believer -->
+	<npc id="22171" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's High Priest -->
+	<npc id="22172" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ritual Sacrifice -->
+	<npc id="22173" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Priest -->
+	<npc id="22174" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Priest -->
+	<npc id="22175" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Andreas' Prefect -->
+	<npc id="22176" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Andreas' Praetorian -->
+	<npc id="22188" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Andreas' Prefect -->
+	<npc id="22189" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Andreas' Praetorian -->
+	<npc id="22190" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ritual Sacrifice -->
+	<npc id="23279" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Priest -->
+	<npc id="23280" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple Guardian -->
+	<npc id="23281" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple's Guard Captain -->
+	<npc id="23282" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ritual Offering -->
+	<npc id="23283" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Triol's Believer -->
+	<npc id="23284" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ritual Sacrifice -->
+	<npc id="23316" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nerva Orc Seeress -->
+	<npc id="23318" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nerva Orc Assassin -->
+	<npc id="23320" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nerva Orc Merchant -->
+	<npc id="23321" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nerva Orc Warrior  -->
+	<npc id="23322" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nerva Orc Prefect -->
+	<npc id="23323" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nerva Orc Elite -->
+	<npc id="23324" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Captain -->
+	<npc id="23727" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Shaqrima Bathus -->
+	<npc id="23728" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Shaqrima Krakos -->
+	<npc id="23729" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Shaqrima Kshana -->
+	<npc id="23733" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Degraded Lesser Giant Warrior -->
+	<npc id="23734" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Degraded Lesser Giant Wizard -->
+	<npc id="23735" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Captive Familiar Spirit -->
+	<npc id="23736" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Captive Hell Demon -->
+	<npc id="23737" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Captive Succubus -->
+	<npc id="23738" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Captive Phantom -->
+	<npc id="23748" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Degraded Lesser Giant Soldier -->
+	<npc id="23749" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Root of the Lesser Giant -->
+	<npc id="23750" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Shaqrima Lucas -->
+	<npc id="23754" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Giant Aggregation -->
+	<npc id="23505" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fortress Raider -->
+	<npc id="23506" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fortress' Chief Guardian -->
+	<npc id="23507" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Atelia Passionate Soldier -->
+	<npc id="23508" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Atelia Elite Captain -->
+	<npc id="23589" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fortress Investigator -->
+	<npc id="23730" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Om Bathus -->
+	<npc id="23731" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Om Krakos -->
+	<npc id="23732" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Om Kshana -->
+	<npc id="23739" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Marka -->
+	<npc id="23740" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Schlien -->
+	<npc id="23741" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Berimah -->
+	<npc id="23742" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Naia Bathus -->
+	<npc id="23743" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Naia Krakos -->
+	<npc id="23744" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Naia Kshana -->
+	<npc id="23746" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Evolving Lesser Giant Warrior -->
+	<npc id="23747" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Evolving Lesser Giant Wizard -->
+	<npc id="23801" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lillim's Troop Knight -->
+	<npc id="23802" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lilim's Slayer -->
+	<npc id="23803" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Gigantic Healer -->
+	<npc id="23804" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lillim's Great Magus -->
+	<npc id="23805" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nephilim Guardsman -->
+	<npc id="24577" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Black Hammer Artisan -->
+	<npc id="24578" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Black Hammer Collector -->
+	<npc id="24579" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Black Hammer Defender -->
+	<npc id="23354" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Decay Hannibal -->
+	<npc id="23355" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Armor Beast -->
+	<npc id="23356" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Klein Soldier -->
+	<npc id="23357" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Disorder Warrior -->
+	<npc id="23360" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Bizuard -->
+	<npc id="23361" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Mutated Fly -->
+	<npc id="23462" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Dimensional Orc Butcher -->
+	<npc id="23463" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Dimensional Orc Hunter -->
+	<npc id="23464" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Dimensional Shaman -->
+	<npc id="23465" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Dimensional Bugbear -->
+	<npc id="23467" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Dimensional Binder -->
+	<npc id="23468" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Dimensional Demon -->
+	<npc id="23469" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Dimensional Archon -->
+	<npc id="23509" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fortress Dark Wizard -->
+	<npc id="23510" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fortress Flame Master -->
+	<npc id="23511" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fortress Archon -->
+	<npc id="23512" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Atelia High Priest -->
+	<npc id="23537" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Atelia Elite Captain -->
+	<npc id="23541" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Kerberos Liger -->
+	<npc id="23543" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Kerberos Nero -->
+	<npc id="23550" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Kerberos Liger -->
+	<npc id="23552" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Kerberos Nero -->
+	<npc id="23774" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Delta Bathus -->
+	<npc id="23775" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Delta Krakos -->
+	<npc id="23776" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Delta Kshana -->
+	<npc id="23798" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Delta Bathus -->
+	<npc id="23799" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Delta Krakos -->
+	<npc id="23800" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Delta Kshana -->
+	<npc id="23811" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Cantera Tanya -->
+	<npc id="23812" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Cantera Deathmoz -->
+	<npc id="23813" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Cantera Floxis -->
+	<npc id="23814" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Cantera Belika -->
+	<npc id="23815" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Cantera Bridget -->
+	<npc id="23470" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Unworldly Demon -->
+	<npc id="23471" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Unworldly Etin -->
+	<npc id="23472" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Unworldly Shaman -->
+	<npc id="23474" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Unworldly Golem -->
+	<npc id="23475" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Unworldly Archon -->
+	<npc id="23476" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Unworldly Harpy -->
+	<npc id="23538" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Atelia High Priest -->
+	<npc id="23542" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Kerberos Fort -->
+	<npc id="23544" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fury Sylph Barrena -->
+	<npc id="23546" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fury Sylph Temptress -->
+	<npc id="23547" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fury Sylph Purka -->
+	<npc id="23551" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Kerberos Fort -->
+	<npc id="23553" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fury Sylph Barrena -->
+	<npc id="23555" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fury Sylph Temptress -->
+	<npc id="23556" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fury Sylph Purka -->
+	<npc id="23561" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Harpe -->
+	<npc id="23562" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Harpe -->
+	<npc id="23777" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Royal Templar -->
+	<npc id="23778" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Royal Shooter -->
+	<npc id="23779" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Royal Wizard -->
+	<npc id="23780" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Royal Templar Colonel -->
+	<npc id="23781" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Royal Sharpshooter -->
+	<npc id="23782" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Royal Archmage -->
+	<npc id="23477" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Abyssal Shaman -->
+	<npc id="23478" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Abyssal Berserker -->
+	<npc id="23480" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Abyssal Harpy -->
+	<npc id="23481" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Abyssal Binder -->
+	<npc id="23482" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Abyssal Archon -->
+	<npc id="23483" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Abyssal Golem -->
+	<npc id="23566" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nymph Rose -->
+	<npc id="23567" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nymph Rose -->
+	<npc id="23568" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nymph Lily -->
+	<npc id="23569" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nymph Lily -->
+	<npc id="23570" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nymph Tulip -->
+	<npc id="23571" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nymph Tulip -->
+	<npc id="23572" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nymph Cosmos -->
+	<npc id="23573" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nymph Cosmos -->
+	<npc id="23578" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nymph Guardian -->
+	<npc id="23581" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Apherus -->
+	<npc id="24144" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Death Rogue -->
+	<npc id="24145" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Death Shooter -->
+	<npc id="24149" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Devil Nightmare -->
+	<npc id="24150" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Demon Warrior -->
+	<npc id="24154" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Demonic Wizard -->
+	<npc id="24155" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Demonic Warrior -->
+	<npc id="24159" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Atelia Yuyurina -->
+	<npc id="24511" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lunatikan -->
+	<npc id="24512" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Garion Neti -->
+	<npc id="24513" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Desert Wendigo -->
+	<npc id="24514" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Koraza -->
+	<npc id="24515" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Kandiloth -->
+	<npc id="24100" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Netherworld Butcher -->
+	<npc id="24101" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Netherworld Mino -->
+	<npc id="24103" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Netherworld Shaman -->
+	<npc id="24105" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Netherworld Golem -->
+	<npc id="24106" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Netherworld Archon -->
+	<npc id="24107" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Netherworld Banshee -->
+	<npc id="24143" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Netherworld Archer -->
+	<npc id="24146" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Death Warrior -->
+	<npc id="24147" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Death Sorcerer -->
+	<npc id="24148" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Death Pondus -->
+	<npc id="24151" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Devil Guardian -->
+	<npc id="24152" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Devil Sinist -->
+	<npc id="24153" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Devil Varos -->
+	<npc id="24156" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Demonic Archer -->
+	<npc id="24157" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Demonic Keras -->
+	<npc id="24158" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Demonic Weiss -->
+	<npc id="24160" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Atelia Popobena -->
+	<npc id="24161" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Harke -->
+	<npc id="24162" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ergalion -->
+	<npc id="24164" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple Raider -->
+	<npc id="24165" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Brave Temple Soldier -->
+	<npc id="24169" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Soul Reaper -->
+	<npc id="24170" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Blind Berserker -->
+	<npc id="24174" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Grand Temple's Dark Judge -->
+	<npc id="24176" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Grand Temple's Slayer -->
+	<npc id="24180" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple Raider -->
+	<npc id="24181" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Brave Temple Soldier -->
+	<npc id="24185" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Soul Reaper -->
+	<npc id="24186" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Blind Berserker -->
+	<npc id="24190" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Grand Temple's Dark Judge -->
+	<npc id="24192" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Grand Temple's Slayer -->
+	<npc id="24102" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Extraterrestrial Demon -->
+	<npc id="24108" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Extraterrestrial Berserker -->
+	<npc id="24109" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Extraterrestrial Shaman -->
+	<npc id="24111" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Extraterrestrial Golem -->
+	<npc id="24112" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Extraterrestrial Archon -->
+	<npc id="24113" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Extraterrestrial Banshee -->
+	<npc id="24114" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Extraterrestrial Binder -->
+	<npc id="24163" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Spira -->
+	<npc id="24166" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple Chief Guardian -->
+	<npc id="24167" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple Elite Captain -->
+	<npc id="24168" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Creed Guardian -->
+	<npc id="24171" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Soul Breaker -->
+	<npc id="24172" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Heretic Judge -->
+	<npc id="24175" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Grand Temple's Squad Leader -->
+	<npc id="24182" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple Chief Guardian -->
+	<npc id="24183" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple Elite Captain -->
+	<npc id="24184" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Creed Guardian -->
+	<npc id="24187" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Soul Breaker -->
+	<npc id="24188" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Heretic Judge -->
+	<npc id="24191" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Grand Temple's Squad Leader -->
+	<npc id="24196" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple Dark Wizard -->
+	<npc id="24197" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple Flame Master -->
+	<npc id="24421" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Stone Gargoyle -->
+	<npc id="24422" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Stone Golem -->
+	<npc id="24423" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Monster Eye -->
+	<npc id="24424" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Gargoyle Hunter -->
+	<npc id="24425" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Steel Golem -->
+	<npc id="24506" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Silence Witch -->
+	<npc id="24507" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Silence Prickle -->
+	<npc id="24508" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Silence Warrior -->
+	<npc id="24509" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Silence Slave -->
+	<npc id="24173" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Grand Temple's Siege Tank -->
+	<npc id="24177" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Paragon -->
+	<npc id="24178" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Camille -->
+	<npc id="24179" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Kain van Halter -->
+	<npc id="24189" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Grand Temple's Siege Tank -->
+	<npc id="24193" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Paragon -->
+	<npc id="24194" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Camille -->
+	<npc id="24195" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Kain van Halter -->
+	<npc id="24198" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple Archon -->
+	<npc id="24199" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Temple High Priest -->
+	<npc id="20936" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Tanor Silenos -->
+	<npc id="20937" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Tanor Silenos Soldier -->
+	<npc id="20938" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Tanor Silenos Scout -->
+	<npc id="20939" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Tanor Silenos Warrior -->
+	<npc id="20942" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Nightmare Guide -->
+	<npc id="20943" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Nightmare Watchman -->
+	<npc id="24373" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Young Caiman -->
+	<npc id="24376" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Nos Lad -->
+	<npc id="24377" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Swamp Beast -->
+	<npc id="24378" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Swamp Alligator -->
+	<npc id="24379" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Swamp Warrior -->
+	<npc id="24427" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fury Tier Nero -->
+	<npc id="24428" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fury Sylph Melan -->
+	<npc id="24429" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fury Sylph Album -->
+	<npc id="24430" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fury Harpy Schvar -->
+	<npc id="24431" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fury Harpe -->
+	<npc id="24432" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Fury Harpy Queen -->
+	<npc id="24436" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Deinonychus -->
+	<npc id="24437" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ornithomimus -->
+	<npc id="24438" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Velociraptor -->
+	<npc id="24439" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Pachycephalosaurus -->
+	<npc id="24440" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Pterosaur -->
+	<npc id="24441" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Tyrannosaurus -->
+	<npc id="24461" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Forest Ghost -->
+	<npc id="24462" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Bewildered Expedition Member -->
+	<npc id="24463" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Bewildered Patrol -->
+	<npc id="24464" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Bewildered Dwarf Adventurer -->
+	<npc id="24465" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Evil Forest Spirit -->
+	<npc id="24466" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Demonic Mirror -->
+	<npc id="24470" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Kamael Traitor -->
+	<npc id="24471" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Kamael Renegade -->
+	<npc id="24472" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Trained Monkey -->
+	<npc id="24473" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Dwarf Grave Robber -->
+	<npc id="24474" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Muertos Outlaw -->
+	<npc id="24475" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Orc Rogue -->
+	<npc id="24520" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Krotania -->
+	<npc id="24521" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Krophy -->
+	<npc id="24522" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Spiz Krophy -->
+	<npc id="24641" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Tel Mahum Wizard -->
+	<npc id="24642" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Tel Mahum Legionary -->
+	<npc id="24643" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Tel Mahum Footman -->
+	<npc id="24644" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Tel Mahum Lieutenant -->
+	<npc id="24304" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Groz Kropiora -->
+	<npc id="24305" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Groz Krotania -->
+	<npc id="24306" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Groz Krophy -->
+	<npc id="24307" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Groz Krotany -->
+	<npc id="24445" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Lizardman Rogue -->
+	<npc id="24446" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Island Guard -->
+	<npc id="24447" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Niasis -->
+	<npc id="24448" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Lizardman Archer -->
+	<npc id="24449" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Lizardman Soldier -->
+	<npc id="24450" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Lizardmen Wizard -->
+	<npc id="24631" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Ketra Orc Shaman -->
+	<npc id="24632" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Ketra Orc Foreteller -->
+	<npc id="24633" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Ketra Orc Warrior -->
+	<npc id="24634" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Ketra Orc Lieutenant -->
+	<npc id="24635" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Ketra Orc Battalion Commander -->
+	<npc id="27552" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Shastariad -->
+	<npc id="27553" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Fafurion's Special Squad Warrior -->
+	<npc id="27596" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Ketra Hero Hekaton -->
+	<npc id="24415" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Breka Orc Scout -->
+	<npc id="24416" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Breka Orc Scout Captain -->
+	<npc id="24492" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Sel Mahum Soldier -->
+	<npc id="24493" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Sel Mahum Squad Leader -->
+	<npc id="24494" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Sel Mahum Warrior -->
+	<npc id="24496" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Tanta Lizardman Warrior -->
+	<npc id="24497" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Tanta Lizardman Archer -->
+	<npc id="24498" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Tanta Lizardman Wizard -->
+	<npc id="24636" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Varka Silenos Magus -->
+	<npc id="24637" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Varka Silenos Shaman -->
+	<npc id="24638" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Varka Silenos Footman -->
+	<npc id="24639" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Varka Silenos Sergeant -->
+	<npc id="24640" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Varka Silenos Officer -->
+	<npc id="27600" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Varka Chief Horus -->
+	<npc id="23818" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nephilim Priest -->
+	<npc id="23819" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nephilim Watchman -->
+	<npc id="23820" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nephilim Swordsman -->
+	<npc id="23821" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Giant Fighter -->
+	<npc id="24837" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nerba Orc Mercenary -->
+	<npc id="24838" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Tel Mahum Rogue -->
+	<npc id="24839" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Wild Monkey -->
+	<npc id="24840" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Dwarf Archaeologist -->
+	<npc id="24841" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nerba Orc Shaman -->
+	<npc id="24842" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Tel Mahum Astrologer -->
+	<npc id="24914" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Vail Bane -->
+	<npc id="24915" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Vail Blank -->
+	<npc id="24916" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Vail Ferrita -->
+	<npc id="24917" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Silape Minen -->
+	<npc id="24918" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Silape Berun -->
+	<npc id="24919" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Eriel Kiris -->
+	<npc id="24920" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Deinonychus -->
+	<npc id="24921" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Velociraptor -->
+	<npc id="24922" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Pachycephalosaurus -->
+	<npc id="24923" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Pterosaur -->
+	<npc id="24924" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Taimo Beast -->
+	<npc id="24925" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Siren -->
+	<npc id="24486" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Dismal Oak -->
+	<npc id="24487" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Graveyard Predator -->
+	<npc id="24488" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Doom Archer -->
+	<npc id="24489" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Doom Scout -->
+	<npc id="24490" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Doom Trooper -->
+	<npc id="24606" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Captive Antelope -->
+	<npc id="24607" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Captive Bandersnatch -->
+	<npc id="24608" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Captive Buffalo -->
+	<npc id="24609" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Captive Grendel -->
+	<npc id="24610" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Eye of Watchman -->
+	<npc id="24611" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Elder Homunculus -->
+	<npc id="24621" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Laikel -->
+	<npc id="24622" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Harane -->
+	<npc id="24623" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Lesatanas -->
+	<npc id="24624" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Arbor -->
+	<npc id="24501" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Centaur Fighter -->
+	<npc id="24502" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Centaur Marksman -->
+	<npc id="24503" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Centaur Wizard -->
+	<npc id="24504" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Centaur Warlord -->
+	<npc id="24651" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Red Kookaburra -->
+	<npc id="24652" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Blue Kookaburra -->
+	<npc id="24653" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- White Cougar -->
+	<npc id="24654" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Cougar -->
+	<npc id="24655" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Black Buffalo -->
+	<npc id="24656" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- White Buffalo -->
+	<npc id="24657" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Grandel -->
+	<npc id="24658" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Black Grandel -->
+	<npc id="24843" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Royal Guardsman -->
+	<npc id="24844" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Royal Troop Chief -->
+	<npc id="24845" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Royal Field Officer -->
+	<npc id="24846" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Commander of Operations -->
+	<npc id="24847" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Elite Mage  -->
+	<npc id="24848" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Great Mage  -->
+	<npc id="27569" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Dark Messenger Afjak -->
+	<npc id="27570" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Dusk Knight Felinor -->
+	<npc id="27571" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Knight of Destruction Zeruel -->
+	<npc id="23822" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lilim's Magus -->
+	<npc id="23823" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lilim's Butcher -->
+	<npc id="23824" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lilim's Guardian -->
+	<npc id="23825" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lith Warrior -->
+	<npc id="24418" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Breka Orc Shaman -->
+	<npc id="24419" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Breka Orc Slaughterer -->
+	<npc id="24664" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Graveyard Death Lich -->
+	<npc id="24665" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Graveyard Death Berserker -->
+	<npc id="24666" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Graveyard Death Soldier -->
+	<npc id="24667" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Graveyard Death Knight -->
+	<npc id="24876" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Guide of Splendor -->
+	<npc id="24877" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Herald of Splendor -->
+	<npc id="24878" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Believer of Splendor -->
+	<npc id="24879" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Observer of Splendor -->
+	<npc id="24880" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Wiseman of Splendor -->
+	<npc id="24881" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Springs' Dwarf Hero -->
+	<npc id="24882" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Springs Scavenger -->
+	<npc id="24883" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Springs Dwarf Defender -->
+	<npc id="24884" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Springs Dwarf Berserker -->
+	<npc id="24885" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Springs Dwarf Priest -->
+	<npc id="24886" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Springs Yeti -->
+	<npc id="24939" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lot Orc Grave Robber -->
+	<npc id="24940" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Tawrus Grave Robber -->
+	<npc id="24941" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Loyal Monkey -->
+	<npc id="24942" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Dwarf Grave Robber Leader -->
+	<npc id="24943" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lot Orc Warlock -->
+	<npc id="24944" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Tawrus Shaman -->
+	<npc id="24945" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Pera Sida -->
+	<npc id="24946" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Pera Bellan -->
+	<npc id="24947" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Pera Brida -->
+	<npc id="24948" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Silaon Dana -->
+	<npc id="24949" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Silaon Belle -->
+	<npc id="24950" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Ekzita Hairon -->
+	<npc id="24951" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ornithomimus -->
+	<npc id="24952" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Velociraptor -->
+	<npc id="24953" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lavasillisk -->
+	<npc id="24954" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Wild Strider -->
+	<npc id="24955" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Taimo Beast -->
+	<npc id="24956" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lavasaurus -->
+	<npc id="27604" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Half-demon Orc Tabris -->
+	<npc id="27605" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Half-demon Orc Stelos -->
+	<npc id="27606" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Half-demon Orc Ravolas -->
+	<npc id="27607" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Half-demon Orc Soma -->
+	<npc id="27608" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Half-demon Orc Dephracor -->
+	<npc id="24669" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Dragon Officer -->
+	<npc id="24670" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Dragon Beast -->
+	<npc id="24671" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Dragon Centurion -->
+	<npc id="24672" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Elite Dragon Guard -->
+	<npc id="24930" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Black Demon Knight -->
+	<npc id="24931" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Black Demon Warrior -->
+	<npc id="24932" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Black Demon Scout -->
+	<npc id="24933" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Black Demon Wizard -->
+	<npc id="24934" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Frozen Soldier -->
+	<npc id="24935" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Frozen Defender -->
+	<npc id="24936" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Ice Knight -->
+	<npc id="24937" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Glacier Golem -->
+	<npc id="24938" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Ice Fairy -->
+	<npc id="27613" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Death Worm Pazrek -->
+	<npc id="24317" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Temple Guard Captain -->
+	<npc id="24318" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Temple Chief Guardian -->
+	<npc id="24321" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Temple Patrol Guard -->
+	<npc id="24322" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Temple Knight Recruit -->
+	<npc id="24323" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Temple Guard -->
+	<npc id="24324" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Temple Guardian Warrior -->
+	<npc id="24325" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Temple Wizard -->
+	<npc id="24326" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Temple Guardian Wizard -->
+	<npc id="24329" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Starving Water Dragon -->
+	<npc id="24961" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Sel Mahum Footman -->
+	<npc id="24962" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Sel Mahum Elite Soldier -->
+	<npc id="24963" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Sel Mahum Shaman -->
+	<npc id="24964" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Sel Mahum Wizard -->
+	<npc id="27617" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Fierce Water Dragon -->
+	<npc id="23826" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nephilim Bishop -->
+	<npc id="23827" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nephilim Guardsman -->
+	<npc id="23828" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Nephilim Commander -->
+	<npc id="23829" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Giant Follower -->
+	<npc id="24974" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Soul Fox Guard -->
+	<npc id="24975" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Soul Fox Mercenary -->
+	<npc id="24976" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Evil Monkey -->
+	<npc id="24977" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Dwarf Naturalist -->
+	<npc id="24978" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Sel Mahum Warlock -->
+	<npc id="24979" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Kel Mahum Grave Robber -->
+	<npc id="24980" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Felka For -->
+	<npc id="24981" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Felka Harpe -->
+	<npc id="24982" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Kaimon Croa -->
+	<npc id="24983" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Kaimon Amis -->
+	<npc id="24984" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Liot Barrena -->
+	<npc id="24985" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Furious Liot Kore -->
+	<npc id="24986" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Deinonychus -->
+	<npc id="24987" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Pachycephalosaurus -->
+	<npc id="24988" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Velociraptor -->
+	<npc id="24989" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Ornithomimus -->
+	<npc id="24990" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Taimo Beast -->
+	<npc id="24991" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Tyrannosaurus -->
+	<npc id="23834" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Langk Lizardman Commander -->
+	<npc id="23835" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Felim Lizardman Support Archer -->
+	<npc id="23836" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Felim Lizardman Reservist -->
+	<npc id="23837" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Maille Lizardman Reservist -->
+	<npc id="23838" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Maille Lizardman Support Shaman -->
+	<npc id="23839" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Delu Lizardman Support Shaman -->
+	<npc id="24570" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Dire Stakato Drone -->
+	<npc id="24571" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Dire Stakato Berserker -->
+	<npc id="24572" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Dire Stakato Shaman -->
+	<npc id="24573" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Dire Stakato Witch -->
+	<npc id="24574" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Dire Stakato Preta -->
+	<npc id="24673" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Zombie Orc -->
+	<npc id="24674" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Zombie Dark Elf -->
+	<npc id="24675" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Zombie Dwarf -->
+	<npc id="24676" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Schnabel Stalker -->
+	<npc id="24677" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Henker Hacker -->
+	<npc id="24678" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Schnabel Doctor -->
+	<npc id="24679" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Henker Anatomist -->
+	<npc id="24965" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Creeper Rampike -->
+	<npc id="24966" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Fila Aprias -->
+	<npc id="24967" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Flush Teasle -->
+	<npc id="24968" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Treant Blossom -->
+	<npc id="24969" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Arsos Butterfly -->
+	<npc id="27587" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Harp's Clone -->
+	<npc id="27588" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Isadora's Clone -->
+	<npc id="27589" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Maliss' Clone -->
+	<npc id="27618" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Schnabel Sergeant -->
+	<npc id="27619" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Henker Sergeant -->
+	<npc id="27620" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Wailing Zombie -->
+	<npc id="24687" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Langk Lizardman Watchman -->
+	<npc id="24688" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Langk Lizardman Shaman -->
+	<npc id="24689" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Langk Lizardman Berserker -->
+	<npc id="24690" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Langk Lizardman Destroyer -->
+	<npc id="24691" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Tanta Lizardman Reservist -->
+	<npc id="24692" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Tanta Lizardman Support Shaman -->
+	<npc id="24693" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Langk Lizardman Defender -->
+	<npc id="24694" chance="0.12" min="1" max="1" minLevel="99" maxLevel="130" /> <!-- Langk Lizardman Guardian -->
+	<npc id="23830" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lillim's Great Magus -->
+	<npc id="23831" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lilim's Assassin -->
+	<npc id="23832" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Lillim's Troop Knight -->
+	<npc id="23833" chance="0.01" min="1" max="1" minLevel="85" maxLevel="130" /> <!-- Risha's Follower -->
+</list>

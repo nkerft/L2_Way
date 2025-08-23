@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Talisman -->
+		<production count="1" id="9914" />
+	</item>
+		<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Talisman -->
+		<production count="1" id="9915" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Talisman -->
+		<production count="1" id="9916" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Talisman -->
+		<production count="1" id="9919" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Talisman -->
+		<production count="1" id="9920" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Talisman -->
+		<production count="1" id="9921" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Talisman -->
+		<production count="1" id="9924" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Talisman -->
+		<production count="1" id="9926" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Talisman -->
+		<production count="1" id="9927" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Talisman -->
+		<production count="1" id="9929" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Talisman -->
+		<production count="1" id="9930" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Talisman -->
+		<production count="1" id="9932" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Sayha's Talisman - Stage 8 -->
+		<production count="1" id="9933" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Sayha's Talisman - Stage 9 -->
+		<production count="1" id="9934" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Sayha's Talisman - Stage 10 -->
+		<production count="1" id="9935" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- PA Talisman STR  -->
+		<production count="1" id="9936" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- PA Talisman INT  -->
+		<production count="1" id="9937" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- PA Talisman DEX  -->
+		<production count="1" id="9938" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- PA Talisman WIT  -->
+		<production count="1" id="9939" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- PA Talisman CON  -->
+		<production count="1" id="9940" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- PA Talisman MEN  -->
+		<production count="1" id="9941" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- PA Talisman STR  -->
+		<production count="1" id="9942" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Venir's Talisman Stage 1  -->
+		<production count="1" id="9943" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Venir's Talisman Stage 2  -->
+		<production count="1" id="9944" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Venir's Talisman Stage 3  -->
+		<production count="1" id="9945" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Venir's Talisman Stage 4  -->
+		<production count="1" id="9946" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Venir's Talisman Stage 5  -->
+		<production count="1" id="9947" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Venir's Talisman Stage 6  -->
+		<production count="1" id="9948" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100" id="47937" />
+		<!-- Venir's Talisman Stage 7  -->
+		<production count="1" id="9949" />
+	</item>
+
+
+</list>

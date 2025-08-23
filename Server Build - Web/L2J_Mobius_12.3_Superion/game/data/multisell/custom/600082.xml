@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<!-- Others -->
+
+	<!-- Shield and Sigils -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22680" />
+	</item> <!-- Emerald Weapon Appearance Stone: Shield -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22681" />
+	</item> <!-- Emerald Weapon Appearance Stone: Sigil -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22741" />
+	</item> <!-- Japanese Shield Appearance Stone -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22742" />
+	</item> <!-- Japanese Sigil Appearance Stone -->
+
+
+</list>

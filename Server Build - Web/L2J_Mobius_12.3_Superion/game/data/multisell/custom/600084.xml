@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc>
+	</npcs>
+
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22668" />
+	</item> <!-- Emerald Weapon Appearance Stone: Two-handed Sword -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="22729" />
+	</item> <!-- Japanese Long Sword Appearance Stone -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="23931" />
+	</item> <!-- Tears Two-handed Sword Appearance Stone -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37418" />
+	</item> <!-- Emerald Weapon Appearance Stone: Two-handed Sword) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="36650" />
+	</item> <!-- Emerald Weapon Appearance Stone: Two-handed Sword (15 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37402" />
+	</item> <!-- Emerald Weapon Appearance Stone: Two-handed Sword (30 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37834" />
+	</item> <!-- Valentine Appearance Stone: Two-handed Sword (15 days) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="37850" />
+	</item> <!-- Valentine Appearance Stone: Two-handed Sword (30 days) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="38191" />
+	</item> <!-- Shark Appearance Stone: Two-handed Sword (30 days ) -->
+	<item>
+	<!-- Adena -->
+	<ingredient count="100" id="27659" />
+	<production count="1" id="38202" />
+	</item> <!-- Shark Appearance Stone: Two-handed Sword -->
+
+</list>
