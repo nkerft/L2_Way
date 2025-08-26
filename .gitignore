@@ -1,0 +1,26 @@
+# Client assets and backups (не нужны на VPS)
+Client l2 - Lineage II - Superion/
+_backup/
+Server Build - Web/
+
+# Исходники и редакторские датапаки (на VPS не нужны)
+L2_PVP_SERVER/data/
+L2_PVP_SERVER/java/
+L2_PVP_SERVER/scripts/
+L2_PVP_SERVER/ant/
+L2_PVP_SERVER/launcher/
+
+# Временные файлы, логи и сборочные артефакты
+**/log/
+**/*.log
+**/*.lck
+**/compiled_scripts/
+**/obj/
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
